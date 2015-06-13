@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+
+  <%= partial "layouts/head"  %>   
+
+  <body class="<%= page_classes %>">
+    <%= partial "layouts/menu"  %>   
+
+    <%= yield %>
+    
+    <%= partial "layouts/footer"  %>   
+  </body>
+
+ 
+</html>

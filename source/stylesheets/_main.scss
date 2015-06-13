@@ -1,0 +1,197 @@
+html {
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.footer {
+  padding-top: 10px;
+  background-color: #222;
+  color: #efefef;
+  font-size: 12px;
+}
+
+/* foto do autor */
+.autor {
+	width: 100px;
+	height: 100px;
+/*	border-radius: 75px;*/
+    margin: 20px auto;
+    border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(/images/autor.jpg) center no-repeat;
+    border: 3px solid rgb(51,122,183)
+}
+/* logotipo */
+.logotipo {
+	width: 100px;
+	height: 100px;
+/*	border-radius: 75px;*/
+    margin: 20px auto;
+    border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(/images/logo.svg) center no-repeat;
+    background-size: 80px 80px;  
+    border: 3px solid rgb(51,122,183)
+}
+    
+.container {
+    max-width: 960px;
+}
+.btn-lg {  
+  padding: 14px 20px;
+}
+/* Navigation */
+.navbar {
+  background-color: rgb(51,122,183);
+}
+.navbar a {
+  color: #d8e6f3;
+}
+.navbar a:hover {
+  color: #fff;
+}
+.nav>li>a:hover, 
+.nav>li>a:focus,
+.open>a, 
+.nav .open>a:hover, 
+.nav .open>a:focus,
+.dropdown-menu>li>a:hover, 
+.dropdown-menu>li>a:focus {
+  background-color: #204d74;
+  color: #fff;
+}
+
+/* index.html */
+.features .glyphicon {
+    font-size: 32px;
+}
+.navbar-toggle .icon-bar {
+  background-color: #c8e6f3;
+}
+@media only screen and (max-width: 768px) {
+  .dropdown-menu>li>a { 
+    color: #d8e6f3;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .navbar-brand {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .navbar-brand {
+    font-size: 10px;
+  }
+}
+
+/* carousel */
+.carousel-caption {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+.item {
+  background: #204d74;    
+  text-align: center;
+  height: 550px;
+}
+.item.homicidio {
+  background: #001F4C;    
+}
+.item.veiculo {
+  background: #B26B00;
+}
+.item.veiculo a {
+  color: #663D00;
+}
+.carousel-caption h1 {
+  font-weight: bold;
+}
+.carousel-caption p {
+/*  font-size: 1.3em;*/
+/*  font-weight: bold;*/
+}
+.carousel-caption .taxas-preambulo {
+/*  font-size: 1.3em;*/
+  color: #bbb;
+}
+.carousel-caption .taxas-valor {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 2.0em;
+  line-height: 1em;
+}
+.carousel-caption .taxas-footer {
+  font-size: 0.8em;
+  color: #bbb;
+}
+.carousel-caption .taxas-autor {
+  font-size: 0.7em;
+  color: #bbf;
+}
+@media only screen and (max-width: 996px) {
+  .same-height-if-possible {
+    height: auto;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .carousel-caption {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 470px) {
+  .carousel-caption {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 310px) {
+  .carousel-caption {
+    font-size: 12px;
+  }
+  .carousel-caption .taxas-valor {
+/*    font-size: 1em;*/
+  }
+}
+
+/* entenda.html*/
+.formula-sentimentos {
+  padding: 50px 0;
+  /*background-color: #777;*/
+}
+.entenda-observacao {
+  color: dimgray;
+  font-size: 0.8em;
+}
+.circulos-pessoais .casa {
+  border: 3px solid red;
+}
+.circulos-pessoais .familia {
+  border: 3px solid orange;
+}
+.circulos-pessoais .conhecidos {
+  border: 3px solid yellow;
+}
+svg {
+/*  fill: red;*/
+/*  border: 5px solid currentColor;*/
+}
+
+/* blog */
+.post h1 a {
+  color: #444;
+}
+.meta {
+  margin-bottom: 1em;
+  color: #777;
+}
+.meta li {
+  border-right: 1px solid #ddd;
+}
+.meta li:last-child {
+  border-right: none;
+}
+
+.about .fa-rocket {
+  font-size: 64px;
+}
