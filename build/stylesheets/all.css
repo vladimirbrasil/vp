@@ -7265,7 +7265,7 @@ body {
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  background: url(/images/autor.jpg) center no-repeat;
+  background: url(../images/autor.jpg) center no-repeat;
   border: 3px solid #337ab7; }
 
 /* logotipo */
@@ -7278,7 +7278,7 @@ body {
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  background: url(/images/logo.svg) center no-repeat;
+  background: url(../images/logo.svg) center no-repeat;
   background-size: 80px 80px;
   border: 3px solid #337ab7; }
 
