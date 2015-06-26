@@ -42,26 +42,6 @@ body {
 .btn-lg {  
   padding: 14px 20px;
 }
-/* Navigation */
-.navbar {
-  background-color: rgb(51,122,183);
-}
-.navbar a {
-  color: #d8e6f3;
-}
-.navbar a:hover {
-  color: #fff;
-}
-.nav>li>a:hover, 
-.nav>li>a:focus,
-.open>a, 
-.nav .open>a:hover, 
-.nav .open>a:focus,
-.dropdown-menu>li>a:hover, 
-.dropdown-menu>li>a:focus {
-  background-color: #204d74;
-  color: #fff;
-}
 
 /* index.html */
 .features .glyphicon {
@@ -206,4 +186,28 @@ svg {
 
 .about .fa-rocket {
   font-size: 64px;
+}
+
+/* Navigation */
+header.navbar {
+  margin: 0;
+}
+.navbar {
+  background-color: rgb(51,122,183);
+}
+.navbar a {
+  color: #d8e6f3;
+}
+.navbar a:hover {
+  color: #fff;
+}
+.nav>li>a:hover, 
+.nav>li>a:focus,
+.open>a, 
+.nav .open>a:hover, 
+.nav .open>a:focus,
+.dropdown-menu>li>a:hover, 
+.dropdown-menu>li>a:focus {
+  background-color: #204d74;
+  color: #fff;
 }

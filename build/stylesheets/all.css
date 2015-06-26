@@ -7290,20 +7290,183 @@ body {
 .btn-lg {
   padding: 14px 20px; }
 
+/* index.html */
+/* line 47, /home/vla/git/vp/source/stylesheets/_main.scss */
+.features .glyphicon {
+  font-size: 32px; }
+
+/* line 50, /home/vla/git/vp/source/stylesheets/_main.scss */
+.navbar-toggle .icon-bar {
+  background-color: #c8e6f3; }
+
+@media only screen and (max-width: 768px) {
+  /* line 54, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .dropdown-menu > li > a {
+    color: #d8e6f3; } }
+@media only screen and (max-width: 480px) {
+  /* line 59, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .navbar-brand {
+    font-size: 14px; } }
+@media only screen and (max-width: 320px) {
+  /* line 64, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .navbar-brand {
+    font-size: 10px; } }
+/* breadcrumb */
+/* line 70, /home/vla/git/vp/source/stylesheets/_main.scss */
+.breadcrumb > li + li:before {
+  color: #cccccc;
+  content: "\003E\00a0"; }
+
+/* line 74, /home/vla/git/vp/source/stylesheets/_main.scss */
+.breadcrumb .active a {
+  pointer-events: none;
+  cursor: default;
+  color: gray;
+  text-decoration: none; }
+
+/* carousel */
+/* line 82, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px; }
+
+/* line 86, /home/vla/git/vp/source/stylesheets/_main.scss */
+.item {
+  background: #204d74;
+  text-align: center;
+  height: 550px; }
+
+/* line 91, /home/vla/git/vp/source/stylesheets/_main.scss */
+.item.homicidio {
+  background: #001F4C; }
+
+/* line 94, /home/vla/git/vp/source/stylesheets/_main.scss */
+.item.veiculo {
+  background: #B26B00; }
+
+/* line 97, /home/vla/git/vp/source/stylesheets/_main.scss */
+.item.veiculo a {
+  color: #663D00; }
+
+/* line 100, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption h1 {
+  font-weight: bold; }
+
+/* line 103, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption p {
+  /*  font-size: 1.3em;*/
+  /*  font-weight: bold;*/ }
+
+/* line 107, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-preambulo {
+  /*  font-size: 1.3em;*/
+  color: #bbb; }
+
+/* line 111, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-valor {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 2.0em;
+  line-height: 1em; }
+
+/* line 117, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-footer {
+  font-size: 0.8em;
+  color: #bbb; }
+
+/* line 121, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-autor {
+  font-size: 0.7em;
+  color: #bbf; }
+
+@media only screen and (max-width: 996px) {
+  /* line 126, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .same-height-if-possible {
+    height: auto; } }
+@media only screen and (max-width: 768px) {
+  /* line 131, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .carousel-caption {
+    font-size: 16px; } }
+@media only screen and (max-width: 470px) {
+  /* line 136, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .carousel-caption {
+    font-size: 14px; } }
+@media only screen and (max-width: 310px) {
+  /* line 141, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .carousel-caption {
+    font-size: 12px; }
+
+  /* line 144, /home/vla/git/vp/source/stylesheets/_main.scss */
+  .carousel-caption .taxas-valor {
+    /*    font-size: 1em;*/ } }
+/* entenda.html*/
+/* line 150, /home/vla/git/vp/source/stylesheets/_main.scss */
+.formula-sentimentos {
+  padding: 50px 0;
+  /*background-color: #777;*/ }
+
+/* line 154, /home/vla/git/vp/source/stylesheets/_main.scss */
+.entenda-observacao {
+  color: dimgray;
+  font-size: 0.8em; }
+
+/* line 158, /home/vla/git/vp/source/stylesheets/_main.scss */
+.circulos-pessoais .casa {
+  border: 3px solid red; }
+
+/* line 161, /home/vla/git/vp/source/stylesheets/_main.scss */
+.circulos-pessoais .familia {
+  border: 3px solid orange; }
+
+/* line 164, /home/vla/git/vp/source/stylesheets/_main.scss */
+.circulos-pessoais .conhecidos {
+  border: 3px solid yellow; }
+
+/* line 167, /home/vla/git/vp/source/stylesheets/_main.scss */
+svg {
+  /*  fill: red;*/
+  /*  border: 5px solid currentColor;*/ }
+
+/* blog */
+/* line 173, /home/vla/git/vp/source/stylesheets/_main.scss */
+.post h1 a {
+  color: #444; }
+
+/* line 176, /home/vla/git/vp/source/stylesheets/_main.scss */
+.meta {
+  margin-bottom: 1em;
+  color: #777; }
+
+/* line 180, /home/vla/git/vp/source/stylesheets/_main.scss */
+.meta li {
+  border-right: 1px solid #ddd; }
+
+/* line 183, /home/vla/git/vp/source/stylesheets/_main.scss */
+.meta li:last-child {
+  border-right: none; }
+
+/* line 187, /home/vla/git/vp/source/stylesheets/_main.scss */
+.about .fa-rocket {
+  font-size: 64px; }
+
 /* Navigation */
-/* line 46, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 192, /home/vla/git/vp/source/stylesheets/_main.scss */
+header.navbar {
+  margin: 0; }
+
+/* line 195, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 49, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 198, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 52, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 201, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 55, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 204, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7313,162 +7476,3 @@ body {
 .dropdown-menu > li > a:focus {
   background-color: #204d74;
   color: #fff; }
-
-/* index.html */
-/* line 67, /home/vla/git/vp/source/stylesheets/_main.scss */
-.features .glyphicon {
-  font-size: 32px; }
-
-/* line 70, /home/vla/git/vp/source/stylesheets/_main.scss */
-.navbar-toggle .icon-bar {
-  background-color: #c8e6f3; }
-
-@media only screen and (max-width: 768px) {
-  /* line 74, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .dropdown-menu > li > a {
-    color: #d8e6f3; } }
-@media only screen and (max-width: 480px) {
-  /* line 79, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .navbar-brand {
-    font-size: 14px; } }
-@media only screen and (max-width: 320px) {
-  /* line 84, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .navbar-brand {
-    font-size: 10px; } }
-/* breadcrumb */
-/* line 90, /home/vla/git/vp/source/stylesheets/_main.scss */
-.breadcrumb > li + li:before {
-  color: #cccccc;
-  content: "\003E\00a0"; }
-
-/* line 94, /home/vla/git/vp/source/stylesheets/_main.scss */
-.breadcrumb .active a {
-  pointer-events: none;
-  cursor: default;
-  color: gray;
-  text-decoration: none; }
-
-/* carousel */
-/* line 102, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption {
-  font-family: 'Roboto Slab', serif;
-  font-size: 18px; }
-
-/* line 106, /home/vla/git/vp/source/stylesheets/_main.scss */
-.item {
-  background: #204d74;
-  text-align: center;
-  height: 550px; }
-
-/* line 111, /home/vla/git/vp/source/stylesheets/_main.scss */
-.item.homicidio {
-  background: #001F4C; }
-
-/* line 114, /home/vla/git/vp/source/stylesheets/_main.scss */
-.item.veiculo {
-  background: #B26B00; }
-
-/* line 117, /home/vla/git/vp/source/stylesheets/_main.scss */
-.item.veiculo a {
-  color: #663D00; }
-
-/* line 120, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption h1 {
-  font-weight: bold; }
-
-/* line 123, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption p {
-  /*  font-size: 1.3em;*/
-  /*  font-weight: bold;*/ }
-
-/* line 127, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption .taxas-preambulo {
-  /*  font-size: 1.3em;*/
-  color: #bbb; }
-
-/* line 131, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption .taxas-valor {
-  font-family: 'Roboto Slab', serif;
-  font-weight: bold;
-  font-size: 2.0em;
-  line-height: 1em; }
-
-/* line 137, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption .taxas-footer {
-  font-size: 0.8em;
-  color: #bbb; }
-
-/* line 141, /home/vla/git/vp/source/stylesheets/_main.scss */
-.carousel-caption .taxas-autor {
-  font-size: 0.7em;
-  color: #bbf; }
-
-@media only screen and (max-width: 996px) {
-  /* line 146, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .same-height-if-possible {
-    height: auto; } }
-@media only screen and (max-width: 768px) {
-  /* line 151, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .carousel-caption {
-    font-size: 16px; } }
-@media only screen and (max-width: 470px) {
-  /* line 156, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .carousel-caption {
-    font-size: 14px; } }
-@media only screen and (max-width: 310px) {
-  /* line 161, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .carousel-caption {
-    font-size: 12px; }
-
-  /* line 164, /home/vla/git/vp/source/stylesheets/_main.scss */
-  .carousel-caption .taxas-valor {
-    /*    font-size: 1em;*/ } }
-/* entenda.html*/
-/* line 170, /home/vla/git/vp/source/stylesheets/_main.scss */
-.formula-sentimentos {
-  padding: 50px 0;
-  /*background-color: #777;*/ }
-
-/* line 174, /home/vla/git/vp/source/stylesheets/_main.scss */
-.entenda-observacao {
-  color: dimgray;
-  font-size: 0.8em; }
-
-/* line 178, /home/vla/git/vp/source/stylesheets/_main.scss */
-.circulos-pessoais .casa {
-  border: 3px solid red; }
-
-/* line 181, /home/vla/git/vp/source/stylesheets/_main.scss */
-.circulos-pessoais .familia {
-  border: 3px solid orange; }
-
-/* line 184, /home/vla/git/vp/source/stylesheets/_main.scss */
-.circulos-pessoais .conhecidos {
-  border: 3px solid yellow; }
-
-/* line 187, /home/vla/git/vp/source/stylesheets/_main.scss */
-svg {
-  /*  fill: red;*/
-  /*  border: 5px solid currentColor;*/ }
-
-/* blog */
-/* line 193, /home/vla/git/vp/source/stylesheets/_main.scss */
-.post h1 a {
-  color: #444; }
-
-/* line 196, /home/vla/git/vp/source/stylesheets/_main.scss */
-.meta {
-  margin-bottom: 1em;
-  color: #777; }
-
-/* line 200, /home/vla/git/vp/source/stylesheets/_main.scss */
-.meta li {
-  border-right: 1px solid #ddd; }
-
-/* line 203, /home/vla/git/vp/source/stylesheets/_main.scss */
-.meta li:last-child {
-  border-right: none; }
-
-/* line 207, /home/vla/git/vp/source/stylesheets/_main.scss */
-.about .fa-rocket {
-  font-size: 64px; }
