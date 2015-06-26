@@ -1,3 +1,4 @@
+<% custom_stats = CustomHelpers::CustomizeStats.new %>
 <% data.some_stats.stats.each_with_index do |f, n| %>
 
   <div class="item<%= " active" if n == 0 %> <%= f["crime"]%> <%= f["tipo_regiao"]%> <%= f["circulo_pessoal"]%>">
@@ -6,19 +7,11 @@
       <p class='taxas-valor'>o cidadão <%= f["regiao"] %> </p>
       <p class='taxas-preambulo'>deve esperar receber a informação de que </p>
       <p class='taxas-valor'>
-          <% if f["atingidos"].to_i > 1 %>
-            <%= "#{f['atingidos']} #{data.some_stats.pluralize[ f['circulo_pessoal'] ]}" %>
-          <% else %>
-            <%= "#{f['atingidos']} #{f['circulo_pessoal']}" %>
-          <% end %>
+          <%= "#{f['atingidos']} #{custom_stats.pluralize(f["atingidos"], f['circulo_pessoal'])}" %>
       </p>
 
       <p class='taxas-preambulo'>
-          <% if f["atingidos"].to_i > 1 %>
-            <%= "sofram" %>
-          <% else %>
-            <%= "sofra" %>
-          <% end %>
+          <%= custom_stats.pluralize(f["atingidos"], "sofra") %>
       </p>
 
       <p class='taxas-valor'><%= data.some_stats.dicionario[ f["crime"] ] %></p>
