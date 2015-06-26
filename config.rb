@@ -1,8 +1,16 @@
-###
-# Como usar
-###
-# bundle exec middleman build
-# bundle exec middleman server
+=begin
+Como usar
+
+bundle exec middleman build
+bundle exec middleman server
+
+git status
+
+git add --all
+git commit -m "mensagem"
+git push origin master
+git subtree push --prefix build origin gh-pages
+=end
 
 ###
 # Afazeres
