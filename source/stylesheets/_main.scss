@@ -86,6 +86,18 @@ body {
   }
 }
 
+/* breadcrumb */
+.breadcrumb>li+li:before {
+  color: rgba(204, 204, 204, 1); 
+  content: "\003E\00a0";
+}
+.breadcrumb .active a {
+  pointer-events: none;
+  cursor: default;
+  color: gray;
+  text-decoration: none;
+}
+
 /* carousel */
 .carousel-caption {
   font-family: 'Roboto Slab', serif;
