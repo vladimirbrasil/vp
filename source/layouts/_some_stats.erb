@@ -27,7 +27,7 @@
           <% if /nenhum/ =~ f["atingidos"].to_s %>
             <%= "*Via de regra é esperado que as vítimas sejam desconhecidas.<br>" %>
           <% end %> 
-          *referente à taxa de <%= f["taxa_cem_mil"].to_s.gsub!(".",",") %> homicídios para cada 100.000 habitantes <br>
+          *referente à taxa de <%= f["taxa_cem_mil"].to_s.gsub(".",",") %> homicídios para cada 100.000 habitantes <br>
           <a href="<%= data.some_stats.dicionario[ f["fonte"] ] %>" target="_blank">fonte: <%= f["fonte"] %></a>
       </p>
       <p></p>     
