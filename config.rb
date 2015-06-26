@@ -7,7 +7,7 @@ bundle exec middleman server
 git status
 
 git add --all
-git commit -m "mensagem"
+git commit -m "Corrige bug que tirava css da pagina circulos_pessoais.html"
 git push origin master
 git subtree push --prefix build origin gh-pages
 =end
