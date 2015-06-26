@@ -1,4 +1,10 @@
 ###
+# Como usar
+###
+# bundle exec middleman build
+# bundle exec middleman server
+
+###
 # Afazeres
 ###
 
