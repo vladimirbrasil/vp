@@ -1,0 +1,17 @@
+<h1>Friends</h1>
+<ol>
+  <% data.random_stats.friends.each do |f| %>
+  <li><%= f %></li>
+  <% end %>
+</ol>
+
+<p></p>
+<p></p>
+<p></p>
+
+<h1>Some Stats</h1>
+<ol>
+  <% data.some_stats.stats.each do |f| %>
+  <li><%= f["crime"] %></li>
+  <% end %>
+</ol>
