@@ -1,184 +1,199 @@
 {
+    "dicionario":
+    {
+        "homicidio": "assassinato",
+        "veiculo": "roubo de veículo",
+        "7ª edição do Anuário Brasileiro de Segurança Pública": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/7a-edicao",
+        "UNODC - Homicide counts and rates time series 2000-2012": "http://www.unodc.org/documents/gsh/data/GSH2013_Homicide_count_and_rate.xlsx",
+        "SIM/SVS/MS (2012)": "http://www.mapadaviolencia.org.br/"
+    },
+     "pluralize":
+    {
+        "em casa": "em casa",
+        "familiar": "familiares",
+        "conhecido": "conhecidos",
+        "sofra": "sofram"
+    },
     "stats":
     [
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "conhecidos",
+            "circulo_pessoal": "conhecido",
             "regiao": "do Brasil",
-            "atingidos": "3 conhecidos",
-            "taxa_cem_mil": "25",
+            "atingidos": 3,
+            "taxa_cem_mil": 25,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de Alagoas",
-            "atingidos": "1 familiar",
-            "taxa_cem_mil": "64",
+            "atingidos": 1,
+            "taxa_cem_mil": 64,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "veiculo",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "domicilio",
+            "circulo_pessoal": "em casa",
             "regiao": "do Rio de Janeiro",
-            "atingidos": "1 vez em casa",
-            "taxa_cem_mil": "421",
+            "atingidos": 1,
+            "taxa_cem_mil": 421,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "da Inglaterra",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "1.2",
+            "taxa_cem_mil": 1.2,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de Mata de São João/BA",
-            "atingidos": "3 familiares",
-            "taxa_cem_mil": "149",
+            "atingidos": 3,
+            "taxa_cem_mil": 149,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "conhecidos",
+            "circulo_pessoal": "conhecido",
             "regiao": "de Porto Alegre/RS",
-            "atingidos": "4 conhecidos",
-            "taxa_cem_mil": "42",
+            "atingidos": 4,
+            "taxa_cem_mil": 42,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "do Afeganistão",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "2.4",
+            "taxa_cem_mil": 2.4,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
         {
             "crime": "veiculo",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "domicilio",
+            "circulo_pessoal": "em casa",
             "regiao": "do Amazonas",
-            "atingidos": "2 vezes em casa",
-            "taxa_cem_mil": "737",
+            "atingidos": 2,
+            "taxa_cem_mil": 737,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "conhecidos",
+            "circulo_pessoal": "conhecido",
             "regiao": "do Rio de Janeiro/RJ",
-            "atingidos": "2 conhecidos",
-            "taxa_cem_mil": "21",
+            "atingidos": 2,
+            "taxa_cem_mil": 21,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de Fortaleza/CE",
-            "atingidos": "2 familiares",
-            "taxa_cem_mil": "76",
+            "atingidos": 2,
+            "taxa_cem_mil": 76,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "do Vietnã",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "3.3",
+            "taxa_cem_mil": 3.3,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de Porto Seguro/BA",
-            "atingidos": "2 familiares",
-            "taxa_cem_mil": "115",
+            "atingidos": 2,
+            "taxa_cem_mil": 115,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "veiculo",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de São Paulo",
-            "atingidos": "7 vezes entre familiares",
-            "taxa_cem_mil": "374",
+            "atingidos": 7,
+            "taxa_cem_mil": 374,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "do Japão",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "0.3",
+            "taxa_cem_mil": 0.3,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "familiares",
+            "circulo_pessoal": "familiar",
             "regiao": "de Arapiraca/AL",
-            "atingidos": "2 familiares",
-            "taxa_cem_mil": "98",
+            "atingidos": 2,
+            "taxa_cem_mil": 98,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "conhecidos",
+            "circulo_pessoal": "conhecido",
             "regiao": "de Minas Gerais",
-            "atingidos": "2 conhecidos",
-            "taxa_cem_mil": "19",
+            "atingidos": 2,
+            "taxa_cem_mil": 19,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "de Israel",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "2.1",
+            "taxa_cem_mil": 2.1,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "municipio",
-            "circulo_pessoal": "conhecidos",
+            "circulo_pessoal": "conhecido",
             "regiao": "de São Paulo/SP",
-            "atingidos": "2 conhecidos",
-            "taxa_cem_mil": "15",
+            "atingidos": 2,
+            "taxa_cem_mil": 15,
             "fonte": "SIM/SVS/MS (2012)"
         },
         {
             "crime": "veiculo",
             "tipo_regiao": "estado",
-            "circulo_pessoal": "domicilio",
+            "circulo_pessoal": "em casa",
             "regiao": "do Rio Grande do Sul",
-            "atingidos": "4 vezes entre familiares",
-            "taxa_cem_mil": "217",
+            "atingidos": 4,
+            "taxa_cem_mil": 217,
             "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
         },
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "ninguem",
+            "circulo_pessoal": "nenhum",
             "regiao": "da Bósnia",
             "atingidos": "nenhum conhecido",
-            "taxa_cem_mil": "1.5",
+            "taxa_cem_mil": 1.5,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         }
     ]    
