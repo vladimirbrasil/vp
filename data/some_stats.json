@@ -46,9 +46,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "da Inglaterra",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 1.2,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
@@ -73,9 +73,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "do Afeganistão",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 2.4,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
@@ -109,9 +109,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "do Vietnã",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 3.3,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
@@ -136,9 +136,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "do Japão",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 0.3,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
@@ -163,9 +163,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "de Israel",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 2.1,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         },
@@ -190,9 +190,9 @@
         {
             "crime": "homicidio",
             "tipo_regiao": "pais",
-            "circulo_pessoal": "nenhum",
+            "circulo_pessoal": "",
             "regiao": "da Bósnia",
-            "atingidos": "nenhum conhecido",
+            "atingidos": "nenhum conhecido*",
             "taxa_cem_mil": 1.5,
             "fonte": "UNODC - Homicide counts and rates time series 2000-2012"
         }

@@ -1,0 +1,38 @@
+<% data.some_stats.stats.each_with_index do |f, n| %>
+
+  <div class="item<%= " active" if n == 0 %> <%= f["crime"]%> <%= f["tipo_regiao"]%> <%= f["circulo_pessoal"]%>">
+    <div class="carousel-caption">
+      <p class='taxas-preambulo'>Mantidas as atuais taxas de violência*, <br>em média, ao longo de sua vida</p> 
+      <p class='taxas-valor'>o cidadão <%= f["regiao"] %> </p>
+      <p class='taxas-preambulo'>deve esperar receber a informação de que </p>
+      <p class='taxas-valor'>
+          <% if f["atingidos"].to_i > 1 %>
+            <%= "#{f['atingidos']} #{data.some_stats.pluralize[ f['circulo_pessoal'] ]}" %>
+          <% else %>
+            <%= "#{f['atingidos']} #{f['circulo_pessoal']}" %>
+          <% end %>
+      </p>
+
+      <p class='taxas-preambulo'>
+          <% if f["atingidos"].to_i > 1 %>
+            <%= "sofram" %>
+          <% else %>
+            <%= "sofra" %>
+          <% end %>
+      </p>
+
+      <p class='taxas-valor'><%= data.some_stats.dicionario[ f["crime"] ] %></p>
+
+      <p class='taxas-footer'>
+          <% if /nenhum/ =~ f["atingidos"].to_s %>
+            <%= "*Via de regra é esperado que as vítimas sejam desconhecidas.<br>" %>
+          <% end %> 
+          *referente à taxa de <%= f["taxa_cem_mil"].to_s.gsub!(".",",") %> homicídios para cada 100.000 habitantes <br>
+          <a href="<%= data.some_stats.dicionario[ f["fonte"] ] %>" target="_blank">fonte: <%= f["fonte"] %></a>
+      </p>
+      <p></p>     
+      <p><a class="btn btn-lg btn-primary" href='circulos_pessoais.html' role="button">Entenda a estatística</a></p> 
+    </div>      
+  </div>
+
+<% end %>
