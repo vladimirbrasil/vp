@@ -2,6 +2,7 @@ require 'middleman-gh-pages'
 
 desc "build static pages"
 task :commit, :message do |t, args|
+  #rake commit["Mensagem do commit"]
   message = args[:message] || "New commit"
 
   p "## Adding, commiting and pushing static pages"

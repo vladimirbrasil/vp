@@ -1,0 +1,31 @@
+{
+    "header":
+    {
+        "crime": "homicidio",
+        "tipo_regiao": "pais",
+        "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
+    },
+    "stats":
+    [
+        ["Brasil", 25],
+        ["Alagoas", 64],
+        ["Rio de Janeiro", 421],
+        ["Inglaterra", 1.2],
+        ["Mata de São João/BA", 149],
+        ["Porto Alegre/RS", 42],
+        ["Afeganistão", 2.4],
+        ["Amazonas", 737],
+        ["Rio de Janeiro/RJ", 21],
+        ["Fortaleza/CE", 76],
+        ["Vietnã", 3.3],
+        ["Porto Seguro/BA", 115],
+        ["São Paulo", 374],
+        ["Japão", 0.3],
+        ["Arapiraca/AL", 98],
+        ["Minas Gerais", 19],
+        ["Israel", 2.1],
+        ["São Paulo/SP", 15],
+        ["Rio Grande do Sul", 217],
+        ["Bósnia", 1.5]
+    ]
+}    
