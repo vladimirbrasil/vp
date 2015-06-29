@@ -1,27 +1,29 @@
-<% custom_stats = CustomHelpers::CustomizeStats.new %>
-<% data.some_stats.stats.each_with_index do |f, n| %>
+<% stats = CustomHelpers::Stats.new.stats %>
+<% utils = CustomHelpers::Utilities.new %>
+<% stats.each_with_index do |stat, n| %>
 
-  <div class="item<%= " active" if n == 0 %> <%= f["crime"]%> <%= f["tipo_regiao"]%> <%= f["circulo_pessoal"]%>">
+
+  <div class="item<%= " active" if n == 0 %> <%= stat.crime%> <%= stat.tipo_regiao%> <%= stat.circulo_pessoal%>">
     <div class="carousel-caption">
       <p class='taxas-preambulo'>Mantidas as atuais taxas de violência*, <br>em média, ao longo de sua vida</p> 
-      <p class='taxas-valor'>o cidadão <%= f["regiao"] %> </p>
+      <p class='taxas-valor'>o cidadão <%= stat.regiao %> </p>
       <p class='taxas-preambulo'>deve esperar receber a informação de que </p>
       <p class='taxas-valor'>
-          <%= "#{f['atingidos']} #{custom_stats.pluralize(f["atingidos"], f['circulo_pessoal'])}" %>
+          <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %>
       </p>
 
       <p class='taxas-preambulo'>
-          <%= custom_stats.pluralize(f["atingidos"], "sofra") %>
+          <%= utils.pluralize(stat.atingidos, "sofra") %>
       </p>
 
-      <p class='taxas-valor'><%= data.some_stats.dicionario[ f["crime"] ] %></p>
+      <p class='taxas-valor'><%= utils.dicionario(  stat.crime  ) %></p>
 
       <p class='taxas-footer'>
-          <% if /nenhum/ =~ f["atingidos"].to_s %>
+          <% if /nenhum/ =~ stat.atingidos.to_s %>
             <%= "*Via de regra é esperado que as vítimas sejam desconhecidas.<br>" %>
           <% end %> 
-          *referente à taxa de <%= f["taxa_cem_mil"].to_s.gsub(".",",") %> homicídios para cada 100.000 habitantes <br>
-          <a href="<%= data.some_stats.dicionario[ f["fonte"] ] %>" target="_blank">fonte: <%= f["fonte"] %></a>
+          *referente à taxa de <%= stat.taxa_cem_mil.to_s.gsub(".",",") %> homicídios para cada 100.000 habitantes <br>
+          <a href="<%= utils.dicionario(  stat.fonte  ) %>" target="_blank">fonte: <%= stat.fonte %></a>
       </p>
       <p></p>     
       <p><a class="btn btn-lg btn-primary" href='circulos_pessoais.html' role="button">Entenda a estatística</a></p> 

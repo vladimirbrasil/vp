@@ -7,7 +7,7 @@ bundle exec middleman server
 git status
 
 git add --all
-git commit -m "Corrige bug que tirava css da pagina circulos_pessoais.html"
+git commit -m "Adicionar 'controller' que calcula as previsoes."
 git push origin master
 git subtree push --prefix build origin gh-pages
 =end
