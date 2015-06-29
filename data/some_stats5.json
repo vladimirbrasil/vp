@@ -1,7 +1,7 @@
 {
     "header":
     {
-        "crime": "homicidio",
+        "crime": "veiculo",
         "tipo_regiao": "estado",
         "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública",
         "url": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/7a-edicao",
@@ -9,7 +9,9 @@
     },
     "stats":
     [
-        ["Alagoas", 64],
-        ["Minas Gerais", 19],
+        ["Rio de Janeiro", 421],
+        ["Amazonas", 737],
+        ["São Paulo", 374],
+        ["Rio Grande do Sul", 217],
     ]
 }    

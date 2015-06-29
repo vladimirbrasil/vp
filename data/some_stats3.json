@@ -3,89 +3,18 @@
     {
         "crime": "homicidio",
         "tipo_regiao": "pais",
-        "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública"
+        "fonte": "UNODC - Homicide counts and rates time series 2000-2012",
+        "url": "http://www.unodc.org/documents/gsh/data/GSH2013_Homicide_count_and_rate.xlsx",
+        "ano": 2012
     },
     "stats":
     [
-        {
-            "regiao": "Brasil",
-            "taxa_cem_mil": 25
-        },
-        {
-            "regiao": "Alagoas",
-            "taxa_cem_mil": 64
-        },
-        {
-            "regiao": "Rio de Janeiro",
-            "taxa_cem_mil": 421
-        },
-        {
-            "regiao": "Inglaterra",
-            "taxa_cem_mil": 1.2
-        },
-        {
-            "regiao": "Mata de São João/BA",
-            "taxa_cem_mil": 149
-        },
-        {
-            "regiao": "Porto Alegre/RS",
-            "taxa_cem_mil": 42
-        },
-        {
-            "regiao": "Afeganistão",
-            "taxa_cem_mil": 2.4
-        },
-        {
-            "regiao": "Amazonas",
-            "taxa_cem_mil": 737
-        },
-        {
-            "regiao": "Rio de Janeiro/RJ",
-            "taxa_cem_mil": 21
-        },
-        {
-            "regiao": "Fortaleza/CE",
-            "taxa_cem_mil": 76
-        },
-        {
-            "regiao": "Vietnã",
-            "taxa_cem_mil": 3.3
-        },
-        {
-            "regiao": "Porto Seguro/BA",
-            "taxa_cem_mil": 115
-        },
-        {
-            "regiao": "São Paulo",
-            "taxa_cem_mil": 374
-        },
-        {
-            "regiao": "Japão",
-            "taxa_cem_mil": 0.3
-        },
-        {
-            "regiao": "Arapiraca/AL",
-            "taxa_cem_mil": 98
-        },
-        {
-            "regiao": "Minas Gerais",
-            "taxa_cem_mil": 19
-        },
-        {
-            "regiao": "Israel",
-            "taxa_cem_mil": 2.1
-        },
-        {
-            "regiao": "São Paulo/SP",
-            "taxa_cem_mil": 15
-        },
-        {
-            "regiao": "Rio Grande do Sul",
-            "taxa_cem_mil": 217
-        },
-        {
-            "regiao": "Bósnia",
-            "taxa_cem_mil": 1.5
-        }
-    ]    
+        ["Brasil", 25],
+        ["Inglaterra", 1.2],
+        ["Afeganistão", 2.4],
+        ["Vietnã", 3.3],
+        ["Japão", 0.3],
+        ["Israel", 2.1],
+        ["Bósnia", 1.5]
+    ]
 }    
