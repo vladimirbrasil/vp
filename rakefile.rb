@@ -20,3 +20,8 @@ task :deploy, :message do |t, args|
   p "## Deploying to Github Pages"
   system "git subtree push --prefix build origin gh-pages"
 end
+
+=begin
+https://www.crimereports.com/
+https://docs.google.com/file/d/0B8_Gi38zQm7aSUxMX21yUjlmeDA/edit
+=end

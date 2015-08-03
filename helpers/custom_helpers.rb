@@ -8,13 +8,13 @@ module CustomHelpers
     PATH_PREPOSICOES = "data/preposicoes.json"
     def initialize
       File.open(PATH_PLURAIS) do |file|
-        @plurais = JSON.parse(file.read)      
+        @plurais = JSON.parse(file.read)
       end
       File.open(PATH_DICIONARIO) do |file|
-        @dicionario = JSON.parse(file.read)      
+        @dicionario = JSON.parse(file.read)
       end
       File.open(PATH_PREPOSICOES) do |file|
-        @preposicoes = JSON.parse(file.read)      
+        @preposicoes = JSON.parse(file.read)
       end
     end
 
@@ -50,7 +50,7 @@ module CustomHelpers
     def initialize
       @stat_infos = Dir["data/stats/*.json"].collect do |stat_file_path|
         File.open(stat_file_path) do |stat_file|
-          JSON.parse(stat_file.read)      
+          JSON.parse(stat_file.read)
         end
       end
       @stats = load_stats
@@ -117,18 +117,18 @@ module CustomHelpers
       case n
       when 0..@domicilio
         @atingidos = @domicilio/n
-        @circulo_pessoal = "em casa"        
+        @circulo_pessoal = "em casa"
       when @domicilio..@familiares
         @atingidos = @familiares/n
-        @circulo_pessoal = "familiar"        
+        @circulo_pessoal = "familiar"
       when @familiares..@conhecidos
         @atingidos = @conhecidos/n
-        @circulo_pessoal = "conhecido"        
+        @circulo_pessoal = "conhecido"
       else
-        @circulo_pessoal = "nenhum conhecido*"        
+        @circulo_pessoal = "nenhum conhecido*"
       end
       @atingidos = @atingidos.round if @atingidos
-    end    
+    end
 
     def atingidos_total
       t = @taxa_cem_mil/100000

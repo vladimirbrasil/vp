@@ -16,12 +16,20 @@ git subtree push --prefix build origin gh-pages
 # Afazeres
 ###
 
-# use sass mixins, extends, functions...
-# find arrow glyphicons for carousel at index.html
-# add erb list for carousel items
-# load data from yaml or other datasource | https://middlemanapp.com/advanced/data_files/
-# internationalization | https://middlemanapp.com/advanced/localization/
-# find how to auto-deploy from middleman to git
+# data
+#   install all tables.
+# styles
+#   use sass mixins, extends, functions...
+# internationalization
+#   https://middlemanapp.com/advanced/localization/
+# abrir ou comprar violenciometro
+#   previsao para cada crime. como impostometro
+#   desigualdade social do crime | negros, jovens pobres
+#   https://andradetalis.wordpress.com/tag/manipulacao-de-julgamentos/
+# done << find arrow glyphicons for carousel at index.html
+# done << add erb list for carousel items
+# done << load data from yaml or other datasource | https://middlemanapp.com/advanced/data_files/
+# done << find how to auto-deploy from middleman to git
 
 ###
 # Compass

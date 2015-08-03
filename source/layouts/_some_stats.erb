@@ -19,7 +19,7 @@
       <p class='taxas-valor'><%= utils.dicionario(  stat.crime  ) %></p>
 
       <p class='taxas-footer'>
-          <% if /nenhum/ =~ stat.atingidos.to_s %>
+          <% if /.*nenhum.*/ =~ stat.atingidos.to_s %>
             <%= "*Via de regra é esperado que as vítimas sejam desconhecidas.<br>" %>
           <% end %> 
           *referente à taxa de <%= stat.taxa_cem_mil.to_s.gsub(".",",") %> <%= utils.pluralize( stat.taxa_cem_mil, stat.crime) %> para cada 100.000 habitantes <br>
