@@ -24,4 +24,6 @@ end
 =begin
 https://www.crimereports.com/
 https://docs.google.com/file/d/0B8_Gi38zQm7aSUxMX21yUjlmeDA/edit
+novos dominios azedu.me ferrou.me ferrou.com 
+salve.ninja semsaida.eu ajuda.io (br.io) 
 =end
