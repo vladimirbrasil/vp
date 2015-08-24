@@ -22,6 +22,10 @@ task :deploy, :message do |t, args|
 end
 
 =begin
+Afazeres
+Facebook+Twitter share links with images (Decio).
+  Twitter card | https://dev.twitter.com/cards/types/summary-large-image
+
 https://www.crimereports.com/
 https://docs.google.com/file/d/0B8_Gi38zQm7aSUxMX21yUjlmeDA/edit
 novos dominios azedu.me ferrou.me ferrou.com 
