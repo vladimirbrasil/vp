@@ -21,11 +21,21 @@
 
       <ul class="list-inline">
 
+        <li><a  href="http://violencia.click" 
+                class="fb-share icon icon-facebook" data-caption="Segurança Pública" 
+                data-description="Com as taxas de violência atuais é esperado ao longo da vida que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "sofra") %> <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "Proteste. " if stat.eh_info_negativa %>">
+                <span class="fa fa-facebook"></span>
+                <span class="sr-only">Compartilhar no Facebook</span></a></li>
+
         <li><a  href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fviolencia.click;text=Com as taxas atuais, ao longo da vida, <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deve") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "Proteste. " if stat.eh_info_negativa %>" 
                 target="_blank" class="tw-share icon icon-twitter popup">
                 <span class="fa fa-twitter"></span>
                 <span class="sr-only">Compartilhar no Twitter</span></a></li>
 
+        <li><a  href="https://plus.google.com/share?url=http%3A%2F%2Fviolencia.click" 
+                target="_blank" class="gp-share icon icon-gplus popup">
+                <span class="fa fa-google-plus"></span>
+                <span class="sr-only">Compartilhar no Google Plus</span></a></li>
 
         <li><a  href="whatsapp://send?text=Com as taxas de violência atuais é esperado ao longo da vida que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "sofra") %> <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "Proteste. " if stat.eh_info_negativa %>  http%3A%2F%2Fviolencia.click" 
                 target="_blank" class="ws-share icon icon-whatsapp">

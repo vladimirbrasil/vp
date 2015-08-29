@@ -34,13 +34,22 @@ module CustomHelpers
       end
     end
 
-    def preposicao(word)
+    def preposicao_de(word)
       if @preposicoes && @preposicoes[ word ]
         "#{@preposicoes[ word ]} #{word}"
       else
         "de #{word}"
       end
     end
+
+    def preposicao_em(word)
+      if @preposicoes && @preposicoes[ word ]
+        prep_em = @preposicoes[ word ].gsub(/de/, "em").gsub(/do/, "no").gsub(/da/, "na")
+        "#{prep_em} #{word}"
+      else
+        "em #{word}"
+      end
+    end    
   end
 
   class Stats
@@ -82,9 +91,12 @@ module CustomHelpers
                 :url,
                 :ano,
                 :regiao,
+                :da_regiao,
+                :na_regiao,
                 :taxa_cem_mil,
                 :atingidos,
-                :circulo_pessoal
+                :circulo_pessoal,
+                :eh_info_negativa
 
     def initialize(args={})
       @crime       = args[:crime]
@@ -92,20 +104,27 @@ module CustomHelpers
       @fonte = args[:fonte]
       @url = args[:url]
       @ano = args[:ano]
-      @regiao = Utilities.new.preposicao( args[:regiao] )
+      @da_regiao = Utilities.new.preposicao_de( args[:regiao] )
+      @na_regiao = Utilities.new.preposicao_em( args[:regiao] )
       @taxa_cem_mil = args[:taxa_cem_mil]
 
       previsao = Previsao.new(taxa_cem_mil: @taxa_cem_mil)
       @atingidos = previsao.atingidos
       @circulo_pessoal = previsao.circulo_pessoal
+
+      #informa quando se trata de informação positiva (nenhum assassinato) ou negativa (há assassinatos) 
+      @eh_info_negativa = eh_info_negativa
     end
 
+    def eh_info_negativa
+      @atingidos
+    end
 
   end
 
   class Previsao
     attr_reader :atingidos, :circulo_pessoal
-    def initialize(args={})
+    def initialize(args={})      
       @taxa_cem_mil = args[:taxa_cem_mil].to_f
 
       @conhecidos = 150
