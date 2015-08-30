@@ -31,6 +31,7 @@ https://docs.google.com/file/d/0B8_Gi38zQm7aSUxMX21yUjlmeDA/edit
 novos dominios azedu.me ferrou.me ferrou.com 
 salve.ninja semsaida.eu ajuda.io (br.io)
 mapadaseguranca.com socorram.com socorram.me soiml.com salvem.me 
-pec51.com 50milpobres.com 150pordia.com abandonaram.me (.com)
+pec51.com 50milpobres.com 150pordia.com abandonaram.me .com
+investigar.me investiguem.com .me solucionem.me
 
 =end
