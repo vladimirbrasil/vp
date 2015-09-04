@@ -116,12 +116,21 @@ class MyFeature < Middleman::Extension
       CustomHelpers::Utilities.new
     end
 
+    def site_url
+      site_name = File.open("source/CNAME", "r") { |f| f.read }
+      "http://#{site_name}"
+    end
+
     def current_page_full_url
-      "#{utils.site_url}#{current_page.url}"
+      "#{site_url}#{current_page.url}"
     end
 
     def site_default_tweet
-      utils.site_default_tweet
+      "Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões"
+    end
+
+    def site_default_title
+      "O mais honesto mapa da segurança brasileira. Veja previsões"
     end
 
   end

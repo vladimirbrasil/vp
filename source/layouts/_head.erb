@@ -23,13 +23,14 @@
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@MapaSeguranca" />
-  <meta name="twitter:title" content="Violência pode atingir casa, família, amigos. Veja previsões" />
-  <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas assassinadas todos os anos no Brasil? E se alguém de casa for roubado? Conheça o mapadaseguranca.com" />
+  <meta name="twitter:url" content="<%= site_url %>" />
+  <meta name="twitter:title" content="<%= site_default_title %>" />
+  <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinadas este ano no Brasil? E se alguém de sua casa for roubado? Conheça o mais honesto mapa da segurança brasileira." />
   <meta name="twitter:image" content="images/logo.gif" />
 
   <!-- Use title if it's in the page YAML frontmatter -->
   <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
-  <title><%= current_page.data.title || "Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões" %></title>
+  <title><%= current_page.data.title || site_default_title %></title>
   <!-- 
     Style Stuff 
   -->

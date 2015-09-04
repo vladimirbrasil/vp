@@ -9,7 +9,31 @@
     },
     "stats":
     [
-        ["Alagoas", 64],
-        ["Minas Gerais", 19]
+        ["Acre", 22.8],
+        ["Alagoas", 64.5],
+        ["Amazonas", 28.2],
+        ["Bahia", 38.5],
+        ["Ceará", 40.6],
+        ["Distrito Federal", 29.7],
+        ["Espírito Santo", 27.5],
+        ["Goiás", 21.1],
+        ["Mato Grosso", 29.9],
+        ["Mato Grosso do Sul", 14.9],
+        ["Minas Gerais", 19.8],
+        ["Pará", 39.0],
+        ["Paraíba", 38.7],
+        ["Paraná", 29.6],
+        ["Pernambuco", 34.3],
+        ["Rio de Janeiro", 23.5],
+        ["Rio Grande do Sul ", 18.4],
+        ["São Paulo", 11.5],
+        ["Sergipe", 38.0],
+        ["Maranhão", 21.7],
+        ["Piauí", 15.2],
+        ["Rondônia", 25.2],
+        ["Roraima", 13.2],
+        ["Santa Catarina", 11.3],
+        ["Tocantins", 20.9 ],
+        ["Rio Grande do Norte", 29.6]
     ]
 }    

@@ -18,15 +18,6 @@ module CustomHelpers
       end
     end
 
-    def site_url
-      site_name = File.open("source/CNAME", "r") { |f| f.read }
-      "http://#{site_name}"
-    end
-
-    def site_default_tweet
-      "Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões"
-    end
-
     def pluralize(value, word)
       if @plurais && @plurais[ word ]
         value.to_i > 1 ? @plurais[ word ] : word
