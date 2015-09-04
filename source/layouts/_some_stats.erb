@@ -1,5 +1,4 @@
 <% stats = CustomHelpers::Stats.new.stats %>
-<% utils = CustomHelpers::Utilities.new %>
 <% stats.each_with_index do |stat, n| %>
 
 
@@ -21,15 +20,15 @@
 
       <ul class="list-inline">
 
-        <li><a  href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http%3A%2F%2Fmapadaseguranca.com%2F;text=Ao longo da vida, estima-se que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deva") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "" if stat.eh_info_negativa %>" 
+        <li><a  href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=<%= current_page_full_url %>;text=Ao longo da vida, estima-se que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deva") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "" if stat.eh_info_negativa %>" 
                 target="_blank" class="tw-share icon icon-twitter popup">
-                <span class="fa fa-twitter"></span>
+                <span class="fa fa-twitter fa-2x"></span>
                 <span class="sr-only">Compartilhar no Twitter</span></a></li>
 
 
-        <li><a  href="whatsapp://send?text=Com as taxas de violência atuais, ao longo da vida estima-se que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deva") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "" if stat.eh_info_negativa %>  http%3A%2F%2Fmapadaseguranca.com%2F" 
+        <li><a  href="whatsapp://send?text=Com as taxas de violência atuais, ao longo da vida estima-se que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deva") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "" if stat.eh_info_negativa %> <%= current_page_full_url %>" 
                 target="_blank" class="ws-share icon icon-whatsapp">
-                <span class="fa fa-whatsapp"></span>
+                <span class="fa fa-whatsapp fa-2x"></span>
                 <span class="sr-only">Compartilhar no WhatsApp</span></a></li>
 
       </ul>

@@ -1,0 +1,21 @@
+<div class="share">
+  <div class='row text-center'>
+    <div class='col-sm-12'>
+
+       <ul class="list-inline">
+
+          <li><a  href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=<%= current_page_full_url %>;text=<%= current_page.data.tweet || site_default_tweet %>" 
+                  target="_blank" class="tw-share icon icon-twitter popup">
+                  <span class="fa fa-twitter fa-3x"></span>
+                  <span class="sr-only">Compartilhar no Twitter</span></a></li>
+
+
+        <li><a  href="whatsapp://send?text=<%= current_page.data.tweet || site_default_tweet %> <%= current_page_full_url %>" 
+                target="_blank" class="ws-share icon icon-whatsapp">
+                <span class="fa fa-whatsapp fa-3x"></span>
+                <span class="sr-only">Compartilhar no WhatsApp</span></a></li>
+
+      </ul>
+    </div>
+  </div>
+</div>

@@ -103,3 +103,29 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+require 'helpers/custom_helpers.rb'
+class MyFeature < Middleman::Extension
+  def initialize(app, options_hash={}, &block)
+    super
+  end
+
+  helpers do
+    # métooos abaixo definidos estarão disponíveis em todas as páginas.
+    def utils
+      CustomHelpers::Utilities.new
+    end
+
+    def current_page_full_url
+      "#{utils.site_url}#{current_page.url}"
+    end
+
+    def site_default_tweet
+      utils.site_default_tweet
+    end
+
+  end
+end
+
+::Middleman::Extensions.register(:my_feature, MyFeature)
+activate :my_feature
