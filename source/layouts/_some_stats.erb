@@ -6,7 +6,7 @@
   <div class="item<%= " active" if n == 0 %> <%= stat.crime%> <%= stat.tipo_regiao%> <%= stat.circulo_pessoal%>">
     <div class="carousel-caption">
       <p class='taxas-preambulo'>Mantidas as atuais taxas de violência*, <br>em média, ao longo de sua vida</p> 
-      <p class='taxas-valor'>o cidadão <%= stat.da_regiao %> </p>
+      <h1 class='taxas-valor'>o cidadão <%= stat.da_regiao %> </h1>
       <p class='taxas-preambulo'>deve esperar receber a informação de que </p>
       <p class='taxas-valor'>
           <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %>
