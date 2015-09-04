@@ -1,5 +1,6 @@
 =begin
-Como usar
+
+:: Como usar
 
 bundle exec middleman build
 bundle exec middleman server
@@ -7,29 +8,35 @@ bundle exec middleman server
 git status
 
 git add --all
-git commit -m "Calcula estatística carregando apenas taxa_cem_mil na pasta data/stats. Falta remover acentos na especificação de 'class' em '_some_stats.erb'"
+git commit -m "Mensagem"
 git push origin master
 git subtree push --prefix build origin gh-pages
+
+
+:: Afazeres
+
+  SEO Checkup
+    https://toolbox.seositecheckup.com/apps/seo-checkup
+      Turn on https
+      Change email contact to form contact
+      Create search (and activate on Google search)
+
+ data
+   install all tables.
+ styles
+   use sass mixins, extends, functions...
+ internationalization
+   https://middlemanapp.com/advanced/localization/
+ abrir ou comprar violenciometro
+   previsao para cada crime. como impostometro
+   desigualdade social do crime | negros, jovens pobres
+   https://andradetalis.wordpress.com/tag/manipulacao-de-julgamentos/
+ done << find arrow glyphicons for carousel at index.html
+ done << add erb list for carousel items
+ done << load data from yaml or other datasource | https://middlemanapp.com/advanced/data_files/
+ done << find how to auto-deploy from middleman to git
+
 =end
-
-###
-# Afazeres
-###
-
-# data
-#   install all tables.
-# styles
-#   use sass mixins, extends, functions...
-# internationalization
-#   https://middlemanapp.com/advanced/localization/
-# abrir ou comprar violenciometro
-#   previsao para cada crime. como impostometro
-#   desigualdade social do crime | negros, jovens pobres
-#   https://andradetalis.wordpress.com/tag/manipulacao-de-julgamentos/
-# done << find arrow glyphicons for carousel at index.html
-# done << add erb list for carousel items
-# done << load data from yaml or other datasource | https://middlemanapp.com/advanced/data_files/
-# done << find how to auto-deploy from middleman to git
 
 ###
 # Compass
