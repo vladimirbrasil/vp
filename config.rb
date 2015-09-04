@@ -137,4 +137,4 @@ class MyFeature < Middleman::Extension
 end
 
 ::Middleman::Extensions.register(:my_feature, MyFeature)
-activate :my_feature
+activate :my_feature 
