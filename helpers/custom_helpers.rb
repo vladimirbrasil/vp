@@ -36,18 +36,18 @@ module CustomHelpers
 
     def preposicao_de(word)
       if @preposicoes && @preposicoes[ word ]
-        "#{@preposicoes[ word ]} #{word}"
+        "#{@preposicoes[ word ]}"
       else
-        "de #{word}"
+        "de"
       end
     end
 
     def preposicao_em(word)
       if @preposicoes && @preposicoes[ word ]
-        prep_em = @preposicoes[ word ].gsub(/de/, "em").gsub(/do/, "no").gsub(/da/, "na")
-        "#{prep_em} #{word}"
+        prep_em = @preposicoes[ word ].gsub(/do/, "no").gsub(/da/, "na").gsub(/de/, "em")
+        "#{prep_em}"
       else
-        "em #{word}"
+        "em"
       end
     end    
   end
@@ -99,31 +99,34 @@ module CustomHelpers
                 :eh_info_negativa
 
     def initialize(args={})
+      utils = Utilities.new
       @crime       = args[:crime]
       @tipo_regiao = args[:tipo_regiao]
       @fonte = args[:fonte]
       @url = args[:url]
       @ano = args[:ano]
-      @da_regiao = Utilities.new.preposicao_de( args[:regiao] )
-      @na_regiao = Utilities.new.preposicao_em( args[:regiao] )
+      @regiao = args[:regiao]
+      @da_regiao = "#{utils.preposicao_de( regiao )} #{regiao}"
+      @na_regiao = "#{utils.preposicao_em( regiao )} #{regiao}"
       @taxa_cem_mil = args[:taxa_cem_mil]
 
-      previsao = Previsao.new(taxa_cem_mil: @taxa_cem_mil)
-      @atingidos = previsao.atingidos
-      @circulo_pessoal = previsao.circulo_pessoal
+      vitimas = Vitimas.new(taxa_cem_mil: @taxa_cem_mil)
+      @atingidos = vitimas.atingidos
+      @circulo_pessoal = vitimas.circulo_pessoal
 
       #informa quando se trata de informação positiva (nenhum assassinato) ou negativa (há assassinatos) 
       @eh_info_negativa = eh_info_negativa
     end
 
     def eh_info_negativa
-      @atingidos
+      atingidos
     end
 
   end
 
-  class Previsao
-    attr_reader :atingidos, :circulo_pessoal
+  class Vitimas
+    attr_reader :atingidos, :circulo_pessoal, 
+                :conhecidos, :familiares, :domicilio, :taxa_cem_mil, :expectativa_de_vida
     def initialize(args={})      
       @taxa_cem_mil = args[:taxa_cem_mil].to_f
 
@@ -132,30 +135,32 @@ module CustomHelpers
       @domicilio = 4
       @expectativa_de_vida = 70
 
-      n = atingidos_total
+      @atingidos, @circulo_pessoal = _atingidos_e_circulo
+    end
+
+    def _atingidos_e_circulo
+      n = _atingidos_total
       case n
-      when 0..@domicilio
-        @atingidos = @domicilio/n
-        @circulo_pessoal = "em casa"
-      when @domicilio..@familiares
-        @atingidos = @familiares/n
-        @circulo_pessoal = "familiar"
-      when @familiares..@conhecidos
-        @atingidos = @conhecidos/n
-        @circulo_pessoal = "conhecido"
+      when 0..domicilio
+        atingidos = domicilio/n
+        circulo_pessoal = "em casa"
+      when domicilio..familiares
+        atingidos = familiares/n
+        circulo_pessoal = "familiar"
+      when @familiares..conhecidos
+        atingidos = conhecidos/n
+        circulo_pessoal = "conhecido"
       else
-        @circulo_pessoal = "nenhum conhecido*"
+        circulo_pessoal = "nenhum conhecido*"
       end
-      @atingidos = @atingidos.round if @atingidos
+
+      atingidos = atingidos.round if atingidos
+      [atingidos, circulo_pessoal]  
     end
 
-    def atingidos_total
-      t = @taxa_cem_mil/100000
-      (1-t)/(1-(1-t)**@expectativa_de_vida)
-    end
-
-    def calcular_circulo_pessoal
-
+    def _atingidos_total
+      t = taxa_cem_mil/100000
+      (1-t)/(1-(1-t)**expectativa_de_vida)
     end
 
   end
