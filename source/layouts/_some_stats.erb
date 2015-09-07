@@ -4,21 +4,29 @@
 
   <div class="item<%= " active" if n == 0 %> <%= stat.crime%> <%= stat.tipo_regiao%> <%= stat.circulo_pessoal%>">
     <div class="carousel-caption">
-      <p class='taxas-preambulo'>Mantidas as atuais taxas de violência*, <br>em média, ao longo de sua vida</p> 
-      <h1 class='taxas-valor'>o cidadão <%= stat.da_regiao %> </h1>
-      <p class='taxas-preambulo'>deve esperar receber a informação de que </p>
-      <p class='taxas-valor'>
-          <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %>
-      </p>
 
       <p class='taxas-preambulo'>
-          <%= utils.pluralize(stat.atingidos, "sofra") %>
-      </p>
+        Mantidas as atuais taxas de violência*, <br>em média, ao longo de sua vida: 
+      </p> 
+      <h1 class='taxas-preambulo'>
+        <span class=''>
+          Quem vive <%= utils.preposicao_em(stat.regiao) %> 
+        </span>
+        <span class='taxas-valor taxas-regiao'>
+          <%= stat.regiao %> 
+        </span>
+        deve esperar que
+        <span class='taxas-valor taxas-vitimas'>
+          <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> 
+        </span>
+        <%= "#{utils.pluralize(stat.atingidos, "seja")} #{utils.pluralize(stat.atingidos, "vítima")} de" %> 
+        <span class='taxas-valor taxas-crime'>
+          <%= utils.dicionario(  stat.crime  ) %>
+        </span>
+      </h1>
 
-      <h2 class='taxas-valor'><%= utils.dicionario(  stat.crime  ) %></h2>
 
-
-      <ul class="list-inline">
+      <ul class="list-inline taxas-share">
 
         <li><a  href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=<%= current_page_full_url %>;text=Ao longo da vida, estima-se que <%= "#{stat.atingidos} #{utils.pluralize(stat.atingidos, stat.circulo_pessoal)}" %> <%= utils.pluralize(stat.atingidos, "deva") %> sofrer <%= utils.dicionario(  stat.crime  ) %> <%= stat.na_regiao %>. <%= "E no Brasil? " unless stat.eh_info_negativa %><%= "" if stat.eh_info_negativa %>" 
                 target="_blank" class="tw-share icon icon-twitter popup">
@@ -43,8 +51,11 @@
           *referente à taxa de <%= stat.taxa_cem_mil.to_s.gsub(".",",") %> <%= utils.pluralize( stat.taxa_cem_mil, stat.crime) %> para cada 100.000 habitantes <br>
           <a href="<%= utils.dicionario(  stat.fonte  ) %>" target="_blank">fonte: <%= stat.fonte %></a>
       </p>
-      <p></p>     
-      <p><a class="btn btn-lg btn-primary" href='circulos-pessoais.html' role="button">Entenda a estatística</a></p> 
+          
+      
+<!--
+       <p><a class="btn btn-lg btn-primary" href='circulos-pessoais.html' role="button">Entenda a estatística</a></p> 
+ -->      
     </div>      
   </div>
 

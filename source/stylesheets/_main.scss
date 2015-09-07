@@ -105,14 +105,39 @@ body {
 /*  font-weight: bold;*/
 }
 .carousel-caption .taxas-preambulo {
-/*  font-size: 1.3em;*/
-  color: #bbb;
+  font-size: 1em;
+  color: #bbb; 
+  font-weight: normal; 
 }
 .carousel-caption .taxas-valor {
   font-family: 'Roboto Slab', serif;
   font-weight: bold;
   font-size: 2.0em;
   line-height: 1em;
+  color: #E6E6FF; 
+}
+.carousel-caption .taxas-preambulo span {
+  /*color: red;*/
+  display:block;
+  line-height: 1.5em;
+}
+.carousel-caption .taxas-valor.taxas-quem-vive-em {
+  font-size: 1.0em;
+  line-height: 0.2em;
+  font-weight: normal; 
+}
+.carousel-caption .taxas-valor.taxas-regiao {
+  font-size: 2.3em;
+}
+.carousel-caption .taxas-valor.taxas-vitimas {
+  font-size: 3.0em; 
+}
+.carousel-caption .taxas-valor.taxas-crime {
+  //line-height: 0;
+}
+.carousel-caption .taxas-share {
+  //line-height: 3.0em;
+  //font-size: 1.0em; 
 }
 .carousel-caption .taxas-footer {
   font-size: 0.8em;

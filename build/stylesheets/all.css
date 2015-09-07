@@ -7359,114 +7359,136 @@ body {
 
 /* line 107, /home/vla/git/vp/source/stylesheets/_main.scss */
 .carousel-caption .taxas-preambulo {
-  /*  font-size: 1.3em;*/
-  color: #bbb; }
+  font-size: 1em;
+  color: #bbb;
+  font-weight: normal; }
 
-/* line 111, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 112, /home/vla/git/vp/source/stylesheets/_main.scss */
 .carousel-caption .taxas-valor {
   font-family: 'Roboto Slab', serif;
   font-weight: bold;
   font-size: 2.0em;
-  line-height: 1em; }
+  line-height: 1em;
+  color: #E6E6FF; }
 
-/* line 117, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 119, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-preambulo span {
+  /*color: red;*/
+  display: block;
+  line-height: 1.5em; }
+
+/* line 124, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-valor.taxas-quem-vive-em {
+  font-size: 1.0em;
+  line-height: 0.2em;
+  font-weight: normal; }
+
+/* line 129, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-valor.taxas-regiao {
+  font-size: 2.3em; }
+
+/* line 132, /home/vla/git/vp/source/stylesheets/_main.scss */
+.carousel-caption .taxas-valor.taxas-vitimas {
+  font-size: 3.0em; }
+
+/* line 142, /home/vla/git/vp/source/stylesheets/_main.scss */
 .carousel-caption .taxas-footer {
   font-size: 0.8em;
   color: #bbb; }
 
-/* line 121, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 146, /home/vla/git/vp/source/stylesheets/_main.scss */
 .carousel-caption .taxas-autor {
   font-size: 0.7em;
   color: #bbf; }
 
 @media only screen and (max-width: 996px) {
-  /* line 126, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 151, /home/vla/git/vp/source/stylesheets/_main.scss */
   .same-height-if-possible {
     height: auto; } }
 @media only screen and (max-width: 768px) {
-  /* line 131, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 156, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 16px; } }
 @media only screen and (max-width: 470px) {
-  /* line 136, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 161, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 14px; } }
 @media only screen and (max-width: 310px) {
-  /* line 141, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 166, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 12px; }
 
-  /* line 144, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 169, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption .taxas-valor {
     /*    font-size: 1em;*/ } }
 /* entenda.html*/
-/* line 150, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 175, /home/vla/git/vp/source/stylesheets/_main.scss */
 .formula-sentimentos {
   padding: 50px 0;
   /*background-color: #777;*/ }
 
-/* line 154, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 179, /home/vla/git/vp/source/stylesheets/_main.scss */
 .entenda-observacao {
   color: dimgray;
   font-size: 0.8em; }
 
-/* line 158, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 183, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .casa {
   border: 3px solid red; }
 
-/* line 161, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 186, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .familiar {
   border: 3px solid orange; }
 
-/* line 164, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 189, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .conhecido {
   border: 3px solid yellow; }
 
-/* line 167, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 192, /home/vla/git/vp/source/stylesheets/_main.scss */
 svg {
   /*  fill: red;*/
   /*  border: 5px solid currentColor;*/ }
 
 /* blog */
-/* line 173, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 198, /home/vla/git/vp/source/stylesheets/_main.scss */
 .post h1 a {
   color: #444; }
 
-/* line 176, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 201, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta {
   margin-bottom: 1em;
   color: #777; }
 
-/* line 180, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 205, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta li {
   border-right: 1px solid #ddd; }
 
-/* line 183, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 208, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta li:last-child {
   border-right: none; }
 
-/* line 187, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 212, /home/vla/git/vp/source/stylesheets/_main.scss */
 .about .fa-rocket {
   font-size: 64px; }
 
 /* Navigation */
-/* line 192, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 217, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 195, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 220, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 198, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 223, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 201, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 226, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 204, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 229, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
