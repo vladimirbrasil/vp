@@ -137,7 +137,7 @@ class MyFeature < Middleman::Extension
     end
 
     def site_default_title
-      "O mais honesto mapa da segurança brasileira. Veja previsões"
+      "O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões"
     end
 
   end
