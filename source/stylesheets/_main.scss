@@ -150,6 +150,11 @@ body {
   font-size: 0.7em;
   color: #bbf;
 }
+.artigo-data {
+  font-size: 0.9em;
+  color: blue;
+  text-align: right; 
+}
 @media only screen and (max-width: 996px) {
   .same-height-if-possible {
     height: auto;
