@@ -48,7 +48,7 @@
         <% if !stat.atingidos %>
           *Via de regra é esperado que as vítimas sejam desconhecidas.<br>
         <% end %> 
-          *referente à taxa de <%= stat.taxa_cem_mil.to_s.gsub(".",",") %> <%= utils.pluralize( stat.taxa_cem_mil, stat.crime) %> para cada 100.000 habitantes <br>
+          *referente à taxa de <%= stat.taxa_cem_mil_rounded.to_s.gsub(".",",") %> <%= utils.pluralize( stat.taxa_cem_mil, stat.crime) %> para cada 100.000 habitantes <br>
           <a href="<%= stat.url %>" target="_blank">fonte: <%= stat.fonte %></a>
       </p>
           

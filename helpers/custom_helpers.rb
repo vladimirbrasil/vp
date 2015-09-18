@@ -94,6 +94,7 @@ module CustomHelpers
                 :da_regiao,
                 :na_regiao,
                 :taxa_cem_mil,
+                :taxa_cem_mil_rounded,
                 :atingidos,
                 :circulo_pessoal,
                 :eh_info_negativa
@@ -109,6 +110,7 @@ module CustomHelpers
       @da_regiao = "#{utils.preposicao_de( regiao )} #{regiao}"
       @na_regiao = "#{utils.preposicao_em( regiao )} #{regiao}"
       @taxa_cem_mil = args[:taxa_cem_mil]
+      @taxa_cem_mil_rounded = @taxa_cem_mil.to_f.round(1)
 
       vitimas = Vitimas.new(taxa_cem_mil: @taxa_cem_mil)
       @atingidos = vitimas.atingidos
