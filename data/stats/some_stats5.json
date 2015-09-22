@@ -1,17 +1,40 @@
 {
     "header":
     {
-        "crime": "roubo de veículo",
         "tipo_regiao": "estado",
-        "fonte": "7ª edição do Anuário Brasileiro de Segurança Pública",
-        "url": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/7a-edicao",
-        "ano": 2012
+        "ano": 2013,
+        "crime": "roubo de veículo",
+        "fonte": "8º Anuário Brasileiro de Segurança Pública",
+        "url": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/8o-anuario-brasileiro-de-seguranca-publica"
     },
     "stats":
     [
-        ["Rio de Janeiro", 421],
-        ["Amazonas", 737],
-        ["São Paulo", 374],
-        ["Rio Grande do Sul", 217]
+      ["Acre", 97.67855494],
+      ["Alagoas", 522.3198159],
+      ["Amazonas", 555.4691524],
+      ["Bahia", 412.8452858],
+      ["Ceará", 393.0556808],
+      ["Distrito Federal", 274.1693192],
+      ["Espírito Santo", 259.609003],
+      ["Goiás", 287.7483995],
+      ["Maranhão", 171.3729084],
+      ["Mato Grosso", 209.6134796],
+      ["Mato Grosso do Sul", 71.49702481],
+      ["Minas Gerais", 94.58996925],
+      ["Pará", 306.2263933],
+      ["Paraíba", 40.35095951],
+      ["Paraná", 120.3397855],
+      ["Pernambuco", 297.0704349],
+      ["Rio de Janeiro", 502.8630619],
+      ["Rio Grande do Sul", 202.9264705],
+      ["Rondônia", 163.7856913],
+      ["São Paulo", 401.9714496],
+      ["Amapá", 62.24039205],
+      ["Piauí", 193.2327619],
+      ["Rio Grande do Norte", 169.1307445],
+      ["Roraima", 119.75396],
+      ["Santa Catarina", 51.43701108],
+      ["Sergipe", 272.8015152],
+      ["Tocantins", 55.76493751]
     ]
-}    
+}
