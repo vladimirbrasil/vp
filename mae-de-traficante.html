@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta itemprop="url" content="http://mapadaseguranca.com"/>
+
+    <!-- Other Languages -->
+    <!-- https://support.google.com/webmasters/answer/189077?hl=en -->
+<!--     <link rel="alternate" hreflang="pt" href="http://mapadaseguranca.com" />
+    <link rel="alternate" hreflang="pt-BR" href="http://mapadaseguranca.com" />
+ -->
+
+<!--     <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+      <meta itemprop="target" content="http://mapadaseguranca.com/search?q={query}"/>
+      <input itemprop="query-input" type="text" name="query">
+      <input type="submit">
+    </form>
+ -->  
+  <meta charset="utf-8">
+  <!-- Always force latest IE rendering engine or request Chrome Frame -->
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 
+    SEO Stuff 
+  -->
+  <meta name="description" content="O mapa da segurança calcula se familiares podem ser atingidos por crimes ou epidemias. Deciframos taxas para cada 100.000 habitantes.">
+  <meta name="keywords" content="roubo, crime, violência, epidemia, assassinato, homicídio, proteção, segurança">
+  <meta name="author" content="Vladimir Bergier Dietrichkeit">  
+  <!-- Aparece o autor (pessoal ou página do site? -->
+  <link rel="author" href="https://plus.google.com/+VladimirBrasil" />
+ 
+  <!-- 
+    Google Apps for Work Stuff (Retirado - Não é grátis!)
+  <meta name="google-site-verification" content="x5600IJ0j94Sx_kL8JbuBwu70uCJsR20-kI38pNby8c" />  
+  -->  
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@MapaSeguranca" />
+  <meta name="twitter:url" content="http://mapadaseguranca.com" />
+  <meta name="twitter:title" content="O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões" />
+  <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinato este ano no Brasil? E se alguém de sua casa for roubado? Conheça o primeiro mapa da sua segurança." />
+  <meta name="twitter:image" content="images/logo.gif" />
+
+  <!-- Use title if it's in the page YAML frontmatter -->
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+  <title>Mãe de Traficante</title>
+  <!-- 
+    Style Stuff 
+  -->
+  <link href="stylesheets/all.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <!-- jquery before bootstrap to work properly-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="javascripts/all.js" type="text/javascript"></script>
+  
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400' rel='stylesheet' type='text/css'>    
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>   
+
+  <body class="mae-de-traficante">
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPQLCM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPQLCM');</script>
+<!-- End Google Tag Manager -->  
+
+<header class='navbar navbar-static-top'>
+  <nav class='container' role='navigation'>
+    <div class='navbar-header'>
+      <a href='index.html' class='navbar-brand'>O primeiro mapa da sua segurança.</a>
+
+      <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='.navbar-collapse'>
+        <span class='sr-only'>Toggle navigation</span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+      </button>
+    </div>
+
+    <ul class='nav navbar-nav navbar-right collapse navbar-collapse'>
+      <!-- <li><a href='#'>Em breve: Calcule suas taxas</a></li> -->
+      <li class='dropdown'>
+        <a href='#' data-target='#' class='dropdown-toggle' data-toggle='dropdown'>Sobre <span class='caret'></span></a>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='index.html'>Previsões</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">Editorial</li>
+          <li><a href='homicidios-100-porcento-investigados.html'>Homicídios 100% investigados</a></li>
+          <li><a href='a-semana-de-40-homicidios.html'>A terrível semana de 40 homicídios</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">A Ciência</li>
+          <li><a href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank">Análise da Revista Cálculo</a></li>
+          <li><a href='circulos-pessoais.html'>Casa, família, amigos</a></li>
+          <li><a href='proxima-ou-distante.html'>A violência está perto?</a></li>
+          <li><a href='http://calculo.mapadaseguranca.com' target="_blank">Leia a Tese...</a></li>
+          <li class='divider'></li>
+          <li><a href='contato.html'>Fale Conosco</a></li>
+          <li><a href='https://twitter.com/MapaSeguranca'>Twitter</a></li>
+          <!-- <li><a href='#'>Em breve: Facebook</a></li> -->
+          <!-- <li><a href='#'>Em breve: Google+</a></li> -->
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>   
+
+<!--     <ul class='breadcrumb'>
+  <li class=""><a href="index.html">Previsões</a></li>
+  <li class=""><a href="circulos-pessoais.html">Círculos Pessoais</a></li>
+  <li class=""><a href="proxima-ou-distante.html">Violência Próxima ou Distante?</a></li>
+  <li class=""><a href="http://calculo.mapadaseguranca.com" target="_blank">Leia o Artigo</a></li>
+  <li class=""><a href="contato.html">Fale Conosco</a></li>
+</ul>    -->
+
+    <div itemscope itemtype="http://schema.org/Article" class='container'>
+  <div class='row text-justify'>
+    <div class='col-sm-3'></div>
+    <div class='col-sm-6'>
+    <br>
+    <h1 itemprop="name" class='text-left'>
+      <b>Mãe de Traficante</b>
+    </h1>
+    <p>
+      <span itemprop="author">Por Vladimir Bergier Dietrichkeit</span>. 
+      <meta itemprop="datePublished" content="2015-10-04"><br><span class="artigo-data">4 de outubro de 2015.</span>  
+    </p>
+    <h2 class='text-left'>
+      Mãe de Traficante
+    </h2>
+    <br>
+    <p class="well">
+Assisti este vídeo na internet:
+</p><p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYo1R2oN8g8?rel=0" frameborder="0" allowfullscreen></iframe>
+</p><p>
+Perfeito. 
+Um retrato fiel na linguagem apropriada aos vitimados. 
+</p><p>
+Ressalto o seguinte, que quem acompanha os artigos deste site, já sabe.
+</p><p>
+O vídeo termina dizendo: 
+</p><p class="well">
+A vida no crime não compensa. E o filho morre assassinado e vive com olhar de maldade. 
+</p><p id="investigadores">
+Se temos que começar por apenas um crime, considero inteligente eliminar os homicídios, não o tráfico, pelo menos por enquanto. 
+</p><p>
+Veja bem: são apenas 50 mil homicídios frente a mais de 5 milhões de roubos e outros crimes, como o tráfico. Isto significa que mobilizando apenas 1 equipe por dia, para cada homicídio diário no bairro ou na cidade, se chega no assassino. 
+</p><p>
+Obviamente que será necessário anotar nos assentamentos funcionais dos <a href="#investigadores" data-toggle="tooltip" title="Seção Para Quem Entende! Sejam investigadores a guarda municipal, criando nova atribuição, ou a polícia militar, passando a poder investigar com o carreira e ciclo completos, com promoção na carreira considerando os sucessos em suas investigações, ou a polícia civil, da mesma maneira, passando a ter carreira e ciclo completos.">investigadores responsáveis</a> se o suspeito chegou a ir a júri, ou seja, se a justiça aceitou as provas policiais, evitando colocar "qualquer um" como suspeito. 
+</p><p>
+Os chefes da equipe também ganham pontos para cada homicídio resolvido.
+</p><p>
+Homicídio resolvido é homicídio que vai a júri (que consegue ir a julgamento, pelo povo). Evidentemente não basta apresentar "qualquer" suspeito, com a finalidade de ganhar pontos na carreira policial. Da mesma maneira, os chefes perdem pontos por cada homicídio <b>não resolvido</b>, ou seja, <b>que não vai a júri</b>, qualquer que seja o motivo. 
+</p><p>
+Está montado um sistema de carreira e pontuação anti-homicídios. Anti-mães-chorando. 
+</p><p>
+Mais pontos na carreira para quem consegue identificar e levar a juri os assassinos dos 50 mil homicídios que irão ocorrer em 2015, 2016, 2017... 
+</p><p>
+Subtrair pontos de cada homicídio que não consegue identificar e levar a juri o assassino. 
+</p><p class="well">
+Na grande maioria dos bairros e cidades, há menos de um homicídio por dia.
+</p><p>
+É, portanto, fácil deslocar uma equipe nestes dias somente para identificar e levar à justiça os suspeitos de de cada homicídio. 
+</p><p>
+</p><p>
+Como possui o dever de somente condenar havendo provas o suficiente, e nada ganha em condenar inocentes ou suspeitos com poucas provas, a Justiça tenderá a levar a juri somente os casos que chegam até ela com fartas provas policiais. 
+</p><p>
+Fartas provas policiais avançam na justiça. Bons e variados depoimentos. Seguindo protocolos de reconhecimento com variadas fotos (não apenas uma!). Eventualmente contendo filmagens. Incluindo filmagens reversas e futuras - buscando o caminho que o assassino fez antes e depois do assassinato, nos casos em que não há câmera no exato local do crime. 
+</p><p>
+Com incentivo na carreira, todas as técnicas poderão ser utilizadas, aperfeiçoadas e criadas para que resultem em provas consistentes para a justiça avaliar e considerar suficientes para levar o assassino a juri.
+</p><p>
+Isto "tudo" (na verdade, pouco, muito fácil de implementar - deslocar uma equipe por dia e anotar idas a juri em assentamentos funcionais não requer nenhum gasto) evita a mãe chorando no final do vídeo "Mãe de Traficante". 
+</p><p class="well">
+150 mães todos os dias choram a morte de seus filhos no Brasil (mais freqüentemente nos finais de semana). 
+</p><p>
+Isto nada tem relação com o tráfico. 
+</p><p>
+O "olhar de maldade", citado muito bem na música do Mc Daleste, continuaria. 
+</p><p>
+Apenas as mortes sairiam muito caras para qualquer assassino, pois estes passariam a ir a júri. 
+</p><p>
+Isto evitaria as mortes (no México cada região tinha uma taxa de elucidação de homicídios, as regiões com maior resolução de homicídios possuíam menos homicídios - investigar reduz homicídios). 
+</p><p>
+Até o olhar de maldade diminuiria. 
+</p><p class="well">
+A maldade mais profunda reside na morte. 
+</p><p>
+Ver os outros morrerem. Já mortos ou ver o acontecimento em si. Ou eventualmente matar. 
+</p><p>
+Fora da rota da morte, o tráfico é faculdade e curso técnico de administração de empresas. 
+</p><p>
+Contabilidade, vendas, vender mais barato, dominar o mercado. 
+</p><p class="well">
+Sem mortes, restando apenas análises contábeis e disputa por poder, diminui ou termina o olhar de maldade do traficante. 
+</p><p>
+Sem morte, a habilidade comercial do traficante pode até ser considerado habilidade para empresas contratarem gerentes do tráfico para administrar mercados legítimos, saindo da ilegalidade do tráfico, passando a aproveitar o talento gerencial de tantos mal aproveitados talentos em finalidades legítimas. 
+</p><p>
+Sem morte. 
+</p><p class="well">
+A morte é o veneno que penetra no olhar (que passa a conter a maldade). 
+</p><p>
+A morte é o problema a ser evitado. 
+</p><p>
+Muito obrigado pelo interesse em ler um artigo inteiro para aumentar a segurança no Brasil.
+</p><p>
+Vladimir Bergier Dietrichkeit.
+</p><p>
+<br>
+Observação: investigar reduz homicídios. Os cientistas ou estudantes podem se convencerem observando as diferentes regiões do México. Lá, onde havia mais investigação de homicídios, havia menos homicídios. Claro! <a href="http://www.mexicoevalua.org/wp-content/uploads/2013/02/MEX-EVA_INDX_SJPE-LOW.pdf" target="_blank">Investigar reduz homicídios. Veja no México</a>. Não precisamos passar dez anos anotando dados aqui no Brasil. basta investigarmos todos os nossos homicídios. É de graça e, se funcionar, podemos começar <a href="homicidios-100-porcento-investigados.html">agora mesmo</a>.
+</p>
+
+  </div>
+
+  <div class='col-sm-3'></div>
+
+        
+</div>
+
+  <!-- Ação: clicks -->
+  <div class='container'>
+    <div class='row text-center well'>
+
+      <div class='col-sm-2'>
+      </div>
+
+      <div class='col-sm-4'>
+              <p><a class=" btn btn-lg btn-primary  center-block" href='index.html' role="button">Previsões</a></p>
+      </div>
+
+      <div class='col-sm-4'>
+              <p><a class=" btn btn-lg btn-primary  center-block" href="contato.html" role="button">Fale conosco</a></p>              
+      
+      </div>
+
+      <div class='col-sm-2'>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+
+    
+    <!-- Logo -->  
+
+<!--
+<div class='row text-center'>
+  <a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/logo.svg" alt="Google+" width="100px"></a>
+  </div>
+-->
+ 
+  <div class='footer'>
+    <div class="container">
+
+      <br>
+      <div class="share">
+  <div class='row text-center'>
+    <div class='col-sm-12'>
+
+       <ul class="list-inline">
+
+          <li><a itemprop="interactionService" itemscope itemid="http://www.twitter.com" itemtype="http://schema.org/Website" href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http://mapadaseguranca.com/mae-de-traficante.html;text=Mãe de Traficante" 
+                  target="_blank" class="tw-share icon icon-twitter popup">
+                  <span class="fa fa-twitter fa-3x"></span>
+                  <span class="sr-only">Compartilhar no Twitter</span></a></li>
+
+
+        <li><a  href="whatsapp://send?text=Mãe de Traficante http://mapadaseguranca.com/mae-de-traficante.html" 
+                target="_blank" class="ws-share icon icon-whatsapp">
+                <span class="fa fa-whatsapp fa-3x"></span>
+                <span class="sr-only">Compartilhar no WhatsApp</span></a></li>
+
+      </ul>
+    </div>
+  </div>
+</div>  
+
+
+      <div class='row text-center'>
+        <div class='col-sm-12'>
+          <h4>Quem somos</h4>
+          <p>MapaDaSeguranca.com busca <b>universalizar</b> o entendimento de informações sobre segurança.  </p>
+        </div>
+      </div>
+
+    <!-- Ação: clicks -->
+    <div class='row text-center'>
+      <br>
+      <div class='col-sm-4'>
+      </div>
+
+      <div class='col-sm-4'>
+        <p><a class=" btn btn-lg btn-danger  center-block" href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank" role="button">Estamos na revista Cálculo!</a></p>                    
+      </div>
+
+      <div class='col-sm-4'>
+      </div>
+    </div>
+
+      <div class='row  text-center'>
+        <div class='col-sm-6'>
+          <h4>Autor</h4>
+          <a href="https://plus.google.com/+VladimirBrasil?rel=author" target="_blank"><div class="autor"></div></a>          
+          <p class="curriculo">Vladimir Bergier Dietrichkeit é membro do Grupo de Trabalho para a Reestruturação da Polícia Federal junto ao Ministério do Planejamento, Orçamento e Gestão e Ministério da Justiça. Também é membro da Fundação Brasileira de Ciências Policiais a partir de 2015. Vladimir quer calcular se familiares podem ser atingidos por crimes ou epidemias.</p>          
+        </div>
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Desafio</h4>
+          <div class="logotipo"></div>          
+          <p>Vladimir quer traduzir para cada vez mais pessoas - das mais variadas classes - como as taxas para cada 100.000 habitantes afetam suas casas, seus familiares, seus conhecidos. Esse é o desafio de inovação do novo método de apresentação da informação sobre violência calculado por <b>MapaDaSeguranca.com</b>.</p>        
+        </div>
+      </div>
+      
+      <div class='row text-center'>
+        <div class='col-sm-6'>
+          <h4>Compreensão</h4>
+          <p>MapaDaSeguranca.com acredita que <b>todos</b>, mesmo aqueles que não entendem matemática ou não trabalham diretamente com segurança pública, precisam entender o que está acontecendo em sua região ou segmento social.</p>
+        </div>
+
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Cobrar e elogiar</h4>
+          <p>MapaDaSeguranca.com aposta que o entendimento universal sobre segurança ajudará mais pessoas a <b>compreender, cobrar e elogiar</b> políticas de segurança.</p>
+        </div>
+
+
+      </div>
+
+     <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <ul class="list-inline">
+            <li>
+              <br><p><a href="https://twitter.com/MapaSeguranca" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @MapaSeguranca</a></p>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li> 
+            <li>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-via="MapaSeguranca" data-lang="pt">Tweetar</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li>
+          </ul>
+        </div>
+      </div>      
+ 
+      <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <p>por <span itemprop="name">Vladimir Bergier Dietrichkeit</span> 
+          <!--<a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/Google_plus.svg" alt="Google+" width="16px"></a> | -->
+          | <a href="mailto:info@mapadaseguranca.com"  itemprop="email">info@mapadaseguranca.com</a></p>          
+        </div>
+      </div>      
+    </div>
+
+  </div>   
+
+  </body>
+
+ 
+</html>
