@@ -151,9 +151,9 @@ module CustomHelpers
         circulo_pessoal = "familiar"
       when @familiares..conhecidos
         atingidos = conhecidos/n
-        circulo_pessoal = "conhecido"
+        circulo_pessoal = "amigo"
       else
-        circulo_pessoal = "nenhum conhecido*"
+        circulo_pessoal = "nenhum amigo*"
       end
 
       atingidos = atingidos.round if atingidos
