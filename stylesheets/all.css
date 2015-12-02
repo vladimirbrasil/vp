@@ -7508,3 +7508,9 @@ header.navbar {
 .dropdown-menu > li > a:focus {
   background-color: #204d74;
   color: #fff; }
+
+/* line 247, /home/vla/git/vp/source/stylesheets/_main.scss */
+.eventos {
+  margin: 10px;
+  display: inline;
+  align: center; }
