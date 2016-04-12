@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog da Segurança</title>
   <subtitle>Soluções para o aparentemente insolucionável</subtitle>
-  <id>http://blog.mapadaseguranca.com/blog</id>
-  <link href="http://blog.mapadaseguranca.com/blog"/>
-  <link href="http://blog.mapadaseguranca.com/feed.xml" rel="self"/>
+  <id>http://www.mapadaseguranca.com/blog</id>
+  <link href="http://www.mapadaseguranca.com/blog"/>
+  <link href="http://www.mapadaseguranca.com/feed.xml" rel="self"/>
   <updated>2016-03-12T21:00:00-03:00</updated>
   <author>
     <name>Vladimir Bergier Dietrichkeit</name>
   </author>
   <entry>
     <title>Polícia cidadã e direitos humanos. Uma prática?</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html</id>
     <published>2016-03-12T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:21-03:00</updated>
     <author>
@@ -130,8 +130,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Microgestor da segurança.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/02/28/microgestor-da-seguranca.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/02/28/microgestor-da-seguranca.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/02/28/microgestor-da-seguranca.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/02/28/microgestor-da-seguranca.html</id>
     <published>2016-02-27T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:24-03:00</updated>
     <author>
@@ -215,8 +215,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>O cidadão não é seu inimigo.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html</id>
     <published>2016-02-27T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:23-03:00</updated>
     <author>
@@ -292,8 +292,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Rio de sangue.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/02/28/rio-de-sangue.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/02/28/rio-de-sangue.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/02/28/rio-de-sangue.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/02/28/rio-de-sangue.html</id>
     <published>2016-02-27T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:22-03:00</updated>
     <author>
@@ -337,8 +337,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>O teste A/B da segurança.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/02/28/teste-a-b.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/02/28/teste-a-b.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/02/28/teste-a-b.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/02/28/teste-a-b.html</id>
     <published>2016-02-27T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:22-03:00</updated>
     <author>
@@ -432,8 +432,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Queremos combater o inimigo?</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html</id>
     <published>2016-02-25T21:00:00-03:00</published>
     <updated>2016-04-12T11:14:35-03:00</updated>
     <author>
@@ -602,8 +602,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>A terrível semana gaúcha de 40 homicídios.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2015/12/08/a-semana-de-40-homicidios.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2015/12/08/a-semana-de-40-homicidios.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2015/12/08/a-semana-de-40-homicidios.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2015/12/08/a-semana-de-40-homicidios.html</id>
     <published>2015-12-07T22:00:00-02:00</published>
     <updated>2016-04-12T10:50:25-03:00</updated>
     <author>
@@ -715,8 +715,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Lixeiros não usam cinto de segurança.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2015/12/01/ciclo-incompleto.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2015/12/01/ciclo-incompleto.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2015/12/01/ciclo-incompleto.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2015/12/01/ciclo-incompleto.html</id>
     <published>2015-11-30T22:00:00-02:00</published>
     <updated>2016-04-12T10:50:26-03:00</updated>
     <author>
@@ -770,8 +770,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Terror... em Paris?</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2015/11/15/terror-em-paris.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2015/11/15/terror-em-paris.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2015/11/15/terror-em-paris.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2015/11/15/terror-em-paris.html</id>
     <published>2015-11-14T22:00:00-02:00</published>
     <updated>2016-04-12T10:50:27-03:00</updated>
     <author>
@@ -877,8 +877,8 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
   </entry>
   <entry>
     <title>Mãe de Traficante.</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2015/10/04/mae-de-traficante.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2015/10/04/mae-de-traficante.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2015/10/04/mae-de-traficante.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2015/10/04/mae-de-traficante.html</id>
     <published>2015-10-03T21:00:00-03:00</published>
     <updated>2016-04-12T10:50:27-03:00</updated>
     <author>
@@ -1063,8 +1063,8 @@ Resta tanta "maldade" quanto um corretor de bolsa em busca de lucro em suas tran
   </entry>
   <entry>
     <title>Homicídio-Zero sem gastar 1 centavo. Você imaginaria no Brasil?</title>
-    <link rel="alternate" href="http://blog.mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html"/>
-    <id>http://blog.mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html</id>
+    <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html"/>
+    <id>http://www.mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html</id>
     <published>2015-08-21T21:00:00-03:00</published>
     <updated>2016-04-12T11:00:58-03:00</updated>
     <author>
