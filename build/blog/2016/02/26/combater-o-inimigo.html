@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta itemprop="url" content="http://mapadaseguranca.com"/>
+
+    <!-- Other Languages -->
+    <!-- https://support.google.com/webmasters/answer/189077?hl=en -->
+<!--     <link rel="alternate" hreflang="pt" href="http://mapadaseguranca.com" />
+    <link rel="alternate" hreflang="pt-BR" href="http://mapadaseguranca.com" />
+ -->
+
+<!--     <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+      <meta itemprop="target" content="http://mapadaseguranca.com/search?q={query}"/>
+      <input itemprop="query-input" type="text" name="query">
+      <input type="submit">
+    </form>
+ -->  
+  <meta charset="utf-8">
+  <!-- Always force latest IE rendering engine or request Chrome Frame -->
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 
+    SEO Stuff 
+  -->
+  <meta name="description" content="O mapa da segurança calcula se familiares podem ser atingidos por crimes ou epidemias. Deciframos taxas para cada 100.000 habitantes.">
+  <meta name="keywords" content="roubo, crime, violência, epidemia, assassinato, homicídio, proteção, segurança">
+  <meta name="author" content="Vladimir Bergier Dietrichkeit">  
+  <!-- Aparece o autor (pessoal ou página do site? -->
+  <link rel="author" href="https://plus.google.com/+VladimirBrasil" />
+ 
+  <!-- 
+    Google Apps for Work Stuff (Retirado - Não é grátis!)
+  <meta name="google-site-verification" content="x5600IJ0j94Sx_kL8JbuBwu70uCJsR20-kI38pNby8c" />  
+  -->  
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@MapaSeguranca" />
+  <meta name="twitter:url" content="http://mapadaseguranca.com" />
+  <meta name="twitter:title" content="O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões" />
+  <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinato este ano no Brasil? E se alguém de sua casa for roubado? Conheça o primeiro mapa da sua segurança." />
+  <meta name="twitter:image" content="/images/logo.gif" />
+
+  <!-- Use title if it's in the page YAML frontmatter -->
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+
+    <title>Blog Title - Queremos combater o inimigo?</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+
+  <!-- 
+    Style Stuff 
+  -->
+  <link href="../../../../stylesheets/all.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <!-- jquery before bootstrap to work properly-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="../../../../javascripts/all.js" type="text/javascript"></script>
+  
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400|Lora:400,400italic,700' rel='stylesheet' type='text/css'>  
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>   
+
+  <body class="blog blog_2016 blog_2016_02 blog_2016_02_26 blog_2016_02_26_combater-o-inimigo">
+
+  	<!-- facebook script -->
+	<script>
+	  window.fbAsyncInit = function() {
+	    FB.init({
+	      appId      : '1698565290377342',
+	      xfbml      : true,
+	      version    : 'v2.5'
+	    });
+	  };
+
+	  (function(d, s, id){
+	     var js, fjs = d.getElementsByTagName(s)[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement(s); js.id = id;
+	     js.src = "//connect.facebook.net/en_US/sdk.js";
+	     fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
+  	<!-- fim facebook script -->
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPQLCM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPQLCM');</script>
+<!-- End Google Tag Manager -->  
+
+<header class='navbar navbar-static-top'>
+  <nav class='container' role='navigation'>
+    <div class='navbar-header'>
+      <a href='/index.html' class='navbar-brand'>O primeiro mapa da sua segurança.</a>
+
+      <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='.navbar-collapse'>
+        <span class='sr-only'>Toggle navigation</span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+      </button>
+    </div>
+
+    <ul class='nav navbar-nav navbar-right collapse navbar-collapse'>
+      <!-- <li><a href='#'>Em breve: Calcule suas taxas</a></li> -->
+      <li class='dropdown'>
+        <a href='#' data-target='#' class='dropdown-toggle' data-toggle='dropdown'>Veja mais<span class='caret'></span></a>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='/index.html'>Previsões</a></li>
+          <li><a href='/blog.html'>Blog</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">Propostas</li>
+          <li><a href='http://investigacao.mapadaseguranca.com' target="_blank">Como estimular a investigação de homicídios</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">A Ciência</li>
+          <li><a href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank">Análise da Revista Cálculo</a></li>
+          <li><a href='/circulos-pessoais.html'>Casa, família, amigos</a></li>
+          <li><a href='/proxima-ou-distante.html'>A violência está perto?</a></li>
+          <li><a href='http://calculo.mapadaseguranca.com' target="_blank">Leia a Tese...</a></li>
+          <li class='divider'></li>
+          <li><a href='/contato.html'>Fale Conosco</a></li>
+          <li><a href='https://twitter.com/MapaSeguranca'>Twitter</a></li>
+          <!-- <li><a href='#'>Em breve: Facebook</a></li> -->
+          <!-- <li><a href='#'>Em breve: Google+</a></li> -->
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>   
+
+<!--     <ul class='breadcrumb'>
+  <li class=""><a href="index.html">Previsões</a></li>
+  <li class=""><a href="circulos-pessoais.html">Círculos Pessoais</a></li>
+  <li class=""><a href="proxima-ou-distante.html">Violência Próxima ou Distante?</a></li>
+  <li class=""><a href="http://calculo.mapadaseguranca.com" target="_blank">Leia o Artigo</a></li>
+  <li class=""><a href="contato.html">Fale Conosco</a></li>
+</ul>    -->
+
+    
+  <div id="main" role="main">
+    <div class='container'>
+      <div class='row text-left'>
+        <div class='col-sm-8'>
+
+      
+          <div class='row text-left'>
+            <div class='col-sm-2'></div>
+
+            <div class='col-sm-8'>              
+              <article>
+                <h1 id="queremos-combater-o-inimigo">Queremos combater o inimigo?</h1>
+
+<h2 id="sobre-a-militarizao-ou-desmilitarizao-das-polcias">Sobre a militarização ou desmilitarização das polícias.</h2>
+
+<p>Observo em alguns comentários a saudação à nossa atual organização social e, dentro dela, a saudação ao nosso formato de segurança pública.</p>
+
+<blockquote>
+  <p>Todas opiniões possuem fundamentos e importâncias.</p>
+</blockquote>
+
+<p>Observei opiniões que demonstram que "nossa organização social" quer agir na modalidade de guerra, de inimigo.</p>
+
+<p>Na modalidade de combate a inimigo, mesmo que este inimigo esteja dentro da própria sociedade, uma polícia militar cabe, realmente, perfeitamente, muito melhor do que polícias civis, não militares.</p>
+
+<p>O "inimigo", que não participa de diretorias, congressos, debates jornalísticos, debates sobre segurança pública como o debate que está sendo feito pelo site Mudamos (link no final do texto), mal sabe que é tratado, inclusive nas opiniões sobre o futuro da segurança pública, como "inimigo".</p>
+
+<p>Neste sentido, não há grandes falhas na segurança pública atual, realmente, vejamos:</p>
+
+<blockquote>
+  <p>O pessoal que frequenta as áreas de graduação e pós-graduação, os debates jornalísticos, que molda a maior parte das opiniões lógicas e escritas, pode querer a polícia evitando roubos e furtos nas ruas mais importantes, mais ricas (ou menos pobres) das cidades brasileiras, mantendo o saco de lixo grosso do IML recolhendo os corpos assassinados nas periferias.</p>
+</blockquote>
+
+<p>Aparentemente cumprimos, ou estamos muito próximos de cumprir, a rotina acima descrita. Vejamos se confere abaixo:</p>
+
+<blockquote>
+  <p>Principalmente quando ocorre a raridade de um assassinato nas ruas mais "bem"-frequentadas das cidades, a repulsa, a imprensa, surgem, e os policiais rapidamente tentam, e usualmente conseguem, capturar o assassino.</p>
+</blockquote>
+
+<p>92% dos 60 mil assassinatos recebem o serviço "especial" de limpeza, na verdade chamado de IML e com direito a congelador e perícia, quando a estrutura permite.</p>
+
+<blockquote>
+  <p>A não-investigação de 55 mil dos 60 mil assassinatos anuais, todavia, indica que o recolhimento do cadáver assassinado no Brasil se trata - se pudermos realmente tirar as papas da língua neste instante: - se trata mesmo de um serviço de limpeza, com saco de lixo preto mais grosso, com ziper.</p>
+</blockquote>
+
+<p>Algo primata, porque até mesmo animais enterram seus semelhantes.</p>
+
+<p>Para evitar apodrecimento e mau-cheiro.</p>
+
+<p>Nada sofisticado, nada diferente dos animais. Também nada que não fosse praticado há milhões de anos, antes mesmo de conseguirmos andar em pé, quando ainda tínhamos rabos longos e andávamos mais em árvores.</p>
+
+<p>Sim, neste sentido, é que a segurança pública brasileira está, então, sob este ponto de vista, bem azeitada, até.</p>
+
+<p>Cuidamos das ruas mais bem-frequentadas, e mal sabem os nossos "inimigos", que eles não fazem parte de nossas sugestões de melhorias na segurança pública.</p>
+
+<p>E assim caminhamos, veja só com que origem: em 1800 - ontem, do ponto de vista antropológico - Dom João veio ao Brasil. Naquele instante, dez mil nobres recebiam o melhor das riquezas do país, com 1 milhão de escravos carregando esgoto em tonéis (não havia encanamentos), entre outras tarefas com mais trabalho do que remuneração, em uma taxa de trabalho/remuneração.</p>
+
+<blockquote>
+  <p>Hoje - voltando ao século 21 -, se a monarquia não mais existe, empurrados "desagradavelmente" por uma tal revolução iluminista, com bons exemplos nas revoluções francesa e americana; tentamos ao máximo nos livrar da "necessidade mundialmente imposta" de "respeitar direitos humanos" (antes o mundo todo vivia de tortura e confissão; nem presídios precisava, matava-se em público) e disfarçamos, ao máximo, nossa realidade de monarquia, com nossos apenas 10% nobres, travestida de uma "democracia", com "direitos humanos".</p>
+</blockquote>
+
+<p>Estes trajes de direitos humanos, tentando mal-vestir uma cultura da monarquia, que remonta à época de Dom João - por exemplo, polícia de combate ao inimigo, como em 1800; porém tentando ao máximo fazer crer que é democrática e que não sobe o morro mais para esculachar do que para proteger direitos humanos - como o maior direito humano, o direito à vida (sem este direito os outros não importam mais…), devem deixar muitos intelectuais brasileiros malucos, esquizofrênicos, e eu peço desculpas a vocês, jovens intelectuais, que ainda não tomaram a pílula da verdade, pílula que mostraria que mais parecemos a mesma monarquia de 1800, com 10% "nobres" esculachando o resto. Seria a cultura real, mal-vestida, travestida sob textos legais - como Constituição e leis -, que têm toda cara de "direitos humanos", como "liberdade de ir e vir", "direito à vida" (letras no papel há!), parecendo realmente refletir o século 21.</p>
+
+<blockquote>
+  <p>Como um jovem intelectual genuinamente interessado pode lidar com essas verdades sobre nosso país e pessoas, ao mesmo tempo com vestimentas formais que parecem dizer o oposto? Contradições não conseguem parar de irromper os diques.</p>
+</blockquote>
+
+<p>Podemos ir mais além ainda.</p>
+
+<p>Se o poder é do povo, e o "povo" quer (a) seguir esculachando a periferia e (b) cuidar das ruas mais "bem"-frequentadas (só não podemos deixar os outros 90% do povo, a periferia, participar nesta votação! Mas eles nem entendem mesmo, não deixamos muito eles se intelectualizarem, precisam ralar antes por casa, comida, com orçamentos mais apertados que os intelectuais em geral), então muitos do "povo" (muitos dos debatedores presentes no site Mudamos, por exemplo) podem simplesmente deixar a segurança pública como sempre esteve, pois já havia se estabilizado, estando "perfeita", muito efetiva, em sua habilidade e estrutura para:</p>
+
+<p>(a) esculachar a periferia: deixar a morte assassinada correr solta lá, sem investigar (somente recolher/limpar os corpos), "manter a ordem" lá - e longe - com o êxito indiscutível, recorde mundial, no topo há décadas, de conseguirmos deixar morrer 60 mil pessoas assassinadas, todo ano, 160 por dia, sem jamais investigar 55 mil assassinatos por ano, sem jamais investigar 150 assassinatos por dia, nas periferias.</p>
+
+<p>(b) vigiar bem de perto, imediatamente, quem vem atrapalhar o "povo" aqui: prender o máximo de criminosos, ou suspeitos de crimes, de furtos e roubos aqui nas ruas mais "bem"-freqüentadas das cidades, com o êxito indiscutível de termos a população carcerária que mais cresce no mundo, e já a terceira população carcerária do mundo.</p>
+
+<p>Neste sentido, então sim, já temos polícias que são especializadas em manter esta estrutura. É a estrutura atual!</p>
+
+<p>Uma polícia de combate imediato ao "inimigo". Uma polícia militar, sem dúvida, neste específico sentido, só pode ser mais adequada em relação a uma polícia civil, não militar, que não é especificamente montada para combater inimigos.</p>
+
+<p>Esta estrutura, inclusive, já está montada de maneira a parecer atender à uma Constituição Iluminista - que representaria aqueles tais "direitos humanos" que o mundo impõe a nós, brasileiros.</p>
+
+<p>Assim, a polícia parece muitas vezes esculachar a periferia, mas isto não está no papel. A Constituição não escreve Art xx.: "esculachar a periferia", ao contrário, escreve "direitos humanos", "direito de ir e vir", "direito à vida", "para todos".</p>
+
+<p>Mas nas ruas, onde não há texto nem papel - há a cultura, a realidade - temos estrutura bastante sedimentada na capacidade de esculachar a periferia.</p>
+
+<p>E tudo anda como muitos do "povo", presentes nos debates intelectuais e cafeterias, no fundo de seus pensamentos, parecem desejar: uma aparência de Iluminismo insculpida em nossas leis e Constituição, exportada internacionalmente; porém travestindo o esculacho e tratamento de inimigo às periferias, no dia-a-dia, na não-investigação de 55 mil assassinatos por ano, no super-combate ao maior número de furtos e roubos possível, com a mais crescente população carcerária do mundo.</p>
+
+<p>Nunca foi um paradoxo a eficiência em prender (muitos roubos e furtos) mas não em investigar (92% dos assassinatos não são investigados)</p>
+
+<blockquote>
+  <p>Esta é exatamente a "eficiência" da vida real na estrutura atual: agir aqui (nas ruas mais "bem"-frequentadas); não agir ali (nas periferias).</p>
+</blockquote>
+
+<p>A eficiência tanto na super-ação - super-combate a furtos e roubos nas ruas "bem"-frequentadas - quanto na inação (omissão) - não-investigação de 55 mil assassinatos anuais nas periferias -, cirurgicamente regulada, serve para atender às pessoas que mais frequentam as decisões, diretorias, chefias, gabinetes, opiniões jornalísticas, debates políticos, aparentemente.</p>
+
+<p>Seriam (Seríamos: somos todos responsáveis pela cultura conjunta) os herdeiros dos 10% mais "nobres", porém no século 21?</p>
+
+<p>Muitos não parecem (não parecemos) querer mudar a segurança pública atual. Se fosse para mudar, parecem querer mais do mesmo, o que usualmente significa pedir mais efetivo, permitindo então prender ainda mais assaltantes nas ruas mais "bem"-frequentadas, ao mesmo tempo que continuaríamos sem precisar investigar assassinatos nas periferias.</p>
+
+<p>De maneira extremamente particular, privada, pessoal, perdoem minha quase-insanidade mental, eu estou ao lado da periferia, mesmo sem pertencer a ela. (Perdoem minha insanidade mental ou até mesmo traição a muitos do "povo" que circulam nos cafés, diretorias, chefias, secretarias, debates):</p>
+
+<blockquote>
+  <p>Eu quero que não aconteça mais nenhum homícidio na periferia (nem em lugar nenhum).</p>
+</blockquote>
+
+<blockquote>
+  <p>Mesmo "que seja relacionado ao tráfico", como muitos do "povo" costumamos dizer, para não ficarmos com a consciência pesada de "esquecer" de proteger "aqueles" (da periferia) "direitos humanos".</p>
+</blockquote>
+
+<p>Gostaria inclusive, que todo batalhão, delegacia, juizado, em cada território, parasse tudo, para investigar o homicídio que aconteceu naquele dia ou naquela semana.</p>
+
+<p>Descobrindo, em pelo menos 80% dos casos, quem foi o criminoso, em todo e qualquer caso de assassinato.</p>
+
+<p>Ou seja, gostaríamos que nos preparássemos para investigar assassinatos em ruas periféricas, de pessoas de baixa renda, em regiões onde quem faz a segurança são traficantes.</p>
+
+<p>A boa notícia? Na imensa maioria dos casos o crime não é de difícil solução, envolvendo briga de marido-mulher, briga de bar.</p>
+
+<p>Basta levarmos mais do que apenas um saco preto pesado inscrito IML.</p>
+
+<p>Basta levarmos a capacidade de investigação que levaríamos se o fato acontecesse em frente à sede de jornal de grande porte da cidade.</p>
+
+<p>Ocorrem cem vezes menos assassinatos do que ocorrem furtos e roubos.</p>
+
+<p>Basta, portanto, deslocarmos 1% da nossa comprovada capacidade de prender assaltantes, porém para investigar o único assassinato do dia ou da semana, em cada batalhão, delegacia, juizado, território.</p>
+
+<p>Com o tempo, a segurança pública ao invés de ser exercida na prática por traficantes, nas periferias, será exercida por um microgestor da segurança pública, na mais original - remontando ao livro Policiamento Comunitário, do Bailey - Polícia Comunitária possível, em que:</p>
+
+<p><em>"Quanto mais próximo for o relacionamento entre o policial e as pessoas na sua ronda, quanto mais pessoas ele conhecer e quanto mais essas pessoas confiarem nele, maiores são suas chances de reduzir o crime."</em> Charlie Silberman, Criminal Violence, Criminal Justice, 1978.; e</p>
+
+<p><em>"A premissa central do policiamento comunitário é que o público deve exercer um papel mais ativo e coordenado na obtenção da segurança. O público deve ser visto como 'co-produtor' da segurança e da ordem juntamente com a polícia"</em>. Policiamento Comunitário, Bailey e outro autor, EDUSP.</p>
+
+<p>Mas quando chegarmos a este ponto, a periferia não mais será inimiga, esculachada, mas co-autora, em tese co-produtora, da segurança pública.</p>
+
+<p>Aí ficará menos necessário o caráter militar nas polícias, ainda que seja possível ter polícias militares e, ao mesmo tempo, amigas. Importante é o conceito de ter a população, inclusive das periferias, como co-produtora, não como inimiga, da segurança pública. Via de regra, neste ponto, não será necessária uma organização de guerra, de combate.</p>
+
+<p>Não posso deixar de comentar que em uma situação destas o microgestor da segurança em seu território também não é mais um mero soldado cumpridor de ordens dos gabinetes centrais. Não é mais um soldado, cuja principal qualidade seja não questionar. Não. O microgestor do policiamento comunitário em seu território precisa treinar a habilidade de solucionar e criar.</p>
+
+<p>Então este microgestor da segurança será ou 1. Melhor remunerado; ou 2. Possuirá uma perspectiva de carreira completa, podendo chegar a qualquer chefia do órgão. Ambas as modalidades dão incentivo para uma boa carreira, desde o inicial microgestor da segurança nas pontas, espacializado em galgar a confiança dos moradores do território, gradativamente trazer a confiança do público para si, especializado em andar cada vez mais lado-a-lado, e cada vez menos de-frente-para, o morador, evitando, com apoio e co-produção da população, mais crimes do que reprimindo; até o instrutor, o chefe, o diretor, especializado em ensinar, mapear, prever, estimar, correlacionar, gerir verbas de bilhões, para todo o órgão.</p>
+
+<p>Isto é minha particularíssima opinião, usando meu direito de opinar. Compreendo que muitos do "povo" dos debates, não raro, querem só manter o "status quo", notadamente aqueles que já se empoleiraram em algum cantinho financeiro e social bom, como por exemplo um cargo público, um cargo policial bom, um comando, uma chefia.</p>
+
+<p>Peço, então, desculpas, por não querer isto que muitas vezes é sugerido nos debates sobre segurança pública:</p>
+
+<ol>
+  <li>
+    <p>Criticar e duvidar das capacidades das mudanças propostas - criticar sempre é fácil -; e</p>
+  </li>
+  <li>
+    <p>Manter o status quo, sempre também muito fácil.</p>
+  </li>
+</ol>
+
+<blockquote>
+  <p><u>Hoje, via de regra, há serviço de limpeza, não de investigação, de corpos assassinados</u>.</p>
+</blockquote>
+
+<p>É o que muitos do "povo" debatedor querem, quem sou eu para ir contra uma eventual maioria?</p>
+
+<p><a href="http://veja.abril.com.br/blog/cacador-de-mitos/historia/a-meritocracia-em-defesa-dos-pobres/" target="_blank">Um breve relato sobre a vida no século XVIII, e a revolução iluminista</a>.</p>
+
+<p><a href="ciclo-incompleto.html" target="_blank">Este artigo adicional é para quem está gostando deste tipo de ponto de vista</a>.</p>
+
+<p><a href="homicidios-100-porcento-investigados.html" target="_blank">Este artigo adicional é para quem quer saber como investigar 100% dos homicídios no Brasil</a>.</p>
+
+<p><a href="https://www.mudamos.org/temas/seguranca-publica/assuntos/desmilitarizacao" target="_blank">Veja os debates sobre segurança pública no site Mudamos</a>.</p>
+
+<p>Sorte a todos nós, debatedores, brasileiros, humanos.</p>
+
+<p>Vladimir Bergier Dietrichkeit.</p>
+
+  
+              </article>
+            </div>
+            <div class='col-sm-2'></div>
+          </div>
+
+        </div>
+        <div class='col-sm-4'>
+          <aside class="listagem-artigos">
+            <h2>Artigos recentes</h2>
+            <ul>
+                <li><span>13/03/2016 </span><br><a href="/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html">Polícia cidadã e direitos humanos. Uma prática?</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/microgestor-da-seguranca.html">Microgestor da segurança.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html">O cidadão não é seu inimigo.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/rio-de-sangue.html">Rio de sangue.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/teste-a-b.html">O teste A/B da segurança.</a></li>
+                <li><span>26/02/2016 </span><br><a href="/blog/2016/02/26/combater-o-inimigo.html">Queremos combater o inimigo?</a></li>
+                <li><span> 8/12/2015 </span><br><a href="/blog/2015/12/08/a-semana-de-40-homicidios.html">A terrível semana gaúcha de 40 homicídios.</a></li>
+                <li><span> 1/12/2015 </span><br><a href="/blog/2015/12/01/ciclo-incompleto.html">Lixeiros não usam cinto de segurança.</a></li>
+                <li><span>15/11/2015 </span><br><a href="/blog/2015/11/15/terror-em-paris.html">Terror... em Paris?</a></li>
+                <li><span> 4/10/2015 </span><br><a href="/blog/2015/10/04/mae-de-traficante.html">Mãe de Traficante.</a></li>
+            </ul>
+
+            <h2>Tags</h2>
+            <ul>
+                <li><a href="/blog/tags/iniquidades.html">iniquidades (2)</a></li>
+                <li><a href="/blog/tags/periferias.html">periferias (1)</a></li>
+                <li><a href="/blog/tags/favelas.html">favelas (1)</a></li>
+                <li><a href="/blog/tags/gestao.html">gestão (2)</a></li>
+                <li><a href="/blog/tags/descentralizacao.html">descentralização (1)</a></li>
+                <li><a href="/blog/tags/terrorismo.html">terrorismo (1)</a></li>
+                <li><a href="/blog/tags/violencia.html">violência (2)</a></li>
+                <li><a href="/blog/tags/homicidio.html">homicídio (3)</a></li>
+                <li><a href="/blog/tags/militarizacao.html">militarização (2)</a></li>
+                <li><a href="/blog/tags/desmilitarizacao.html">desmilitarização (2)</a></li>
+                <li><a href="/blog/tags/cidadania.html">cidadania (1)</a></li>
+                <li><a href="/blog/tags/racismo.html">racismo (1)</a></li>
+            </ul>
+
+            <h2>Por ano</h2>
+            <ul>
+                <li><a href="/blog/2016.html">2016 (6)</a></li>
+                <li><a href="/blog/2015.html">2015 (5)</a></li>
+            </ul>
+          </aside>
+          
+        </div>
+      </div>
+      <div class='row text-left'>
+            
+
+        <div class='formula-sentimentos row text-center'>
+    <img src="/images/violenciaperto-formuladesentimentos.svg" alt="Fórmula de sentimentos" width="150px">
+  <h1 class='well'>Uma fórmula para nossos sentimentos.</h1>
+  <p>
+    O estudo de Vladimir Bergier Dietrichkeit transforma frias contagens para cada cem mil habitantes em sentimentos que podem afetar nossos amigos, nossos familiares, nossa casa. </p>
+  <h3 class='well'>Afinal de contas, não é o que realmente queremos saber?
+  </h3>
+</div>
+   
+
+        <!-- Ação: clicks -->
+        <div class='container'>
+          <div class='row text-center well'>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href='/index.html' role="button">Previsões</a></p>
+            </div>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href='/blog.html' role="button">Artigos</a></p>
+            </div>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href="/contato.html" role="button">Fale conosco</a></p>              
+      
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+  </div>
+        
+
+
+
+    
+    <!-- Logo -->  
+
+<!--
+<div class='row text-center'>
+  <a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/logo.svg" alt="Google+" width="100px"></a>
+  </div>
+-->
+ 
+  <div class='footer'>
+    <div class="container">
+
+      <br>
+      <div class="share">
+  <div class='row text-center'>
+    <div class='col-sm-12'>
+
+       <ul class="list-inline">
+
+          <li><a itemprop="interactionService" itemscope itemid="http://www.twitter.com" itemtype="http://schema.org/Website" href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http://mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html;text=Queremos combater o inimigo?" 
+                  target="_blank" class="tw-share icon icon-twitter popup">
+                  <span class="fa fa-twitter fa-3x"></span>
+                  <span class="sr-only">Compartilhar no Twitter</span></a></li>
+
+
+        <li>
+          <div
+            class="fb-like"
+            data-share="true"
+            data-width="450"
+            data-show-faces="true">
+          </div>          
+        </li>
+
+
+        <li><a  href="whatsapp://send?text=Queremos combater o inimigo? http://mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html" 
+                target="_blank" class="ws-share icon icon-whatsapp">
+                <span class="fa fa-whatsapp fa-3x"></span>
+                <span class="sr-only">Compartilhar no WhatsApp</span></a></li>
+
+      </ul>
+    </div>
+  </div>
+</div>  
+
+
+      <div class='row text-center'>
+        <div class='col-sm-12'>
+          <h4>Quem somos</h4>
+          <p>MapaDaSeguranca.com busca <b>universalizar</b> o entendimento de informações sobre segurança.  </p>
+        </div>
+      </div>
+
+    <!-- Ação: clicks -->
+    <div class='row text-center'>
+      <br>
+      <div class='col-sm-6'>
+      
+        <p><a class=" btn btn-lg btn-primary  center-block" href='http://www.mudamos.org/temas/seguranca-publica' target="_blank" role="button">Participamos em Mudamos.org!</a></p>                    
+      </div>
+
+      <div class='col-sm-6'>
+        <p><a class=" btn btn-lg btn-success  center-block" href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank" role="button">Estamos na revista Cálculo!</a></p>                    
+      </div>
+
+    </div>
+
+      <div class='row  text-center'>
+        <div class='col-sm-6'>
+          <h4>Autor</h4>
+          <a href="https://plus.google.com/+VladimirBrasil?rel=author" target="_blank"><div class="autor"></div></a>          
+          <p class="curriculo">Vladimir Bergier Dietrichkeit é membro do Grupo de Trabalho para a Reestruturação da Polícia Federal junto ao Ministério do Planejamento, Orçamento e Gestão e Ministério da Justiça. Também é membro da Fundação Brasileira de Ciências Policiais a partir de 2015. Vladimir quer calcular se familiares podem ser atingidos por crimes ou epidemias.</p>          
+        </div>
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Desafio</h4>
+          <div class="logotipo"></div>          
+          <p>Vladimir quer traduzir para cada vez mais pessoas - das mais variadas classes - como as taxas para cada 100.000 habitantes afetam suas casas, seus familiares, seus conhecidos. Esse é o desafio de inovação do novo método de apresentação da informação sobre violência calculado por <b>MapaDaSeguranca.com</b>.</p>        
+        </div>
+      </div>
+      
+      <div class='row text-center'>
+        <div class='col-sm-6'>
+          <h4>Compreensão</h4>
+          <p>MapaDaSeguranca.com acredita que <b>todos</b>, mesmo aqueles que não entendem matemática ou não trabalham diretamente com segurança pública, precisam entender o que está acontecendo em sua região ou segmento social.</p>
+        </div>
+
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Cobrar e elogiar</h4>
+          <p>MapaDaSeguranca.com aposta que o entendimento universal sobre segurança ajudará mais pessoas a <b>compreender, cobrar e elogiar</b> políticas de segurança.</p>
+        </div>
+
+
+      </div>
+
+<!-- 
+        <div class='row text-center'>
+  <div class='col-sm-12'>
+    <h4>Eventos dos quais contribuimos ou participamos</h4>
+    <div class="eventos">
+      <div  class="eventos">
+        <img src="/images/participamos-do-dia-do-bem.png" alt="Participamos do Dia do Bem" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-da-audiencia-tce.jpg" alt="Participamos da Audiência sobre Segurança Pública do Tribunal de Contas do Estado do Rio Grande do Sul" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-do-simposio-pucrs.jpg" alt="Participamos do 1º Simpósio Nacional Sobre a Reforma do Sistema de Segurança Pública" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-do-conapef.jpg" alt="Participamos do 16º CONAPEF" height="100">
+      </div>
+    </div>
+  </div>
+</div>      
+ -->
+
+<!--       <div
+        class="fb-like row text-center"
+        data-share="true"
+        data-width="450"
+        data-show-faces="true">
+      </div>          
+ -->
+
+     <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <ul class="list-inline">
+            <li>
+              <br><p><a href="https://twitter.com/MapaSeguranca" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @MapaSeguranca</a></p>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li> 
+            <li>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-via="MapaSeguranca" data-lang="pt">Tweetar</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li>
+          </ul>
+        </div>
+      </div>      
+ 
+      <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <p>por <span itemprop="name">Vladimir Bergier Dietrichkeit</span> 
+          <!--<a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/Google_plus.svg" alt="Google+" width="16px"></a> | -->
+          | <a href="mailto:info@mapadaseguranca.com"  itemprop="email">info@mapadaseguranca.com</a></p>          
+        </div>
+      </div>      
+    </div>
+
+  </div>   
+
+  </body>
+
+ 
+</html>

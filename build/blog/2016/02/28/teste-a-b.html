@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+
+  <head itemscope itemtype="http://schema.org/WebSite">
+    <meta itemprop="url" content="http://mapadaseguranca.com"/>
+
+    <!-- Other Languages -->
+    <!-- https://support.google.com/webmasters/answer/189077?hl=en -->
+<!--     <link rel="alternate" hreflang="pt" href="http://mapadaseguranca.com" />
+    <link rel="alternate" hreflang="pt-BR" href="http://mapadaseguranca.com" />
+ -->
+
+<!--     <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+      <meta itemprop="target" content="http://mapadaseguranca.com/search?q={query}"/>
+      <input itemprop="query-input" type="text" name="query">
+      <input type="submit">
+    </form>
+ -->  
+  <meta charset="utf-8">
+  <!-- Always force latest IE rendering engine or request Chrome Frame -->
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 
+    SEO Stuff 
+  -->
+  <meta name="description" content="O mapa da segurança calcula se familiares podem ser atingidos por crimes ou epidemias. Deciframos taxas para cada 100.000 habitantes.">
+  <meta name="keywords" content="roubo, crime, violência, epidemia, assassinato, homicídio, proteção, segurança">
+  <meta name="author" content="Vladimir Bergier Dietrichkeit">  
+  <!-- Aparece o autor (pessoal ou página do site? -->
+  <link rel="author" href="https://plus.google.com/+VladimirBrasil" />
+ 
+  <!-- 
+    Google Apps for Work Stuff (Retirado - Não é grátis!)
+  <meta name="google-site-verification" content="x5600IJ0j94Sx_kL8JbuBwu70uCJsR20-kI38pNby8c" />  
+  -->  
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@MapaSeguranca" />
+  <meta name="twitter:url" content="http://mapadaseguranca.com" />
+  <meta name="twitter:title" content="O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões" />
+  <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinato este ano no Brasil? E se alguém de sua casa for roubado? Conheça o primeiro mapa da sua segurança." />
+  <meta name="twitter:image" content="/images/logo.gif" />
+
+  <!-- Use title if it's in the page YAML frontmatter -->
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+
+    <title>Blog Title - O teste A/B da segurança.</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+
+  <!-- 
+    Style Stuff 
+  -->
+  <link href="../../../../stylesheets/all.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <!-- jquery before bootstrap to work properly-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="../../../../javascripts/all.js" type="text/javascript"></script>
+  
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400|Lora:400,400italic,700' rel='stylesheet' type='text/css'>  
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>   
+
+  <body class="blog blog_2016 blog_2016_02 blog_2016_02_28 blog_2016_02_28_teste-a-b">
+
+  	<!-- facebook script -->
+	<script>
+	  window.fbAsyncInit = function() {
+	    FB.init({
+	      appId      : '1698565290377342',
+	      xfbml      : true,
+	      version    : 'v2.5'
+	    });
+	  };
+
+	  (function(d, s, id){
+	     var js, fjs = d.getElementsByTagName(s)[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement(s); js.id = id;
+	     js.src = "//connect.facebook.net/en_US/sdk.js";
+	     fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
+  	<!-- fim facebook script -->
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPQLCM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPQLCM');</script>
+<!-- End Google Tag Manager -->  
+
+<header class='navbar navbar-static-top'>
+  <nav class='container' role='navigation'>
+    <div class='navbar-header'>
+      <a href='/index.html' class='navbar-brand'>O primeiro mapa da sua segurança.</a>
+
+      <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='.navbar-collapse'>
+        <span class='sr-only'>Toggle navigation</span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+        <span class='icon-bar'></span>
+      </button>
+    </div>
+
+    <ul class='nav navbar-nav navbar-right collapse navbar-collapse'>
+      <!-- <li><a href='#'>Em breve: Calcule suas taxas</a></li> -->
+      <li class='dropdown'>
+        <a href='#' data-target='#' class='dropdown-toggle' data-toggle='dropdown'>Veja mais<span class='caret'></span></a>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='/index.html'>Previsões</a></li>
+          <li><a href='/blog.html'>Blog</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">Propostas</li>
+          <li><a href='http://investigacao.mapadaseguranca.com' target="_blank">Como estimular a investigação de homicídios</a></li>
+          <li class='divider'></li>
+          <li class="dropdown-header">A Ciência</li>
+          <li><a href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank">Análise da Revista Cálculo</a></li>
+          <li><a href='/circulos-pessoais.html'>Casa, família, amigos</a></li>
+          <li><a href='/proxima-ou-distante.html'>A violência está perto?</a></li>
+          <li><a href='http://calculo.mapadaseguranca.com' target="_blank">Leia a Tese...</a></li>
+          <li class='divider'></li>
+          <li><a href='/contato.html'>Fale Conosco</a></li>
+          <li><a href='https://twitter.com/MapaSeguranca'>Twitter</a></li>
+          <!-- <li><a href='#'>Em breve: Facebook</a></li> -->
+          <!-- <li><a href='#'>Em breve: Google+</a></li> -->
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>   
+
+<!--     <ul class='breadcrumb'>
+  <li class=""><a href="index.html">Previsões</a></li>
+  <li class=""><a href="circulos-pessoais.html">Círculos Pessoais</a></li>
+  <li class=""><a href="proxima-ou-distante.html">Violência Próxima ou Distante?</a></li>
+  <li class=""><a href="http://calculo.mapadaseguranca.com" target="_blank">Leia o Artigo</a></li>
+  <li class=""><a href="contato.html">Fale Conosco</a></li>
+</ul>    -->
+
+    
+  <div id="main" role="main">
+    <div class='container'>
+      <div class='row text-left'>
+        <div class='col-sm-8'>
+
+      
+          <div class='row text-left'>
+            <div class='col-sm-2'></div>
+
+            <div class='col-sm-8'>              
+              <article>
+                <h1 id="o-teste-ab-da-segurana">O teste A/B da segurança.</h1>
+
+<h2 id="existe-uma-ferramenta-que-tem-sido-um-grande-sucesso-atualmente-na-elaborao-de-aplicativos-e-jogos--o-chamado-a-hrefhttpsptwikipediaorgwikitesteab-targetblankteste-aba-explicao-em-a-hrefhttpsenwikipediaorgwikiabtesting-targetblankinglsa">Existe uma ferramenta que tem sido um grande sucesso, atualmente, na elaboração de aplicativos e jogos. É o chamado <a href="https://pt.wikipedia.org/wiki/Teste_A/B" target="_blank">Teste A/B</a>. (Explicação em <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">inglês</a>).</h2>
+
+<blockquote>
+  <p>Em rápido resumo, o “Teste A/B” permite que um fabricante crie e coloque no mercado dois ou mais tipos de solução, ao mesmo tempo - por exemplo, duas ou mais variações de um mesmo jogo: com uma música diferente, com um “vilão” diferente, com finais diferentes, etc.</p>
+</blockquote>
+
+<p>Ferramentas, como o próprio Google e a Apple fornecem, permitem que se possa colher os resultados alcançados para cada variação do jogo que foi lançada, simultaneamente - resultados alcançados pela variação “A”, resultados alcançados pela variação “B”, etc (por isso o nome “Teste A/B”).</p>
+
+<p>Com isto o fabricante consegue saber, para cada variação, “A”, “B”, “C”, etc, do jogo lançado, os resultados obtidos por cada variação, como por exemplo: quantas pessoas instalaram o aplicativo, quanto tempo executaram o jogo em média, em que fase pararam, qual nota deram para o jogo, etc.</p>
+
+<p>Após este “Teste A/B”, preliminar, finalmente, o fabricante poderá optar por lançar, definitivamente, apenas a solução que obteve o melhor desempenho junto ao público.</p>
+
+<p>Não é muito melhor lançar jogos para celular assim?</p>
+
+<p>Será que realmente isto só se aplica a videogames e aplicativos de computador?</p>
+
+<p>O que segurança pública tem a ver com isto?</p>
+
+<p>Aparentemente, este seria um caso em que diríamos que este tipo de procedimento somente se aplicaria a jogos de vídeo-game ou aplicativos de computador e celular.</p>
+
+<blockquote>
+  <p>Mas, até certo ponto, a segurança pública brasileira pode não estar tão longe da possibilidade de aplicar algo bem similar ao “Teste A/B” usado para produzir aplicativos e jogos para celular.</p>
+</blockquote>
+
+<p>Ou seja, a segurança pública brasileira pode não estar tão longe da possibilidade de poder testar mais de uma solução, para depois, então, escolher aplicar as soluções que apresentarem melhor desempenho, descartando as soluções que apresentarem baixo desempenho.</p>
+
+<p>A descentralização federativa, quem diria - avaliem -, parece permitir, dentro de si, o “Teste A/B”, que tipicamente é utilizado em jogos para videogame.</p>
+
+<blockquote>
+  <p>A descentralização federativa é uma técnica de implementar segurança pública que permite que cada estado elabore sua variação de segurança pública, atendendo apenas aos requisitos básicos obrigatórios (carreira única, ciclo completo, curriculum nacional mínimo, etc).</p>
+</blockquote>
+
+<p>Assim, de maneira bem similar à flexibilidade de testes que possui o “Teste A /B” para videogames, com a descentralização federativa, cada estado poderá implementar uma segurança pública com certas variações.</p>
+
+<p>Por exemplo, uma segurança pública - sempre com carreira única, ciclo completo, curriculum nacional mínimo, etc - seria implementada com uma pequena variação “A” em São Paulo; com uma pequena variação “B” no Paraná. Com uma variação “C” em Santa Catarina. E assim sucessivamente.</p>
+
+<p>Por exemplo, com algumas polícias de bairro em São Paulo. Com uma polícia especializada em contrabando no Paraná. Com polícias para pequenos crimes e desinteligências, e outra para crimes maiores, em Santa Catarina. Pequenas variações sobre o mesmo tema: as variações “A”, “B”, “C”, em cada estado, sempre apresentariam o mesmo núcleo obrigatório, por exemplo, ciclo completo, carreira única, demais características que sejam obrigatórias a todos os estados.</p>
+
+<blockquote>
+  <p>Após um certo período de tempo, naturalmente, estados com problemas similares poderão começar a comparar suas soluções; suas variações, quais soluções obtiveram melhor resultado, em problemas similares.</p>
+</blockquote>
+
+<p>População e imprensa poderão começar a perceber, e cobrar, que as soluções de cada estado que melhor conseguiram reduzir determinados problemas de segurança, sejam implantadas em seus respectivos estados e, de maneira inversa, pedir para modificar, ou interromper, soluções que não tiveram bom desempenho, em comparação com soluções obtidas por outros estados em problemas similares.</p>
+
+<p>Aliás, não é esta a maior força do Brasil, o maior país, com maior diversidade, da América Latina?</p>
+
+<blockquote>
+  <p>A descentralização faz uso da maior força do Brasil: seu tamanho.</p>
+</blockquote>
+
+<p>Também vale o oposto: engessar o maior país da América Latina, com maior tamanho e maior diversidade da América Latina, com apenas uma maneira de implementar segurança, pode ser a maior fraqueza do Brasil.</p>
+
+<p>É muito mais simples criar um modelo de segurança único em países menores, como o Uruguai, por exemplo.</p>
+
+<p>Assim como é praticamente impossível criar modelos separados, com "variações por estado", em países pequenos, novamente, como o Uruguai, por exemplo.</p>
+
+<blockquote>
+  <p>Nós podemos.</p>
+</blockquote>
+
+<p>O Brasil pode.</p>
+
+<blockquote>
+  <p>O Brasil tem tamanho e diversidade - o maior da América Latina - para efetuar 27 testes A/B, um em cada estado, como as mais modernas empresas efetuam em seus produtos e serviços, até que pelo menos uma experiência dê muito mais certo do que outras, e todos possamos seguir os melhores exemplos, e nos afastar dos piores exemplos.</p>
+</blockquote>
+
+<p>Essa é uma das maiores forças do Brasil. Seu tamanho e diversidade. Se souber ser utilizado. Com a descentralização federativa, em um perfeito casamento com o tamanho e potencial de variação do país.</p>
+
+<p>Esta capacidade de variação passa a ser um verdadeiro “Teste A/B”, com os grandes benefícios que tornaram este tipo de teste um sucesso entre aplicativos para celular, porém podendo acontecer, de maneira similar, com a nossa fundamental segurança pública.</p>
+
+<p>Tendo em consideração que segurança pública é assunto complexo - como já procurei defender em outra postagem -, é muito útil podemos contar, dentro do próprio sistema escolhido, com a capacidade que a descentralização federativa possui de implementar até 27 soluções diferentes, uma para cada estado, ao invés de apenas uma aposta, uma única solução nacional, como é hoje, sem a descentralização federativa.</p>
+
+<p>Poder implementar variadas soluções, por estado, permitirá, ao longo do tempo, que as soluções com melhores resultados se repliquem nos demais estados com problemas similares, e que as soluções com pior desempenho deixem de ser aplicadas nos estados com problemas similares.</p>
+
+<blockquote>
+  <p>Será que a descentralização federativa não é o grande “Teste A/B” da segurança pública, ou seja, a capacidade de aprimorarmos nossas políticas com muito mais agilidade, com mais testes e avaliação de resultados?</p>
+</blockquote>
+
+<p>Se assim for, ela talvez seja a mais importante decisão a ser tomada, para nossa segurança pública brasileira, podendo aumentar em até 27 vezes nossa capacidade de aprender com nossos erros e acertos, ano após ano.</p>
+
+<p>Vladimir Bergier Dietrichkeit.</p>
+
+  
+              </article>
+            </div>
+            <div class='col-sm-2'></div>
+          </div>
+
+        </div>
+        <div class='col-sm-4'>
+          <aside class="listagem-artigos">
+            <h2>Artigos recentes</h2>
+            <ul>
+                <li><span>13/03/2016 </span><br><a href="/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html">Polícia cidadã e direitos humanos. Uma prática?</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/microgestor-da-seguranca.html">Microgestor da segurança.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/o-cidadao-nao-e-seu-inimigo.html">O cidadão não é seu inimigo.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/rio-de-sangue.html">Rio de sangue.</a></li>
+                <li><span>28/02/2016 </span><br><a href="/blog/2016/02/28/teste-a-b.html">O teste A/B da segurança.</a></li>
+                <li><span>26/02/2016 </span><br><a href="/blog/2016/02/26/combater-o-inimigo.html">Queremos combater o inimigo?</a></li>
+                <li><span> 8/12/2015 </span><br><a href="/blog/2015/12/08/a-semana-de-40-homicidios.html">A terrível semana gaúcha de 40 homicídios.</a></li>
+                <li><span> 1/12/2015 </span><br><a href="/blog/2015/12/01/ciclo-incompleto.html">Lixeiros não usam cinto de segurança.</a></li>
+                <li><span>15/11/2015 </span><br><a href="/blog/2015/11/15/terror-em-paris.html">Terror... em Paris?</a></li>
+                <li><span> 4/10/2015 </span><br><a href="/blog/2015/10/04/mae-de-traficante.html">Mãe de Traficante.</a></li>
+            </ul>
+
+            <h2>Tags</h2>
+            <ul>
+                <li><a href="/blog/tags/iniquidades.html">iniquidades (2)</a></li>
+                <li><a href="/blog/tags/periferias.html">periferias (1)</a></li>
+                <li><a href="/blog/tags/favelas.html">favelas (1)</a></li>
+                <li><a href="/blog/tags/gestao.html">gestão (2)</a></li>
+                <li><a href="/blog/tags/descentralizacao.html">descentralização (1)</a></li>
+                <li><a href="/blog/tags/terrorismo.html">terrorismo (1)</a></li>
+                <li><a href="/blog/tags/violencia.html">violência (2)</a></li>
+                <li><a href="/blog/tags/homicidio.html">homicídio (3)</a></li>
+                <li><a href="/blog/tags/militarizacao.html">militarização (2)</a></li>
+                <li><a href="/blog/tags/desmilitarizacao.html">desmilitarização (2)</a></li>
+                <li><a href="/blog/tags/cidadania.html">cidadania (1)</a></li>
+                <li><a href="/blog/tags/racismo.html">racismo (1)</a></li>
+            </ul>
+
+            <h2>Por ano</h2>
+            <ul>
+                <li><a href="/blog/2016.html">2016 (6)</a></li>
+                <li><a href="/blog/2015.html">2015 (5)</a></li>
+            </ul>
+          </aside>
+          
+        </div>
+      </div>
+      <div class='row text-left'>
+            
+
+        <div class='formula-sentimentos row text-center'>
+    <img src="/images/violenciaperto-formuladesentimentos.svg" alt="Fórmula de sentimentos" width="150px">
+  <h1 class='well'>Uma fórmula para nossos sentimentos.</h1>
+  <p>
+    O estudo de Vladimir Bergier Dietrichkeit transforma frias contagens para cada cem mil habitantes em sentimentos que podem afetar nossos amigos, nossos familiares, nossa casa. </p>
+  <h3 class='well'>Afinal de contas, não é o que realmente queremos saber?
+  </h3>
+</div>
+   
+
+        <!-- Ação: clicks -->
+        <div class='container'>
+          <div class='row text-center well'>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href='/index.html' role="button">Previsões</a></p>
+            </div>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href='/blog.html' role="button">Artigos</a></p>
+            </div>
+
+            <div class='col-sm-4'>
+                    <p><a class=" btn btn-lg btn-primary  center-block" href="/contato.html" role="button">Fale conosco</a></p>              
+      
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+  </div>
+        
+
+
+
+    
+    <!-- Logo -->  
+
+<!--
+<div class='row text-center'>
+  <a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/logo.svg" alt="Google+" width="100px"></a>
+  </div>
+-->
+ 
+  <div class='footer'>
+    <div class="container">
+
+      <br>
+      <div class="share">
+  <div class='row text-center'>
+    <div class='col-sm-12'>
+
+       <ul class="list-inline">
+
+          <li><a itemprop="interactionService" itemscope itemid="http://www.twitter.com" itemtype="http://schema.org/Website" href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http://mapadaseguranca.com/blog/2016/02/28/teste-a-b.html;text=O teste A/B da segurança." 
+                  target="_blank" class="tw-share icon icon-twitter popup">
+                  <span class="fa fa-twitter fa-3x"></span>
+                  <span class="sr-only">Compartilhar no Twitter</span></a></li>
+
+
+        <li>
+          <div
+            class="fb-like"
+            data-share="true"
+            data-width="450"
+            data-show-faces="true">
+          </div>          
+        </li>
+
+
+        <li><a  href="whatsapp://send?text=O teste A/B da segurança. http://mapadaseguranca.com/blog/2016/02/28/teste-a-b.html" 
+                target="_blank" class="ws-share icon icon-whatsapp">
+                <span class="fa fa-whatsapp fa-3x"></span>
+                <span class="sr-only">Compartilhar no WhatsApp</span></a></li>
+
+      </ul>
+    </div>
+  </div>
+</div>  
+
+
+      <div class='row text-center'>
+        <div class='col-sm-12'>
+          <h4>Quem somos</h4>
+          <p>MapaDaSeguranca.com busca <b>universalizar</b> o entendimento de informações sobre segurança.  </p>
+        </div>
+      </div>
+
+    <!-- Ação: clicks -->
+    <div class='row text-center'>
+      <br>
+      <div class='col-sm-6'>
+      
+        <p><a class=" btn btn-lg btn-primary  center-block" href='http://www.mudamos.org/temas/seguranca-publica' target="_blank" role="button">Participamos em Mudamos.org!</a></p>                    
+      </div>
+
+      <div class='col-sm-6'>
+        <p><a class=" btn btn-lg btn-success  center-block" href='http://www.revistacalculo.com.br/um-boeing-737-caindo-todo-dia/' target="_blank" role="button">Estamos na revista Cálculo!</a></p>                    
+      </div>
+
+    </div>
+
+      <div class='row  text-center'>
+        <div class='col-sm-6'>
+          <h4>Autor</h4>
+          <a href="https://plus.google.com/+VladimirBrasil?rel=author" target="_blank"><div class="autor"></div></a>          
+          <p class="curriculo">Vladimir Bergier Dietrichkeit é membro do Grupo de Trabalho para a Reestruturação da Polícia Federal junto ao Ministério do Planejamento, Orçamento e Gestão e Ministério da Justiça. Também é membro da Fundação Brasileira de Ciências Policiais a partir de 2015. Vladimir quer calcular se familiares podem ser atingidos por crimes ou epidemias.</p>          
+        </div>
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Desafio</h4>
+          <div class="logotipo"></div>          
+          <p>Vladimir quer traduzir para cada vez mais pessoas - das mais variadas classes - como as taxas para cada 100.000 habitantes afetam suas casas, seus familiares, seus conhecidos. Esse é o desafio de inovação do novo método de apresentação da informação sobre violência calculado por <b>MapaDaSeguranca.com</b>.</p>        
+        </div>
+      </div>
+      
+      <div class='row text-center'>
+        <div class='col-sm-6'>
+          <h4>Compreensão</h4>
+          <p>MapaDaSeguranca.com acredita que <b>todos</b>, mesmo aqueles que não entendem matemática ou não trabalham diretamente com segurança pública, precisam entender o que está acontecendo em sua região ou segmento social.</p>
+        </div>
+
+        <div class='col-sm-5 col-sm-offset-1'>
+          <h4>Cobrar e elogiar</h4>
+          <p>MapaDaSeguranca.com aposta que o entendimento universal sobre segurança ajudará mais pessoas a <b>compreender, cobrar e elogiar</b> políticas de segurança.</p>
+        </div>
+
+
+      </div>
+
+<!-- 
+        <div class='row text-center'>
+  <div class='col-sm-12'>
+    <h4>Eventos dos quais contribuimos ou participamos</h4>
+    <div class="eventos">
+      <div  class="eventos">
+        <img src="/images/participamos-do-dia-do-bem.png" alt="Participamos do Dia do Bem" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-da-audiencia-tce.jpg" alt="Participamos da Audiência sobre Segurança Pública do Tribunal de Contas do Estado do Rio Grande do Sul" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-do-simposio-pucrs.jpg" alt="Participamos do 1º Simpósio Nacional Sobre a Reforma do Sistema de Segurança Pública" height="100">
+      </div>
+      <div class="eventos">
+        <img src="/images/participamos-do-conapef.jpg" alt="Participamos do 16º CONAPEF" height="100">
+      </div>
+    </div>
+  </div>
+</div>      
+ -->
+
+<!--       <div
+        class="fb-like row text-center"
+        data-share="true"
+        data-width="450"
+        data-show-faces="true">
+      </div>          
+ -->
+
+     <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <ul class="list-inline">
+            <li>
+              <br><p><a href="https://twitter.com/MapaSeguranca" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @MapaSeguranca</a></p>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li> 
+            <li>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-via="MapaSeguranca" data-lang="pt">Tweetar</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </li>
+          </ul>
+        </div>
+      </div>      
+ 
+      <div class="row text-center"
+           itemscope 
+           itemtype="http://schema.org/Person">
+        <div class='col-xs-12'>
+          <p>por <span itemprop="name">Vladimir Bergier Dietrichkeit</span> 
+          <!--<a href="https://plus.google.com/+VladimirBrasil?rel=author"><img src="images/Google_plus.svg" alt="Google+" width="16px"></a> | -->
+          | <a href="mailto:info@mapadaseguranca.com"  itemprop="email">info@mapadaseguranca.com</a></p>          
+        </div>
+      </div>      
+    </div>
+
+  </div>   
+
+  </body>
+
+ 
+</html>
