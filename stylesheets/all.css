@@ -7405,100 +7405,94 @@ body {
   font-size: 0.7em;
   color: #bbf; }
 
-/* line 153, /home/vla/git/vp/source/stylesheets/_main.scss */
-.artigo-data {
-  font-size: 0.9em;
-  color: blue;
-  text-align: right; }
-
 @media only screen and (max-width: 996px) {
-  /* line 159, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 154, /home/vla/git/vp/source/stylesheets/_main.scss */
   .same-height-if-possible {
     height: auto; } }
 @media only screen and (max-width: 768px) {
-  /* line 164, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 159, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 16px; } }
 @media only screen and (max-width: 470px) {
-  /* line 169, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 164, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 14px; } }
 @media only screen and (max-width: 310px) {
-  /* line 174, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 169, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption {
     font-size: 12px; }
 
-  /* line 177, /home/vla/git/vp/source/stylesheets/_main.scss */
+  /* line 172, /home/vla/git/vp/source/stylesheets/_main.scss */
   .carousel-caption .taxas-valor {
     /*    font-size: 1em;*/ } }
 /* entenda.html*/
-/* line 183, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 178, /home/vla/git/vp/source/stylesheets/_main.scss */
 .formula-sentimentos {
   padding: 50px 0;
   /*background-color: #777;*/ }
 
-/* line 187, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 182, /home/vla/git/vp/source/stylesheets/_main.scss */
 .entenda-observacao {
   color: dimgray;
   font-size: 0.8em; }
 
-/* line 191, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 186, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .casa {
   border: 3px solid red; }
 
-/* line 194, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 189, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .familiar {
   border: 3px solid orange; }
 
-/* line 197, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 192, /home/vla/git/vp/source/stylesheets/_main.scss */
 .circulos-pessoais .conhecido {
   border: 3px solid yellow; }
 
-/* line 200, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 195, /home/vla/git/vp/source/stylesheets/_main.scss */
 svg {
   /*  fill: red;*/
   /*  border: 5px solid currentColor;*/ }
 
 /* blog */
-/* line 206, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 201, /home/vla/git/vp/source/stylesheets/_main.scss */
 .post h1 a {
   color: #444; }
 
-/* line 209, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 204, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta {
   margin-bottom: 1em;
   color: #777; }
 
-/* line 213, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 208, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta li {
   border-right: 1px solid #ddd; }
 
-/* line 216, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 211, /home/vla/git/vp/source/stylesheets/_main.scss */
 .meta li:last-child {
   border-right: none; }
 
-/* line 220, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 215, /home/vla/git/vp/source/stylesheets/_main.scss */
 .about .fa-rocket {
   font-size: 64px; }
 
 /* Navigation */
-/* line 225, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 220, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 228, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 223, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 231, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 226, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 234, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 229, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 237, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 232, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7509,13 +7503,13 @@ header.navbar {
   background-color: #204d74;
   color: #fff; }
 
-/* line 247, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 242, /home/vla/git/vp/source/stylesheets/_main.scss */
 .eventos {
   margin: 10px;
   display: inline;
   align: center; }
 
-/* line 252, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 247, /home/vla/git/vp/source/stylesheets/_main.scss */
 .dicionario {
   font-size: 0.9em;
   margin: 20px 0 20px 0;
