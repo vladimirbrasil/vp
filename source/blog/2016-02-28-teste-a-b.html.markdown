@@ -1,0 +1,75 @@
+---
+title: O teste A/B da segurança.
+date: 2016-02-28
+author: vla
+tags: gestão, descentralização
+---
+
+# O teste A/B da segurança.
+
+## Existe uma ferramenta que tem sido um grande sucesso, atualmente, na elaboração de aplicativos e jogos. É o chamado <a href="https://pt.wikipedia.org/wiki/Teste_A/B" target="_blank">Teste A/B</a>. (Explicação em <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">inglês</a>).
+
+> Em rápido resumo, o “Teste A/B” permite que um fabricante crie e coloque no mercado dois ou mais tipos de solução, ao mesmo tempo - por exemplo, duas ou mais variações de um mesmo jogo: com uma música diferente, com um “vilão” diferente, com finais diferentes, etc.
+
+Ferramentas, como o próprio Google e a Apple fornecem, permitem que se possa colher os resultados alcançados para cada variação do jogo que foi lançada, simultaneamente - resultados alcançados pela variação “A”, resultados alcançados pela variação “B”, etc (por isso o nome “Teste A/B”).
+
+Com isto o fabricante consegue saber, para cada variação, “A”, “B”, “C”, etc, do jogo lançado, os resultados obtidos por cada variação, como por exemplo: quantas pessoas instalaram o aplicativo, quanto tempo executaram o jogo em média, em que fase pararam, qual nota deram para o jogo, etc.
+
+Após este “Teste A/B”, preliminar, finalmente, o fabricante poderá optar por lançar, definitivamente, apenas a solução que obteve o melhor desempenho junto ao público.
+
+Não é muito melhor lançar jogos para celular assim?
+
+Será que realmente isto só se aplica a videogames e aplicativos de computador?
+
+O que segurança pública tem a ver com isto?
+
+Aparentemente, este seria um caso em que diríamos que este tipo de procedimento somente se aplicaria a jogos de vídeo-game ou aplicativos de computador e celular.
+
+> Mas, até certo ponto, a segurança pública brasileira pode não estar tão longe da possibilidade de aplicar algo bem similar ao “Teste A/B” usado para produzir aplicativos e jogos para celular.
+
+Ou seja, a segurança pública brasileira pode não estar tão longe da possibilidade de poder testar mais de uma solução, para depois, então, escolher aplicar as soluções que apresentarem melhor desempenho, descartando as soluções que apresentarem baixo desempenho.
+
+A descentralização federativa, quem diria - avaliem -, parece permitir, dentro de si, o “Teste A/B”, que tipicamente é utilizado em jogos para videogame.
+
+> A descentralização federativa é uma técnica de implementar segurança pública que permite que cada estado elabore sua variação de segurança pública, atendendo apenas aos requisitos básicos obrigatórios (carreira única, ciclo completo, curriculum nacional mínimo, etc).
+
+Assim, de maneira bem similar à flexibilidade de testes que possui o “Teste A /B” para videogames, com a descentralização federativa, cada estado poderá implementar uma segurança pública com certas variações.
+
+Por exemplo, uma segurança pública - sempre com carreira única, ciclo completo, curriculum nacional mínimo, etc - seria implementada com uma pequena variação “A” em São Paulo; com uma pequena variação “B” no Paraná. Com uma variação “C” em Santa Catarina. E assim sucessivamente.
+
+Por exemplo, com algumas polícias de bairro em São Paulo. Com uma polícia especializada em contrabando no Paraná. Com polícias para pequenos crimes e desinteligências, e outra para crimes maiores, em Santa Catarina. Pequenas variações sobre o mesmo tema: as variações “A”, “B”, “C”, em cada estado, sempre apresentariam o mesmo núcleo obrigatório, por exemplo, ciclo completo, carreira única, demais características que sejam obrigatórias a todos os estados.
+
+> Após um certo período de tempo, naturalmente, estados com problemas similares poderão começar a comparar suas soluções; suas variações, quais soluções obtiveram melhor resultado, em problemas similares.
+
+População e imprensa poderão começar a perceber, e cobrar, que as soluções de cada estado que melhor conseguiram reduzir determinados problemas de segurança, sejam implantadas em seus respectivos estados e, de maneira inversa, pedir para modificar, ou interromper, soluções que não tiveram bom desempenho, em comparação com soluções obtidas por outros estados em problemas similares.
+
+Aliás, não é esta a maior força do Brasil, o maior país, com maior diversidade, da América Latina?
+
+> A descentralização faz uso da maior força do Brasil: seu tamanho.
+
+Também vale o oposto: engessar o maior país da América Latina, com maior tamanho e maior diversidade da América Latina, com apenas uma maneira de implementar segurança, pode ser a maior fraqueza do Brasil. 
+
+É muito mais simples criar um modelo de segurança único em países menores, como o Uruguai, por exemplo. 
+
+Assim como é praticamente impossível criar modelos separados, com "variações por estado", em países pequenos, novamente, como o Uruguai, por exemplo.
+
+> Nós podemos. 
+
+O Brasil pode. 
+
+> O Brasil tem tamanho e diversidade - o maior da América Latina - para efetuar 27 testes A/B, um em cada estado, como as mais modernas empresas efetuam em seus produtos e serviços, até que pelo menos uma experiência dê muito mais certo do que outras, e todos possamos seguir os melhores exemplos, e nos afastar dos piores exemplos.
+
+Essa é uma das maiores forças do Brasil. Seu tamanho e diversidade. Se souber ser utilizado. Com a descentralização federativa, em um perfeito casamento com o tamanho e potencial de variação do país.
+
+Esta capacidade de variação passa a ser um verdadeiro “Teste A/B”, com os grandes benefícios que tornaram este tipo de teste um sucesso entre aplicativos para celular, porém podendo acontecer, de maneira similar, com a nossa fundamental segurança pública.
+
+Tendo em consideração que segurança pública é assunto complexo - como já procurei defender em outra postagem -, é muito útil podemos contar, dentro do próprio sistema escolhido, com a capacidade que a descentralização federativa possui de implementar até 27 soluções diferentes, uma para cada estado, ao invés de apenas uma aposta, uma única solução nacional, como é hoje, sem a descentralização federativa.
+
+Poder implementar variadas soluções, por estado, permitirá, ao longo do tempo, que as soluções com melhores resultados se repliquem nos demais estados com problemas similares, e que as soluções com pior desempenho deixem de ser aplicadas nos estados com problemas similares.
+
+> Será que a descentralização federativa não é o grande “Teste A/B” da segurança pública, ou seja, a capacidade de aprimorarmos nossas políticas com muito mais agilidade, com mais testes e avaliação de resultados?
+
+Se assim for, ela talvez seja a mais importante decisão a ser tomada, para nossa segurança pública brasileira, podendo aumentar em até 27 vezes nossa capacidade de aprender com nossos erros e acertos, ano após ano.
+
+Vladimir Bergier Dietrichkeit.
+

@@ -1,0 +1,30 @@
+  <% if paginate && num_pages > 1 %>
+    <p>Página <%= page_number %> de <%= num_pages %></p>
+
+    <% if prev_page %>
+      <p><%= link_to 'Previous page', prev_page %></p>
+    <% end %>
+  <% end %>
+
+  <% page_articles.each_with_index do |article, i| %>
+    <div class='resumo-artigo'>     
+      <div class='titulo'>     
+        <%= link_to article.title, article %>
+      </div>
+      <div class='data'>     
+        <%= article.date.strftime('%e/%m/%Y') %>
+      </div>
+      <div class='resumo'>     
+        <%= article.summary %>
+      </div>
+      <div class='leia-mais'>     
+        <a href="<%= article.url %>">Leia mais</a>
+      </div>
+    </div>
+  <% end %>
+
+  <% if paginate %>
+    <% if next_page %>
+      <p><%= link_to 'Próxima página', next_page %></p>
+    <% end %>
+  <% end %>

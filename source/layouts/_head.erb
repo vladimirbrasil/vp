@@ -38,11 +38,18 @@
   <meta name="twitter:url" content="<%= site_url %>" />
   <meta name="twitter:title" content="<%= site_default_title %>" />
   <meta name="twitter:description" content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinato este ano no Brasil? E se alguém de sua casa for roubado? Conheça o primeiro mapa da sua segurança." />
-  <meta name="twitter:image" content="images/logo.gif" />
+  <meta name="twitter:image" content="/images/logo.gif" />
 
   <!-- Use title if it's in the page YAML frontmatter -->
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
-  <title><%= current_page.data.title || site_default_title %></title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+
+  <% if current_article.nil? %>
+    <title><%= current_page.data.title || site_default_title %></title>
+  <% else %>
+    <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+  <% end %>
+
   <!-- 
     Style Stuff 
   -->
@@ -53,7 +60,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   <%= javascript_include_tag  "all" %>
   
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400' rel='stylesheet' type='text/css'>    
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400|Lora:400,400italic,700' rel='stylesheet' type='text/css'>  
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

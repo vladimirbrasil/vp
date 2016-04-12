@@ -1,42 +1,37 @@
-=begin
+###
+# Blog settings
+###
 
-:: Como usar
-
-bundle exec middleman build
-bundle exec middleman server
-
-git status
-
-git add --all
-git commit -m "Mensagem"
-git push origin master
-git subtree push --prefix build origin gh-pages
+# Time.zone = "UTC"
 
 
-:: Afazeres
 
-  SEO Checkup
-    https://toolbox.seositecheckup.com/apps/seo-checkup
-      Turn on https
-      Change email contact to form contact
-      Create search (and activate on Google search)
+activate :blog do |blog|
+  # This will add a prefix to all links, template references and source paths
+  blog.prefix = "blog"
 
- data
-   install all tables.
- styles
-   use sass mixins, extends, functions...
- internationalization
-   https://middlemanapp.com/advanced/localization/
- abrir ou comprar violenciometro
-   previsao para cada crime. como impostometro
-   desigualdade social do crime | negros, jovens pobres
-   https://andradetalis.wordpress.com/tag/manipulacao-de-julgamentos/
- done << find arrow glyphicons for carousel at index.html
- done << add erb list for carousel items
- done << load data from yaml or other datasource | https://middlemanapp.com/advanced/data_files/
- done << find how to auto-deploy from middleman to git
+  # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  # Matcher for blog source files
+  # blog.sources = "{year}-{month}-{day}-{title}.html"
+  # blog.taglink = "tags/{tag}.html"
+  blog.layout = "blog_layout"
+  blog.summary_separator = /(READMORE)/
+  blog.summary_length = 250
+  # blog.year_link = "{year}.html"
+  # blog.month_link = "{year}/{month}.html"
+  # blog.day_link = "{year}/{month}/{day}.html"
+  # blog.default_extension = ".markdown"
 
-=end
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+
+  # Enable pagination
+  blog.paginate = true
+  blog.per_page = 10
+  blog.page_link = "page/{num}"
+end
+
+page "/feed.xml", layout: false
 
 ###
 # Compass
@@ -54,19 +49,19 @@ git subtree push --prefix build origin gh-pages
 # Per-page layout changes:
 #
 # With no layout
-# page "/path/to/file.html", :layout => false
+# page "/path/to/file.html", layout: false
 #
 # With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
+# page "/path/to/file.html", layout: :otherlayout
 #
 # A path which all have the same layout
 # with_layout :admin do
 #   page "/admin/*"
 # end
 
-# Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
-#  :which_fake_page => "Rendering a fake page with a local variable" }
+# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
+# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
+#  which_fake_page: "Rendering a fake page with a local variable" }
 
 ###
 # Helpers
@@ -140,8 +135,16 @@ class MyFeature < Middleman::Extension
       "O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões"
     end
 
+    def find_author(author_slug)
+      author_slug = author_slug.downcase
+      result = data.authors.select {|author| author.keys.first == author_slug }
+      raise ArgumentError unless result.any?
+      result.first
+    end    
+
   end
 end
 
 ::Middleman::Extensions.register(:my_feature, MyFeature)
 activate :my_feature 
+

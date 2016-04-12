@@ -1,0 +1,82 @@
+<% wrap_layout :layout do %>
+  <% author = find_author(current_article.data.author) %>
+
+  <div id="main" role="main">
+    <div class='container'>
+      <div class='row text-left'>
+        <div class='col-sm-8'>
+
+      
+          <div class='row text-left'>
+            <div class='col-sm-2'></div>
+
+            <div class='col-sm-8'>              
+              <article>
+                <%= yield %>  
+              </article>
+            </div>
+            <div class='col-sm-2'></div>
+          </div>
+
+        </div>
+        <div class='col-sm-4'>
+          <aside class="listagem-artigos">
+            <h2>Artigos recentes</h2>
+            <ul>
+              <% blog.articles[0...10].each do |article| %>
+                <li><span><%= article.date.strftime('%e/%m/%Y') %> </span><br><%= link_to article.title, article %></li>
+              <% end %>
+            </ul>
+
+            <h2>Tags</h2>
+            <ul>
+              <% blog.tags.each do |tag, articles| %>
+                <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+              <% end %>
+            </ul>
+
+            <h2>Por ano</h2>
+            <ul>
+              <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+                <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
+              <% end %>
+            </ul>
+          </aside>
+          
+        </div>
+      </div>
+      <div class='row text-left'>
+            
+
+        <%= partial "layouts/_formula"  %>   
+
+        <!-- Ação: clicks -->
+        <div class='container'>
+          <div class='row text-center well'>
+
+            <div class='col-sm-4'>
+              <%= partial "layouts/_btn_previsoes"  %>
+            </div>
+
+            <div class='col-sm-4'>
+              <%= partial "layouts/_btn_blog"  %>
+            </div>
+
+            <div class='col-sm-4'>
+              <%= partial "layouts/_btn_contato"  %>      
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+  </div>
+        
+
+
+<% end %>

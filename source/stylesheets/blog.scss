@@ -1,0 +1,30 @@
+@import 'normalize';
+@import 'bootstrap.min';
+@import 'main';
+
+article {
+  //font-family: 'Lora', serif;	
+}
+
+/* blog */
+.resumo-artigo  {
+  margin: 50px;
+}
+.page_title  {
+  font-size: 2em;
+}
+.resumo-artigo .titulo  {
+  font-size: 1.5em;
+}
+.resumo-artigo p, h1, h2, h3, blockquote  {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+.artigo-data {
+  font-size: 0.9em;
+  color: blue;
+  text-align: right; 
+}
+
+
