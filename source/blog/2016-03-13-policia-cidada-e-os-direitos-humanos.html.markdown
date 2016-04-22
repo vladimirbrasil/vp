@@ -1,7 +1,7 @@
 ---
 title: Polícia cidadã e direitos humanos. Uma prática?
 date: 2016-03-13
-header_image: gentileza-policial-1024.jpg
+header_image: gentileza-policial2-1024.jpg
 author: vla
 tags: cidadania
 ---
