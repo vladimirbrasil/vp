@@ -143,6 +143,17 @@ class MyFeature < Middleman::Extension
       result.first
     end    
 
+    def find_image(image_name)
+      if image_name
+        folder = "/images/blog"
+        image_name = image_name.downcase
+        unless sitemap.find_resource_by_path("#{folder}/#{image_name}")
+          image_name = "logo.jpg"    
+        end
+        "#{folder}/#{image_name}"
+      end
+    end    
+
   end
 end
 

@@ -5,9 +5,7 @@ author: vla
 tags: gestão
 ---
 
-# Microgestor da segurança.
-
-## O que parece melhor para a segurança de 200 milhões de brasileiros? 
+### O que parece melhor para a segurança de 200 milhões de brasileiros? 
 
 "Ser sócio na segurança com os 200 milhões de brasileiros".
 

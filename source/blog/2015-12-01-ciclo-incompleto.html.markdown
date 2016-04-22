@@ -5,9 +5,7 @@ author: vla
 tags: iniquidades, racismo
 ---
 
-# Lixeiros não usam cinto de segurança
-
-## O que possuem em comum: domésticas, cela especial para nível superior, carros metralhados, lixeiros sem cinto de segurança, ciclo incompleto de polícia, recorde de assassinatos, recorde de prisões?
+### O que possuem em comum: domésticas, cela especial para nível superior, carros metralhados, lixeiros sem cinto de segurança, ciclo incompleto de polícia, recorde de assassinatos, recorde de prisões?
 
 > Dicionário: ciclo completo de polícia é a capacidade de toda polícia poder prevenir e investigar, executando todo o ciclo policial. Assim é em todo o mundo. No Brasil, o ciclo é incompleto: as polícias militares só podem prevenir e prender em flagrante; somente as polícias civis podem investigar crimes. Nenhuma destas polícias pode fazer o trabalho completo, do início ao fim. Este formato somente ocorre no Brasil.
 

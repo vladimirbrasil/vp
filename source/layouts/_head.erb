@@ -49,7 +49,7 @@
   <% if current_article.nil? %>
     <title><%= current_page.data.title || site_default_title %></title>
   <% else %>
-    <title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <title>Blog<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   <% end %>
 

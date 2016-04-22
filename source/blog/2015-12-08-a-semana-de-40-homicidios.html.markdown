@@ -5,9 +5,7 @@ author: vla
 tags: homicídio
 ---
 
-# A terrível semana gaúcha de 40 homicídios
-
-## Com 40 homicídios, feriadão de 7 de setembro é o mais violento do ano no Rio Grande do Sul.
+### Com 40 homicídios, feriadão de 7 de setembro é o mais violento do ano no Rio Grande do Sul.
 
 > No Rio Grande do Sul, a greve dos policiais civis e militares devido a falta de pagamento de salários tem ajudado a aumentar o número de notícias na mídia sobre o aumento de insegurança. 
 

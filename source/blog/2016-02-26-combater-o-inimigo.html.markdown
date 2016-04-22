@@ -5,9 +5,7 @@ author: vla
 tags: militarização, desmilitarização
 ---
 
-# Queremos combater o inimigo? 
-
-## Sobre a militarização ou desmilitarização das polícias.
+### Sobre a militarização ou desmilitarização das polícias.
 
 Observo em alguns comentários a saudação à nossa atual organização social e, dentro dela, a saudação ao nosso formato de segurança pública.
 

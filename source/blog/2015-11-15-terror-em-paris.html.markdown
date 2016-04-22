@@ -5,9 +5,7 @@ author: vla
 tags: terrorismo, violência
 ---
 
-# Terror... em Paris?
-
-## O que o terror em Paris tem que o Brasil não possui?
+### O que o terror em Paris tem que o Brasil não possui?
 
 > Em 13 de novembro Paris contabilizou mais de 120 terríveis assassinatos em uma sexta-feira de terror. Sexta-feira 13.
 

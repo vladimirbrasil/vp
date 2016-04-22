@@ -216,6 +216,65 @@ svg {
   font-size: 64px;
 }
 
+
+/* https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96#.y9ca1njvl
+*/
+
+
+.blog-header {
+  width: 100%;
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.blog-header img {
+}
+.blog-header h1 {
+  float: left;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: 
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    );  
+  padding: 50px 15px 15px 15px;
+  font-weight: bold;
+  margin: 0;
+  color: white;
+  text-shadow: 0 1px 0 black;
+  text-align: left;
+}
+.blog-header-without-image {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.blog-header-without-image h1 {
+  padding: 50px 15px 15px 15px;
+  font-weight: bold;
+  margin: 0;
+  color: white;
+  text-shadow: 0 1px 0 black;
+  text-align: left;
+  background: rgba(0, 0, 0, 0.7)
+}
+
+
+
 /* Navigation */
 header.navbar {
   margin: 0;

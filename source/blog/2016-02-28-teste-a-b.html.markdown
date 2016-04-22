@@ -5,9 +5,7 @@ author: vla
 tags: gestão, descentralização
 ---
 
-# O teste A/B da segurança.
-
-## Existe uma ferramenta que tem sido um grande sucesso, atualmente, na elaboração de aplicativos e jogos. É o chamado <a href="https://pt.wikipedia.org/wiki/Teste_A/B" target="_blank">Teste A/B</a>. (Explicação em <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">inglês</a>).
+### Existe uma ferramenta que tem sido um grande sucesso, atualmente, na elaboração de aplicativos e jogos. É o chamado <a href="https://pt.wikipedia.org/wiki/Teste_A/B" target="_blank">Teste A/B</a>. (Explicação em <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">inglês</a>).
 
 > Em rápido resumo, o “Teste A/B” permite que um fabricante crie e coloque no mercado dois ou mais tipos de solução, ao mesmo tempo - por exemplo, duas ou mais variações de um mesmo jogo: com uma música diferente, com um “vilão” diferente, com finais diferentes, etc.
 

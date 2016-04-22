@@ -1,15 +1,14 @@
 ---
 title: Polícia cidadã e direitos humanos. Uma prática?
 date: 2016-03-13
+header_image: gentileza-policial-1024-larga.jpg
 author: vla
 tags: cidadania
 ---
 
-# Polícia cidadã e direitos humanos. Uma prática?
+### Será mesmo longo o caminho de polícias atuais brasileiras para polícias cada vez mais cidadãs? 
 
-## Será mesmo longo o caminho de polícias atuais brasileiras para polícias cada vez mais cidadãs? 
-
-Será que este caminho não é ensinável?
+Será que este caminho é ensinável?
 
 Uma coisa é deixar viver, em uma atuação policial, enquanto se manda “abrir as pernas e colocar as mãos na parede”. 
 

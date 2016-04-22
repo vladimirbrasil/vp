@@ -5,8 +5,6 @@ author: vla
 tags: iniquidades, periferias, favelas
 ---
 
-# Mãe de Traficante
-
 > A seguinte música do Mc Daleste retrata o drama das mães em regiões vulneráveis.
 
 READMORE

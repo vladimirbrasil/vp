@@ -5,9 +5,7 @@ author: vla
 tags: militarização, desmilitarização
 ---
 
-# O cidadão não é seu inimigo.
-
-## Interessante raciocínio, achei simples e forte, como negar? 
+### Interessante raciocínio, achei simples e forte, como negar? 
 
 "O cidadão não é seu [do policial] inimigo". 
 
