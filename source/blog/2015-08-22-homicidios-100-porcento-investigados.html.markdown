@@ -6,7 +6,7 @@ tags: homicídio
 version: 1.0
 ---
 
-### Homicídios 100% investigados pela Guarda Municipal priorizados por Ministério Público e Justiça. 
+## Homicídios 100% investigados pela Guarda Municipal priorizados por Ministério Público e Justiça. 
 
 > Não é preciso gastar 1 centavo para modificar a segurança brasileira.
 

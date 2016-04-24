@@ -6,7 +6,7 @@ tags: homicídio, violência
 version: 1.0
 ---
 
-### Contra ou a favor da desmilitarização, vivemos a seguinte poesia do ciclo perverso:
+## Contra ou a favor da desmilitarização, vivemos a seguinte poesia do ciclo perverso:
 
 O afastamento da comunidade incita a violência. <br/> A violência incita o militarismo/combate. <br/> O militarismo/combate se afasta da comunidade. 
 

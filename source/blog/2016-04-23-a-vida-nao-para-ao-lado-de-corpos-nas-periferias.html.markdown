@@ -13,7 +13,7 @@ tags: cidadania
 
 [fonte: HuffPost Brasil]:http://www.brasilpost.com.br/2016/04/22/futebol-desabamento-ciclo_n_9760594.html
 
-Em artigo anterior, este site já procurou demonstrar que a periferia brasileira é palco da grande maioria dos 60 mil assassinatos por ano. 160 por dia. Recorde e primeiro lugar mundial. Demonstrou que, por isso, corpos mortos [são o quotidiano das periferias](/blog/2016/02/26/combater-o-inimigo.html). O artigo procurou expor que corpos mortos somente assombram, e estampam os jornais, quando os assassinatos - excepcionalmente - ocorrem nas ruas mais nobres das cidades brasileiras. 
+Em artigo anterior, este site já procurou demonstrar que a periferia brasileira é palco da grande maioria dos 60 mil assassinatos por ano. 160 por dia. Recorde e primeiro lugar mundial. Demonstrou que, por isso, corpos mortos [são o quotidiano das periferias](http://mapadaseguranca.com/blog/2016/02/26/combater-o-inimigo.html). O artigo procurou expor que corpos mortos somente assombram, e estampam os jornais, quando os assassinatos - excepcionalmente - ocorrem nas ruas mais nobres das cidades brasileiras. 
 
 Portanto, o futebol ao lado de corpos só é natural "lá longe", nas ruas dos becos e periferias brasileiras, que absorvem, semanas mais, semanas menos, a imensa maioria dos 160 assassinatos diários no (nosso? De quem?) Brasil.
 

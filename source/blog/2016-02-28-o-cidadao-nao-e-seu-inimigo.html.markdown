@@ -6,7 +6,7 @@ tags: militarização, desmilitarização
 version: 1.0
 ---
 
-### Interessante raciocínio, achei simples e forte, como negar? 
+## Interessante raciocínio, achei simples e forte, como negar? 
 
 "O cidadão não é seu [do policial] inimigo". 
 

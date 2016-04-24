@@ -1,13 +1,14 @@
 ---
 title: Polícia cidadã e direitos humanos. Uma prática?
 date: 2016-03-13
+modified_date: 2016-04-20
 header_image: gentileza-policial2-1024.jpg
 author: vla
 tags: cidadania
 version: 1.0
 ---
 
-### Será mesmo longo o caminho de polícias atuais brasileiras para polícias cada vez mais cidadãs? 
+## Será mesmo longo o caminho de polícias atuais brasileiras para polícias cada vez mais cidadãs? 
 
 Será que este caminho é ensinável?
 
@@ -60,13 +61,13 @@ Bastaria treinar e exercer esta capacidade, que temos, em pelo menos dois cenár
 
 Note que os dois primeiros cenários valem para toda a vida, para todos os nossos relacionamentos, enquanto somente o terceiro cenário é especificamente adaptado para o âmbito da atuação policial:
 
-### 1. Gentileza natural
+## 1. Gentileza natural
 
 Ser gentil quando precisamos.
 
 Com nossas mães, em situações formais, regras de etiqueta.
 
-### 2. Injeção de gentileza
+## 2. Injeção de gentileza
 
 Ser gentil quando não precisamos, e até mesmo quando não estão sendo gentis conosco. 
 
@@ -74,7 +75,7 @@ No decorrer de buscas e apreensões, com pessoas mal-educadas ou bravas.
 
 Este cenário é o mais difícil. Requer obstinação e auto-confiança ao (ser o primeiro a) injetar gentileza.
 
-### 3. Gerenciamento do perigo 
+## 3. Gerenciamento do perigo 
 
 Quando é preciso gerenciar o perigo ao mesmo tempo que se tenta ser educado.
 
@@ -84,15 +85,15 @@ Requer técnicas de segurança.
 
 ## Como praticar este cenários?
 
-### 1. A prática da gentileza natural
+## 1. A prática da gentileza natural
 
 O primeiro cenário é natural, já ocorre para a maioria dos policiais. Ser gentil com quem é gentil.
 
-### 2. A prática da injeção de gentileza
+## 2. A prática da injeção de gentileza
 
 O segundo cenário requer grande esforço psicológico. Ou seja, requer o maior esforço humano, via de regra: adaptar ou treinar comportamento. Mas é treinável. Ser gentil com quem não é gentil. Observo em minhas atuações em particular, que sendo repetidamente, insistentemente, gentil mesmo com quem usualmente não é gentil, em algum momento - raramente no mesmo dia - esta pessoa “baixa sua guarda” e aceita as gentilezas, passando a tratar bem reciprocamente, retribuindo as gentilezas. Se, por exemplo, sou um policial que atuo em determinado território ou comunidade, de maneira fixa, cada conquista como esta será uma conquista valorosa, pois afetará o meu dia-a-dia, sempre, podendo inclusive abrir portas de relacionamento com mais pessoas. A obstinação pode fazer efeito mesmo que demore dias, às vezes semanas, para determinadas pessoas - tradicionalmente, conhecidamente pouco afetas a gentilezas -, “baixarem a guarda” e passarem a aceitar o convívio gentil. Neste cenário em particular, vale uma máxima: aquelas pessoas que mais são mal faladas, mais precisam receber gentileza. Pois esta pessoa em particular, via de regra, é “carente” de gentilezas, mal-tratada por toda a comunidade, que a considera arredia. É também essa pessoa que não acredita em gentilezas, nos primeiros momentos - “por que esta pessoa, ou este policial, estaria sendo gentil COMIGO? Ele deve estar querendo algo em troca…”. Por isso que a obstinação em injetar gentileza pode ser profícua, realmente vencendo barreiras, após muita insistência, deixando o tempo aproximar a pessoa e a confiança se estabelecer, genuinamente. Uma frase que ajuda a entender o valor deste esforço é “ser gentil com outro gentil é muito fácil!”. Não requer habilidade específica. É neste ponto que policiais e, na verdade, todos, poderiam ser treinados para vencer este obstáculo e passarem a injetar, mesmo onde não existe, gentileza.
 
-### 3. A gentileza no gerenciamento do perigo
+## 3. A gentileza no gerenciamento do perigo
 
 O terceiro cenário requer apenas esforço técnico, que considero mais simples de aprender, ainda que seja sempre um cenário mais letal, em relação ao segundo cenário, que requer esforço psicológico. Um grande segredo do terceiro cenário está em agir com a firmeza e segurança necessárias, bastando, após a situação estar estabilizada, justificar, desculpar-se, explicando que não haveria outro modo de proteger a vida do policial, e de todos, a não ser entrando rapidamente e com firmeza de movimentos, na casa, no veículo, na abordagem. Por incrível que possa parecer, venho reparando que o pedido de desculpas com a sincera explicação de sua necessidade é facilmente absorvido pelos integrantes da casa, do veiculo, do grupo sendo abordado. Ou seja, não é necessário entrar com menos força ou menos agilidade nas abordagens. O segredo pode estar nas gentilezas e sincero oferecimento de explicações após o cenário estar estabilizado - habilmente mantendo a segurança durante todo o tempo.
 

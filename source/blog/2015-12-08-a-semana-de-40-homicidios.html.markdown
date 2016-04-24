@@ -6,13 +6,13 @@ tags: homicídio
 version: 1.0
 ---
 
-### Com 40 homicídios, feriadão de 7 de setembro é o mais violento do ano no Rio Grande do Sul.
+## Com 40 homicídios, feriadão de 7 de setembro é o mais violento do ano no Rio Grande do Sul.
 
 > No Rio Grande do Sul, a greve dos policiais civis e militares devido a falta de pagamento de salários tem ajudado a aumentar o número de notícias na mídia sobre o aumento de insegurança. 
 
 O feriado de 7 de setembro por exemplo recebeu manchetes como esta: "Com 40 homicídios, feriadão de 7 de setembro é o mais violento do ano".
 
-### Quem disse que instituições militares não páram?
+## Quem disse que instituições militares não páram?
 
 Antes de mais nada, sempre é válido aproveitar os exemplos reais para lembrar que ao proibir a greve, a militarização da PM não impede a greve - apenas proibe a negociação, sem greve, antes de ocorrer a greve. 
 
@@ -24,7 +24,7 @@ Existe uma tese que demonstra que diferentemente dos exércitos, 99% da ação p
 
 Voltemos ao assunto principal.
 
-### Assassinatos
+## Assassinatos
 
 Sem rodeios, vamos a alguns números. 
 
