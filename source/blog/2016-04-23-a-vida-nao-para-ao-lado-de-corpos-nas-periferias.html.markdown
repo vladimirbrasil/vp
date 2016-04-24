@@ -1,5 +1,5 @@
 ---
-title: Se corpos parassem a vida nas periferias, não haveria vida nas periferias
+title: Se corpos parassem a vida nas periferias, a vida pararia 60 mil vezes por ano. Pode?
 date: 2016-04-23
 header_image: futebol-ao-lado-de-corpos-1024.jpg
 author: vla
