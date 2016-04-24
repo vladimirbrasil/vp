@@ -55,12 +55,12 @@
   <!-- 
     Style Stuff 
   -->
-  <link href="../../stylesheets/all.css" rel="stylesheet" type="text/css" />
+  <link href="stylesheets/all.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
   <!-- jquery before bootstrap to work properly-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="../../javascripts/all.js" type="text/javascript"></script>
+  <script src="javascripts/all.js" type="text/javascript"></script>
   
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,300,400|Roboto+Slab:700,400|Lora:400,400italic,700' rel='stylesheet' type='text/css'>  
 
@@ -83,7 +83,7 @@
   </script>
 </head>   
 
-  <body class="blog blog_tags blog_tags_descentralizacao">
+  <body class="rssfeed2">
 
   	<!-- facebook script -->
 	<script>
@@ -163,36 +163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <li class=""><a href="contato.html">Fale Conosco</a></li>
 </ul>    -->
 
-      <head>
-    <link href="../../stylesheets/blog.css" rel="stylesheet" type="text/css" />
-  </head>
-
-  <h1 class='page_title'>Artigos com a palavra-chave 'descentralização'</h1>
-
-
-    <div class='resumo-artigo'>     
-      <div class='titulo'>     
-        <a href="/blog/2016/02/28/teste-a-b.html">O teste A/B da segurança.</a>
-      </div>
-      <div class='data'>     
-        28/02/2016
-      </div>
-      <div class='resumo'>     
-        <h3 id="existe-uma-ferramenta-que-tem-sido-um-grande-sucesso-atualmente-na-elaborao-de-aplicativos-e-jogos--o-chamado-a-hrefhttpsptwikipediaorgwikitesteab-targetblankteste-aba-explicao-em-a-hrefhttpsenwikipediaorgwikiabtesting-targetblankinglsa">Existe uma ferramenta que tem sido um grande sucesso, atualmente, na elaboração de aplicativos e jogos. É o chamado <a href="https://pt.wikipedia.org/wiki/Teste_A/B" target="_blank">Teste A/B</a>. (Explicação em <a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">inglês</a>).</h3>
-
-<blockquote>
-  <p>Em rápido resumo, o “Teste A/B” permite que um fabricante crie e coloque no mercado dois ou mais...</p>
-</blockquote>
-      </div>
-      <div class='leia-mais'>     
-        <a href="/blog/2016/02/28/teste-a-b.html">Leia mais</a>
-      </div>
-    </div>
-
-   
-
-
-
+    
     
     <!-- Logo -->  
 
@@ -212,7 +183,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
        <ul class="list-inline">
 
-          <li><a itemprop="interactionService" itemscope itemid="http://www.twitter.com" itemtype="http://schema.org/Website" href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http://mapadaseguranca.com/blog/tags/descentralizacao.html;text=Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões" 
+          <li><a itemprop="interactionService" itemscope itemid="http://www.twitter.com" itemtype="http://schema.org/Website" href="https://twitter.com/intent/tweet?via=MapaSeguranca;url=http://mapadaseguranca.com/rssfeed2.xml;text=Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões" 
                   target="_blank" class="tw-share icon icon-twitter popup">
                   <span class="fa fa-twitter fa-3x"></span>
                   <span class="sr-only">Compartilhar no Twitter</span></a></li>
@@ -228,7 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </li>
 
 
-        <li><a  href="whatsapp://send?text=Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões http://mapadaseguranca.com/blog/tags/descentralizacao.html" 
+        <li><a  href="whatsapp://send?text=Violência pode atingir casa, família, amigos. Veja previsões para algumas regiões http://mapadaseguranca.com/rssfeed2.xml" 
                 target="_blank" class="ws-share icon icon-whatsapp">
                 <span class="fa fa-whatsapp fa-3x"></span>
                 <span class="sr-only">Compartilhar no WhatsApp</span></a></li>

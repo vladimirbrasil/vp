@@ -10,37 +10,75 @@
   <lastBuildDate><%= blog.articles.first.date.to_time.iso8601 %></lastBuildDate>
 
   <% blog.articles[0...20].each do |article| %>
+    <% author = find_author(article.data.author) %>
+    <% img = find_image(article.data.header_image) %>
     
     <item>
-    <title><%= article.title %></title>
-    <link><%= URI.join(site_url, article.url) %></link>
-    <guid><%= URI.join(site_url, article.url) %></guid>
-    <pubDate><%= article.date.to_time.iso8601 %></pubDate>
-    <author>Vladimir Bergier Dietrichkeit</author>
-    <description>Um artigo sobre segurança</description>
-    <content:encoded>
+      <title><%= article.title %></title>
+      <link><%= URI.join(site_url, article.url) %></link>
+      <guid><%= URI.join(site_url, article.url) %></guid>
+      <pubDate><%= article.date.to_time.iso8601 %></pubDate>
+      <author><%= author %></author>
+      <description>Um artigo sobre segurança</description>
+      <content:encoded>
 
-    <!doctype html>
-    <html lang="en" prefix="op: http://media.facebook.com/op#">
-    <head>
-    <meta charset="utf-8">
-    <link rel="canonical" href="<%= URI.join(site_url, article.url) %>">
-    <meta property="op:markup_version" content="v1.0">
-    </head>
-    <body>
-    <article>
-    <header>
-    </header>
+        <!doctype html>
+        <html lang="en" prefix="op: http://media.facebook.com/op#">
+          <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="<%= URI.join(site_url, article.url) %>">
+            <meta property="op:markup_version" content="v1.0">
+            <!-- The style to be used for this article --> 
+            <meta property="fb:article_style" content="mapadaseguranca_article_style">
+          </head>
+          <body>
+            <article>
+              <header>
 
-    <%= article.body %>
+                <% if img %>
+                  <!-- The header image shown inside your article --> 
+                  <figure>
+                    <img src="<%= img %>" />
+                    <figcaption></figcaption>
+                  </figure>
+                <% end %>
 
-    <footer>
-    </footer>
-    </article>
-    </body>
-    </html>
+                <!-- The title shown in your article -->
+                <h1><%= article.title %></h1>
 
-    </content:encoded>
+                <!-- The author of your article -->
+                <address>
+                  <a rel='facebook' href='https://www.facebook.com/vladimir.brasil.9'>Vladimir Dietrichkeit</a>
+                </address>
+
+                <!-- The published and last modified time stamps -->
+                <time class="op-published" dateTime="<%= article.date.to_time.iso8601 %>"><%= article.date.strftime('%e/%m/%Y') %></time>
+              </header>
+
+              <%= article.body %>
+
+              <figure class="op-tracker"> 
+                  <iframe hidden>
+                      <script>
+                        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                        ga('create', 'UA-62911911-2', 'auto');
+                        ga('require', 'displayfeatures');
+                        ga('set', 'campaignSource', 'Facebook');
+                        ga('set', 'campaignMedium', 'Social Instant Article');
+                        ga('send', 'pageview', {title: '<%= article.title %>'});
+                      </script>
+                  </iframe>
+              </figure>
+
+              <footer>
+              </footer>
+            </article>
+          </body>
+        </html>
+      </content:encoded>
     </item>
   <% end %>
 

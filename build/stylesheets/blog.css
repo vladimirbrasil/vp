@@ -7520,7 +7520,7 @@ svg {
   margin: 0;
   color: white;
   text-shadow: 0 1px 0 black;
-  text-align: right;
+  text-align: left;
   background: rgba(0, 0, 0, 0.7); }
 
 /* line 275, /home/vla/git/vp/source/stylesheets/_main.scss */
