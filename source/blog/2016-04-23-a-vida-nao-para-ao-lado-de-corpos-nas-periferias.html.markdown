@@ -7,10 +7,11 @@ author: vla
 tags: cidadania
 ---
 
-> Uma partida de futebol em meio aos corpos de duas das vítimas do desabamento de um trecho da ciclovia Tim Maia, na zona sul do Rio, na quinta-feira (21), deixou a internet horrorizada. O principal grito foi o de insensíveis.
-> <cite>[(fonte)]</cite>
+> Uma partida de futebol em meio aos corpos de duas das vítimas do desabamento de um trecho da ciclovia Tim Maia, na zona sul do Rio, na quinta-feira (21), deixou a internet horrorizada. O principal grito foi o de insensíveis. 
+>
+> <cite>[fonte: HuffPost Brasil]</cite>
 
-[(fonte)]:http://www.brasilpost.com.br/2016/04/22/futebol-desabamento-ciclo_n_9760594.html
+[fonte: HuffPost Brasil]:http://www.brasilpost.com.br/2016/04/22/futebol-desabamento-ciclo_n_9760594.html
 
 Em artigo anterior, este site já procurou demonstrar que a periferia brasileira é palco da grande maioria dos 60 mil assassinatos por ano. 160 por dia. Recorde e primeiro lugar mundial. Demonstrou que, por isso, corpos mortos [são o quotidiano das periferias](/blog/2016/02/26/combater-o-inimigo.html). O artigo procurou expor que corpos mortos somente assombram, e estampam os jornais, quando os assassinatos - excepcionalmente - ocorrem nas ruas mais nobres das cidades brasileiras. 
 
@@ -23,9 +24,11 @@ Resta a experiência sociológica: se os cidadãos que estavam jogando a partida
 >
 > Morador da Rocinha, o adolescente Henrique de Souza, de 17 anos, já perdeu a conta. O último cadáver que ele viu foi no ano passado: um amigo de escola morto no tráfico de drogas. Um corpo no chão não lhe diz muito, confessa:
 >
-> — Não vim à praia na quinta, mas não teria ficado assustado — diz o garoto, com o skate embaixo do braço. — Quem é da favela já viveu muita coisa. [(fonte)]
+> — Não vim à praia na quinta, mas não teria ficado assustado — diz o garoto, com o skate embaixo do braço. — Quem é da favela já viveu muita coisa.
+>
+><cite>[fonte: O Globo]</cite>
 
-[(fonte)]: http://oglobo.globo.com/rio/imagem-de-jovens-praticando-altinho-proximo-corpos-de-vitimas-de-queda-da-ciclovia-causa-perplexidade-19151022?utm_source=Facebook&utm_medium=Social&utm_campaign=O%20Globo
+[fonte: O Globo]: http://oglobo.globo.com/rio/imagem-de-jovens-praticando-altinho-proximo-corpos-de-vitimas-de-queda-da-ciclovia-causa-perplexidade-19151022?utm_source=Facebook&utm_medium=Social&utm_campaign=O%20Globo
 
 A vida não pára nas periferias, com seus 160 assassinatos diários. Como poderia? 
 
