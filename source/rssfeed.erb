@@ -18,7 +18,7 @@
       <link><%= URI.join(site_url, article.url) %></link>
       <guid><%= URI.join(site_url, article.url) %></guid>
       <pubDate><%= article.date.to_time.iso8601 %></pubDate>
-      <author><%= author %></author>
+      <author><%= author.name %></author>
       <description>Um artigo sobre segurança</description>
       <content:encoded>
 
