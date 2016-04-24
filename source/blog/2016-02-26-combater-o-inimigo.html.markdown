@@ -128,9 +128,9 @@ Peço, então, desculpas, por não querer isto que muitas vezes é sugerido nos 
 
 <a href="http://veja.abril.com.br/blog/cacador-de-mitos/historia/a-meritocracia-em-defesa-dos-pobres/" target="_blank">Um breve relato sobre a vida no século XVIII, e a revolução iluminista</a>.
 
-<a href="ciclo-incompleto.html" target="_blank">Este artigo adicional é para quem está gostando deste tipo de ponto de vista</a>.
+<a href="http://mapadaseguranca.com/blog/2015/12/01/ciclo-incompleto.html" target="_blank">Este artigo adicional é para quem está gostando deste tipo de ponto de vista</a>.
 
-<a href="homicidios-100-porcento-investigados.html" target="_blank">Este artigo adicional é para quem quer saber como investigar 100% dos homicídios no Brasil</a>.
+<a href="http://mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html" target="_blank">Este artigo adicional é para quem quer saber como investigar 100% dos homicídios no Brasil</a>.
 
 <a href="https://www.mudamos.org/temas/seguranca-publica/assuntos/desmilitarizacao" target="_blank">Veja os debates sobre segurança pública no site Mudamos</a>.
 

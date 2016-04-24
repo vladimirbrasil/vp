@@ -78,7 +78,7 @@ Mas isto que tenho optado por chamar de "desigualdade criminal" é outro assunto
 
 > Aqui no Rio Grande do Sul basta lembrar que 37 assassinatos por semana, em sua maioria concentrados nos finais de semana, é o habitual. Eu lamento muito que seja o habitual. 
 
-Tanto lamento que 37 assassinatos sejam o habitual, que tenho montada aqui do lado, no outro editorial, uma campanha pronta, explicando <a href="homicidios-100-porcento-investigados.html">como eliminar os assassinatos passando a investigá-los - todos - *sem gastar nem 1 centavo a mais*</a>. Estratégia perfeita para políticos com problema de dinheiro, como o governo gaúcho nestas semanas.
+Tanto lamento que 37 assassinatos sejam o habitual, que tenho montada aqui do lado, no outro editorial, uma campanha pronta, explicando <a href="http://mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html">como eliminar os assassinatos passando a investigá-los - todos - *sem gastar nem 1 centavo a mais*</a>. Estratégia perfeita para políticos com problema de dinheiro, como o governo gaúcho nestas semanas.
 
 Sempre, muito obrigado pelo interesse em ler um artigo inteiro para procurar aumentar a segurança no Brasil.
 

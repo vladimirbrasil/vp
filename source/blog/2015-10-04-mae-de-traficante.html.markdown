@@ -8,8 +8,6 @@ version: 1.0
 
 > A seguinte música do Mc Daleste retrata o drama das mães em regiões vulneráveis.
 
-READMORE
-
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TYo1R2oN8g8?rel=0" allowfullscreen></iframe>
@@ -150,4 +148,4 @@ Muito obrigado pelo interesse em ler um artigo inteiro para aumentar a seguranç
 
 Vladimir Bergier Dietrichkeit.
 
-Observação: investigar reduz homicídios. Os cientistas ou estudantes podem se convencerem observando as diferentes regiões do México. Lá, onde havia mais investigação de homicídios, havia menos homicídios. Claro! <a href="http://www.mexicoevalua.org/wp-content/uploads/2013/02/MEX-EVA_INDX_SJPE-LOW.pdf" target="_blank">Investigar reduz homicídios. Veja no México</a>. É de graça testar no Brasil. Basta investigarmos todos os nossos homicídios. Podemos começar <a href="homicidios-100-porcento-investigados.html">agora mesmo</a>.
+Observação: investigar reduz homicídios. Os cientistas ou estudantes podem se convencerem observando as diferentes regiões do México. Lá, onde havia mais investigação de homicídios, havia menos homicídios. Claro! <a href="http://www.mexicoevalua.org/wp-content/uploads/2013/02/MEX-EVA_INDX_SJPE-LOW.pdf" target="_blank">Investigar reduz homicídios. Veja no México</a>. É de graça testar no Brasil. Basta investigarmos todos os nossos homicídios. Podemos começar <a href="http://mapadaseguranca.com/blog/2015/08/22/homicidios-100-porcento-investigados.html">agora mesmo</a>.
