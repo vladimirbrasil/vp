@@ -9,6 +9,7 @@ tags: cidadania
 
 > Uma partida de futebol em meio aos corpos de duas das vítimas do desabamento de um trecho da ciclovia Tim Maia, na zona sul do Rio, na quinta-feira (21), deixou a internet horrorizada. O principal grito foi o de insensíveis. 
 >
+>
 > <cite>[fonte: HuffPost Brasil]</cite>
 
 [fonte: HuffPost Brasil]:http://www.brasilpost.com.br/2016/04/22/futebol-desabamento-ciclo_n_9760594.html
@@ -26,7 +27,7 @@ Resta a experiência sociológica: se os cidadãos que estavam jogando a partida
 >
 > — Não vim à praia na quinta, mas não teria ficado assustado — diz o garoto, com o skate embaixo do braço. — Quem é da favela já viveu muita coisa.
 >
-><cite>[fonte: O Globo]</cite>
+> <cite>[fonte: O Globo]</cite>
 
 [fonte: O Globo]: http://oglobo.globo.com/rio/imagem-de-jovens-praticando-altinho-proximo-corpos-de-vitimas-de-queda-da-ciclovia-causa-perplexidade-19151022?utm_source=Facebook&utm_medium=Social&utm_campaign=O%20Globo
 

@@ -273,6 +273,10 @@ svg {
   background: rgba(0, 0, 0, 0.7);
 }
 blockquote a {
+  display:block;
+  //margin-top: -10px;
+  //padding-bottom: 20px;
+  text-align: right;
   font-size: 0.7em;
 }
 
