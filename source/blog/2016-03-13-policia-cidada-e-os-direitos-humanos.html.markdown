@@ -4,6 +4,7 @@ date: 2016-03-13
 header_image: gentileza-policial2-1024.jpg
 author: vla
 tags: cidadania
+version: 1.0
 ---
 
 ### Será mesmo longo o caminho de polícias atuais brasileiras para polícias cada vez mais cidadãs? 

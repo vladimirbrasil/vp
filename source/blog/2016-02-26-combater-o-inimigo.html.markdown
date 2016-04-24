@@ -3,6 +3,7 @@ title: Queremos combater o inimigo?
 date: 2016-02-26
 author: vla
 tags: militarização, desmilitarização
+version: 1.0
 ---
 
 ### Sobre a militarização ou desmilitarização das polícias.

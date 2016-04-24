@@ -3,6 +3,7 @@ title: Lixeiros não usam cinto de segurança.
 date: 2015-12-01
 author: vla
 tags: iniquidades, racismo
+version: 1.0
 ---
 
 ### O que possuem em comum: domésticas, cela especial para nível superior, carros metralhados, lixeiros sem cinto de segurança, ciclo incompleto de polícia, recorde de assassinatos, recorde de prisões?

@@ -3,6 +3,7 @@ title: Terror... em Paris?
 date: 2015-11-15
 author: vla
 tags: terrorismo, violência
+version: 1.0
 ---
 
 ### O que o terror em Paris tem que o Brasil não possui?

@@ -3,6 +3,7 @@ title: "Homicídio-Zero sem gastar 1 centavo. Você imaginaria no Brasil?"
 date: 2015-08-22
 author: vla
 tags: homicídio
+version: 1.0
 ---
 
 ### Homicídios 100% investigados pela Guarda Municipal priorizados por Ministério Público e Justiça. 

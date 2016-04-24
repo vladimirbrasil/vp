@@ -3,6 +3,7 @@ title: Microgestor da segurança.
 date: 2016-02-28
 author: vla
 tags: gestão
+version: 1.0
 ---
 
 ### O que parece melhor para a segurança de 200 milhões de brasileiros? 

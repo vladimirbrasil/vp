@@ -3,6 +3,7 @@ title: Mãe de Traficante.
 date: 2015-10-04
 author: vla
 tags: iniquidades, periferias, favelas
+version: 1.0
 ---
 
 > A seguinte música do Mc Daleste retrata o drama das mães em regiões vulneráveis.

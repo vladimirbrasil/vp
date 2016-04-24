@@ -3,6 +3,7 @@ title: Rio de sangue.
 date: 2016-02-28
 author: vla
 tags: homicídio, violência
+version: 1.0
 ---
 
 ### Contra ou a favor da desmilitarização, vivemos a seguinte poesia do ciclo perverso:

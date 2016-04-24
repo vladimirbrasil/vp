@@ -3,6 +3,7 @@ title: O cidadão não é seu inimigo.
 date: 2016-02-28
 author: vla
 tags: militarização, desmilitarização
+version: 1.0
 ---
 
 ### Interessante raciocínio, achei simples e forte, como negar? 
