@@ -7520,27 +7520,31 @@ svg {
   margin: 0;
   color: white;
   text-shadow: 0 1px 0 black;
-  text-align: left;
+  text-align: right;
   background: rgba(0, 0, 0, 0.7); }
 
+/* line 275, /home/vla/git/vp/source/stylesheets/_main.scss */
+blockquote a {
+  font-size: 0.7em; }
+
 /* Navigation */
-/* line 279, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 281, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 282, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 284, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 285, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 287, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 288, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 290, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 291, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 293, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7551,13 +7555,13 @@ header.navbar {
   background-color: #204d74;
   color: #fff; }
 
-/* line 301, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 303, /home/vla/git/vp/source/stylesheets/_main.scss */
 .eventos {
   margin: 10px;
   display: inline;
   align: center; }
 
-/* line 306, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 308, /home/vla/git/vp/source/stylesheets/_main.scss */
 .dicionario {
   font-size: 0.9em;
   margin: 20px 0 20px 0;
