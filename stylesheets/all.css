@@ -7529,24 +7529,32 @@ blockquote a {
   text-align: right;
   font-size: 0.7em; }
 
+/* line 282, /home/vla/git/vp/source/stylesheets/_main.scss */
+figure {
+  padding: 30px 30px; }
+
+/* line 286, /home/vla/git/vp/source/stylesheets/_main.scss */
+figure figcaption {
+  text-align: center; }
+
 /* Navigation */
-/* line 285, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 293, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 288, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 296, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 291, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 299, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 294, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 302, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 297, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 305, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7557,13 +7565,13 @@ header.navbar {
   background-color: #204d74;
   color: #fff; }
 
-/* line 307, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 315, /home/vla/git/vp/source/stylesheets/_main.scss */
 .eventos {
   margin: 10px;
   display: inline;
   align: center; }
 
-/* line 312, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 320, /home/vla/git/vp/source/stylesheets/_main.scss */
 .dicionario {
   font-size: 0.9em;
   margin: 20px 0 20px 0;
