@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/04/26/99-porcento-dos-presos-brasileiros-so-possuem-ensino-medio.html"/>
     <id>http://www.mapadaseguranca.com/blog/2016/04/26/99-porcento-dos-presos-brasileiros-so-possuem-ensino-medio.html</id>
     <published>2016-04-26T20:19:00-03:00</published>
-    <updated>2016-04-27T13:51:06-03:00</updated>
+    <updated>2016-04-27T13:55:26-03:00</updated>
     <author>
       <name>Vladimir Bergier Dietrichkeit</name>
     </author>
@@ -29,7 +29,7 @@
 &lt;p&gt;Vladimir Bergier Dietrichkeit&lt;/p&gt;
 
 &lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="/images/blog/prisão.jpg" width="100%" height="auto" /&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/prisão.jpg" width="100%" height="auto" /&gt;
   &lt;figcaption&gt;Presos.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -46,7 +46,7 @@
 &lt;p&gt;De qualquer maneira, tanto a violência, quanto o índice de Gini, estão dentre os piores valores do mundo na América Latina. Ou seja, a América Latina é responsável pela maior parcela dos assassinatos mundiais, bem como possui quase em sua totalidade os piores índices de Gini em relação à média mundial.&lt;/p&gt;
 
 &lt;figure data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="/images/blog/indice-gini-e-violencia.png" width="100%" height="auto" /&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.png" width="100%" height="auto" /&gt;
   &lt;figcaption&gt;Índices de violência (em azul) e índices de Gini (vermelho e verde) no mundo. &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -87,12 +87,12 @@
 &lt;p&gt;Vladimir Bergier Dietrichkeit.&lt;/p&gt;
 
 &lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px" /&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px" /&gt;
   &lt;figcaption&gt;Perfil do preso brasileiro.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="409px" /&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="409px" /&gt;
   &lt;figcaption&gt;Perfil do preso brasileiro.&lt;/figcaption&gt;
 &lt;/figure&gt;
 

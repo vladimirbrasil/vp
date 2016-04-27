@@ -18,7 +18,7 @@ Precisa dizer mais?
 Vladimir Bergier Dietrichkeit
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="/images/blog/prisão.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/prisão.jpg"  width="100%" height="auto"/>
   <figcaption>Presos.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Há que se constatar também que o índice de Gini vem piorando desde 1820, para
 De qualquer maneira, tanto a violência, quanto o índice de Gini, estão dentre os piores valores do mundo na América Latina. Ou seja, a América Latina é responsável pela maior parcela dos assassinatos mundiais, bem como possui quase em sua totalidade os piores índices de Gini em relação à média mundial.
 
 <figure data-feedback="fb:likes, fb:comments">
-  <img src="/images/blog/indice-gini-e-violencia.png"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.png"  width="100%" height="auto"/>
   <figcaption>Índices de violência (em azul) e índices de Gini (vermelho e verde) no mundo. </figcaption>
 </figure>
 
@@ -72,12 +72,12 @@ Vamos pensar no assunto?
 Vladimir Bergier Dietrichkeit.
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px"/>
+  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px"/>
   <figcaption>Perfil do preso brasileiro.</figcaption>
 </figure>
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="409px"/>
+  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="409px"/>
   <figcaption>Perfil do preso brasileiro.</figcaption>
 </figure>
 
