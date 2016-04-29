@@ -155,7 +155,7 @@ Pode ocorrer no mundo que o crime esteja conseguindo captar mais "funcionários"
 
 Não bastasse sobrar menos renda para aqueles que possuem menor formação, o índice de Gini representa uma maior distância entre os que mais recebem parcelas da renda anual do país, e os que menos recebem  parcelas da renda anual do país, o que pode representar uma medida de maior "inveja", entre aqueles que recebem muito menos, invejando aqueles que recebem muito mais, da renda anual do país, em países com índice de Gini insatisfatórios em relação à média mundial. 
 
-Será que a inveja é maior quando um serviço de engenharia paga 12 vezes mais (14 mil reais) do que um serviço de limpeza (1200 reais), em relação a quando um serviço de engenharia paga o dobro (14 mil reais) do que um serviço de limpeza (7 mil reais)? 
+> Será que a inveja é maior quando um serviço de engenharia paga 12 vezes mais (14 mil reais) do que um serviço de limpeza (1200 reais), em relação a quando um serviço de engenharia paga o dobro (14 mil reais) do que um serviço de limpeza (7 mil reais)? 
 
 Inveja esta que pode impulsionar a tentativa de obter mais renda, muitas vezes oferecida pelo crime, e não pelo mercado de trabalho de nível médio ou fundamental, nos países com piores índices de Gini.
 
@@ -169,7 +169,9 @@ Da mesma maneira, um professor da Universidade Federal do Rio Grande do Sul, com
 
 Quando tudo fica esfumaçado e complexo, por que não voltarmos ao solo firme, claro, iluminado?
 
-> De qualquer maneira, temos um fato basal certo, fácil de medir, e medido: 80% dos presos brasileiros possuem no máximo o diploma do ensino fundamental; 99% só possuem, no máximo, o diploma do ensino médio.
+De qualquer maneira, temos um fato basal certo, fácil de medir, e medido:
+
+> 80% dos presos brasileiros possuem no máximo o diploma do ensino fundamental; 99% só possuem, no máximo, o diploma do ensino médio.
 
 Vamos pensar no assunto?
 
