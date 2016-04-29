@@ -282,10 +282,31 @@ blockquote a {
 figure {
   padding: 30px 30px;
 
-}
-figure figcaption
-{
-  text-align: center;
+  figcaption {
+    font-size: 0.9em;
+    text-align: left;
+    padding: 0;
+
+    p {
+      margin: 4px 0 2px 0;
+
+    }
+    
+    h1 {
+      font-size: 1em;
+      font-weight: bold;
+      padding: 0;
+      margin: 15px 0 2px 0;
+    }
+
+    cite {
+      color: grey;
+      font-style: normal;
+      font-size: 0.9em;
+      padding: 0;
+      margin: 2px 0 2px 0;
+    }
+  }
 }
 
 

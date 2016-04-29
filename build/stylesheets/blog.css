@@ -7532,29 +7532,46 @@ blockquote a {
 /* line 282, /home/vla/git/vp/source/stylesheets/_main.scss */
 figure {
   padding: 30px 30px; }
-
-/* line 286, /home/vla/git/vp/source/stylesheets/_main.scss */
-figure figcaption {
-  text-align: center; }
+  /* line 285, /home/vla/git/vp/source/stylesheets/_main.scss */
+  figure figcaption {
+    font-size: 0.9em;
+    text-align: left;
+    padding: 0; }
+    /* line 290, /home/vla/git/vp/source/stylesheets/_main.scss */
+    figure figcaption p {
+      margin: 4px 0 2px 0; }
+    /* line 295, /home/vla/git/vp/source/stylesheets/_main.scss */
+    figure figcaption h1 {
+      font-size: 1em;
+      font-weight: bold;
+      padding: 0;
+      margin: 15px 0 2px 0; }
+    /* line 302, /home/vla/git/vp/source/stylesheets/_main.scss */
+    figure figcaption cite {
+      color: grey;
+      font-style: normal;
+      font-size: 0.9em;
+      padding: 0;
+      margin: 2px 0 2px 0; }
 
 /* Navigation */
-/* line 293, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 314, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 296, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 317, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 299, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 320, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 302, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 323, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 305, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 326, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7565,13 +7582,13 @@ header.navbar {
   background-color: #204d74;
   color: #fff; }
 
-/* line 315, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 336, /home/vla/git/vp/source/stylesheets/_main.scss */
 .eventos {
   margin: 10px;
   display: inline;
   align: center; }
 
-/* line 320, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 341, /home/vla/git/vp/source/stylesheets/_main.scss */
 .dicionario {
   font-size: 0.9em;
   margin: 20px 0 20px 0;

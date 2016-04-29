@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/04/26/80-porcento-dos-presos-brasileiros-so-possuem-ensino-fundamental.html"/>
     <id>http://www.mapadaseguranca.com/blog/2016/04/26/80-porcento-dos-presos-brasileiros-so-possuem-ensino-fundamental.html</id>
     <published>2016-04-26T20:19:00-03:00</published>
-    <updated>2016-04-29T01:25:16-03:00</updated>
+    <updated>2016-04-29T18:57:13-03:00</updated>
     <author>
       <name>Vladimir Bergier Dietrichkeit</name>
     </author>
@@ -26,17 +26,28 @@
 
 &lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px" /&gt;
-  &lt;figcaption&gt;Perfil do preso brasileiro: gráfico de linha.&lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
+  	&lt;p&gt;Gráfico de linha.&lt;/p&gt;
+  	&lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
+	&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="479px" /&gt;
-  &lt;figcaption&gt;Perfil do preso brasileiro: gráfico de barra.&lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
+  	&lt;p&gt;Gráfico de barra.&lt;/p&gt;
+  	&lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
+  &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure data-mode="aspect-fit"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/prisao.jpg" width="100%" height="auto" /&gt;
-  &lt;figcaption&gt;Presos.&lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Presos&lt;/h1&gt;
+  	&lt;cite&gt;por AP&lt;/cite&gt;
+  &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id="anlise"&gt;Análise:&lt;/h2&gt;
@@ -67,7 +78,10 @@
 
 &lt;figure data-mode="aspect-fit"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/bifurcacao-na-vida.png" width="100%" height="auto" /&gt;
-  &lt;figcaption&gt;Um dilema possível: salário mais de dez vezes menor, ou o crime com seus perigos e imoralidade?&lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Um dilema possível&lt;/h1&gt;
+  	&lt;p&gt;Salário mais de dez vezes menor, ou o crime com seus perigos e imoralidade?&lt;/p&gt;
+	&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;É quando podemos comparar países do mundo que possuem baixa violência com países do mundo que possuem alta violência.&lt;/p&gt;
@@ -96,7 +110,10 @@ Podemos dizer que o salário que menos paga (mil reais), nesta rua, paga 20 veze
 
 &lt;figure data-mode="aspect-fit"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/rua-de-casas.jpg" width="100%" height="auto" /&gt;
-  &lt;figcaption&gt;Uma rua: casas com maior renda, casas com menor renda.&lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Uma rua&lt;/h1&gt;
+  	&lt;p&gt;Casas com maior renda, casas com menor renda.&lt;/p&gt;
+	&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;O índice de Gini é mais sofisticado do que uma simples conta de dividir como esta acima simplificada, porém seu objetivo é exatamente este: avaliar se "as ruas de um país", ou a população do país, distribui toda sua renda produzida de maneira a manter pequena a distância entre as médias salariais mais altas e mais baixas, ou mantendo grande a distância entre as médias salariais mais altas e mais baixas.&lt;/p&gt;
@@ -165,8 +182,15 @@ Podemos dizer que o salário que menos paga (mil reais), nesta rua, paga 20 veze
 
 &lt;figure data-feedback="fb:likes, fb:comments"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.png" width="100%" height="auto" /&gt;
-  &lt;figcaption&gt;Índices de violência (em azul) e índices de Gini (vermelho e verde) no mundo. &lt;/figcaption&gt;
+  &lt;figcaption&gt;
+  	&lt;h1&gt;Índices de violência (em azul) e índices de Gini (vermelho/verde) no mundo.&lt;/h1&gt;
+  	&lt;p&gt;Quanto mais azul escuro, mais violento. Quanto mais vermelho, mais desigual.&lt;/p&gt;
+  	&lt;cite&gt;De Wikipedia: &lt;a href="https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#/media/File:Map_of_world_by_intentional_homicide_rate.svg"&gt;violência&lt;/a&gt; | &lt;a href="https://commons.wikimedia.org/wiki/File:2014_Gini_Index_World_Map,_income_inequality_distribution_by_country_per_World_Bank.svg#/media/File:2014_Gini_Index_World_Map,_income_inequality_distribution_by_country_per_World_Bank.svg"&gt;Gini&lt;/a&gt;
+  	&lt;/cite&gt;
+  &lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#/media/File:Map_of_world_by_intentional_homicide_rate.svg&lt;/p&gt;
 
 &lt;p&gt;Note que via de regra as regiões em azul-escuro no mapa do topo são também avermelhadas no mapa inferior, na figura acima. Ou seja: regiões que possuem alto índice de violência possuem índices de gini insatisfatórios, em relação a média mundial - com poucas exceções.&lt;/p&gt;
 

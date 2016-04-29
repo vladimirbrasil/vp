@@ -15,17 +15,28 @@ author: vla
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
   <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px"/>
-  <figcaption>Perfil do preso brasileiro: gráfico de linha.</figcaption>
+  <figcaption>
+  	<h1>Perfil do preso brasileiro</h1>
+  	<p>Gráfico de linha.</p>
+  	<cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
+	</figcaption>
 </figure>
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
   <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="479px"/>
-  <figcaption>Perfil do preso brasileiro: gráfico de barra.</figcaption>
+  <figcaption>
+  	<h1>Perfil do preso brasileiro</h1>
+  	<p>Gráfico de barra.</p>
+  	<cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
+  </figcaption>
 </figure>
 
 <figure data-mode="aspect-fit">
   <img src="http://mapadaseguranca.com/images/blog/prisao.jpg"  width="100%" height="auto"/>
-  <figcaption>Presos.</figcaption>
+  <figcaption>
+  	<h1>Presos</h1>
+  	<cite>por AP</cite>
+  </figcaption>
 </figure>
 
 ## Análise: 
@@ -50,7 +61,10 @@ Filtre-se desta parcela aqueles que não se sentem moralmente compelidos a jamai
 
 <figure data-mode="aspect-fit">
   <img src="http://mapadaseguranca.com/images/blog/bifurcacao-na-vida.png" width="100%" height="auto"/>
-  <figcaption>Um dilema possível: salário mais de dez vezes menor, ou o crime com seus perigos e imoralidade?</figcaption>
+  <figcaption>
+  	<h1>Um dilema possível</h1>
+  	<p>Salário mais de dez vezes menor, ou o crime com seus perigos e imoralidade?</p>
+	</figcaption>
 </figure>
 
 É quando podemos comparar países do mundo que possuem baixa violência com países do mundo que possuem alta violência.
@@ -79,7 +93,10 @@ Podemos dizer que o salário que menos paga (mil reais), nesta rua, paga 20 veze
 
 <figure data-mode="aspect-fit">
   <img src="http://mapadaseguranca.com/images/blog/rua-de-casas.jpg" width="100%" height="auto"/>
-  <figcaption>Uma rua: casas com maior renda, casas com menor renda.</figcaption>
+  <figcaption>
+  	<h1>Uma rua</h1>
+  	<p>Casas com maior renda, casas com menor renda.</p>
+	</figcaption>
 </figure>
 
 O índice de Gini é mais sofisticado do que uma simples conta de dividir como esta acima simplificada, porém seu objetivo é exatamente este: avaliar se "as ruas de um país", ou a população do país, distribui toda sua renda produzida de maneira a manter pequena a distância entre as médias salariais mais altas e mais baixas, ou mantendo grande a distância entre as médias salariais mais altas e mais baixas.
@@ -145,8 +162,15 @@ De qualquer maneira, tanto a violência, quanto o índice de Gini, estão dentre
 
 <figure data-feedback="fb:likes, fb:comments">
   <img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.png"  width="100%" height="auto"/>
-  <figcaption>Índices de violência (em azul) e índices de Gini (vermelho e verde) no mundo. </figcaption>
+  <figcaption>
+  	<h1>Índices de violência (em azul) e índices de Gini (vermelho/verde) no mundo.</h1>
+  	<p>Quanto mais azul escuro, mais violento. Quanto mais vermelho, mais desigual.</p>
+  	<cite>De Wikipedia: <a href="https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#/media/File:Map_of_world_by_intentional_homicide_rate.svg">violência</a> | <a href="https://commons.wikimedia.org/wiki/File:2014_Gini_Index_World_Map,_income_inequality_distribution_by_country_per_World_Bank.svg#/media/File:2014_Gini_Index_World_Map,_income_inequality_distribution_by_country_per_World_Bank.svg">Gini</a>
+  	</cite>
+  </figcaption>
 </figure>
+
+https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#/media/File:Map_of_world_by_intentional_homicide_rate.svg
 
 Note que via de regra as regiões em azul-escuro no mapa do topo são também avermelhadas no mapa inferior, na figura acima. Ou seja: regiões que possuem alto índice de violência possuem índices de gini insatisfatórios, em relação a média mundial - com poucas exceções.
 

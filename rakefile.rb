@@ -22,6 +22,15 @@ task :deploy, :message do |t, args|
 end
 
 =begin
+>> Imagens
+http://pt.freeimages.com/
+http://openphoto.net/
+http://www.stockvault.net/
+http://www.unprofound.com/
+http://www.freemediagoo.com/
+http://morguefile.com/
+
+
 Afazeres
 Facebook+Twitter share links with images (Decio).
   Twitter card | https://dev.twitter.com/cards/types/summary-large-image
