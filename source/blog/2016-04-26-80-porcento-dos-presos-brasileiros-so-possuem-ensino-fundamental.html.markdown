@@ -67,7 +67,9 @@ Filtre-se desta parcela aqueles que não se sentem moralmente compelidos a jamai
 	</figcaption>
 </figure>
 
-É quando podemos comparar países do mundo que possuem baixa violência com países do mundo que possuem alta violência.
+*Quem se interessar especificamente sobre o dilema representado pelo desenho acima pode seguir <a href="https://en.wikipedia.org/wiki/Rational_choice_theory_(criminology)" target="_blank">esta análise</a> (artigo em inglês).*
+
+Após analisar este dilema, podemos comparar países do mundo que possuem baixa violência com países do mundo que possuem alta violência.
 
 Para esta comparação, vamos tratar de onde vai parar toda a renda produzida por um país, todo o trabalho gerado por cada um que ali reside, em cada ano.
 
