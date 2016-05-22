@@ -69,7 +69,7 @@ Vários exemplos de configuração da segurança são possíveis, dividindo por 
 
 Algum estado irá acertar na escolha de sua configuração, cercado de especialistas, em algum momento, e todo o país irá tentar adaptar os sucessos daqueles estados que consigam ser pioneiros em melhorar a segurança em seus territórios.
 
-Essa é a grande vantagem do exercício do pacto federativo: 27 tentativas, em uma corrida por acertos e soluções, a serem imitadas pelos demais estados, ao invés de um único modelo centralizado para todo o brasil.
+> Essa é a grande vantagem do exercício do pacto federativo: 27 tentativas, em uma corrida por acertos e soluções, a serem imitadas pelos demais estados, ao invés de um único modelo centralizado para todo o brasil.
 
 Um exemplo de divisão em região ou território, notadamente nos estados em que as polícias civis e militares são além de grandes, também tradicionais - a Polícia Militar de Minas Gerais, por exemplo, possui 240 anos de tradição, comentou, durante os debates, Pedro Feital, um dos vários debatedores da Plataforma Mudamos - é seguir mantendo ambas as importantes e históricas polícias já atuantes no estado, que passariam, então, a serem completas, ou seja: atuariam do início ao fim no crime, sem divisões, nem meio-ciclo, nem meia-carreira. Policiais, de carreira - sem divisões internas -, em uma única polícia - sem divisões em ciclo -, atenderiam o cidadão no contexto do crime, sem nenhuma divisão. 
 
@@ -83,13 +83,13 @@ Não foi debatido ao vivo por Vladimir, mas caso a desmilitarização, discutida
 
 Assim, seja como Polícia Militar Mineira, ou Polícia “Não-Militar” Mineira, a depender das conclusões do debate sobre desmilitarização, de qualquer maneira, ela e seus mesmos policiais seguirão completando 241, 300, 400 anos de tradição, caso o governador escolha a formatação de tornar ambas as polícias, civil e militar, duas polícias, completas, atuando em crimes diferentes, do início ao fim.
 
-O estado poderá experimentar com os formatos, até que estados pioneiros obtenham os primeiros sucessos na redução dos índices de violência e no retorno da sensação de segurança. O primeiro estado, ou os primeiros estados, que conseguirem obter sucesso tenderão a ser imitados por outros estados. 27 fábricas de formatos de segurança correndo para descobrir as melhores soluções para os problemas de segurança que atormentam os brasileiros.
+> O estado poderá experimentar com os formatos, até que estados pioneiros obtenham os primeiros sucessos na redução dos índices de violência e no retorno da sensação de segurança. O primeiro estado, ou os primeiros estados, que conseguirem obter sucesso tenderão a ser imitados por outros estados. 27 fábricas de formatos de segurança correndo para descobrir as melhores soluções para os problemas de segurança que atormentam os brasileiros.
 
 ## Na descentralização federativa os estados poderiam formatar polícias municipais?
 
 A descentralização federativa permite que determinado estado opte por criar polícias municipais; intramunicipais - por exemplo, em megalópoles - e, por exemplo, podendo especificar que determinadas polícias atuem em crimes específicos - por exemplo, em atendimento a ocorrências de desinteligência, pequenas brigas, que ocupam a maior parte do tempo policial.
 
-Como é sempre reiterado, logo algum estado poderá sair na frente ao criar uma receita de sucesso, para o combate à violencia e para a preservação da seguranca, para os moradores que ali habitam. Um exemplo a ser adaptado e imitado pelos demais estados. 
+> Logo algum estado poderá sair na frente ao criar uma receita de sucesso, para o combate à violencia e para a preservação da seguranca, para os moradores que nele habitam. Um exemplo a ser adaptado e imitado pelos demais estados. 
 
 ## A descentralização federativa permite incentivar formatos que privilegiem novas maneiras de interagir com a população?
 
@@ -103,7 +103,7 @@ Uma postura estratégica pode valer mais do que milhares de fuzis de grosso cali
 
 Mas é também um grande desafio para cada cultura e formato policial. Não é simples. 
 
-Novamente, a vantagem do pacto federativo: cada estado criando seus próprios especialistas, poderá descobrir as melhores respostas, estratégias e tecnologias, eventualmente passando a ser imitados em seus sucessos, na busca por melhores maneiras de formatação de suas polícias.
+> Novamente, a vantagem do pacto federativo: cada estado criando seus próprios especialistas, poderá descobrir as melhores respostas, estratégias e tecnologias, eventualmente passando a ser imitados em seus sucessos, na busca por melhores maneiras de formatação de suas polícias.
 
 ## Com a descentralização federativa as atuais polícias estaduais podem exercer papel similar à Polícia Federal?
 
@@ -113,7 +113,7 @@ A capacidade de variação - sempre utilizando polícias completas - é enorme q
 
 Em qualquer formatação adotada pelo Estado, para o cidadão - objetivo de qualquer mudança -, o benefício imediato é sempre o mesmo: apenas uma polícia, e até mesmo internamente, somente policiais - sem divisão interna - atenderão o problema do cidadão: a ocorrência; o crime. Do início ao fim - até a chegada ao juiz, sempre que necessário.
 
-Com o pacto federativo em pleno exercício na área da segurança pública, em pouco tempo, argumenta Vladimir, o cidadão se beneficiará de poder observar reportagens mostrando a maior eficiência de determinados estados, ou de determinadas polícias, em reduzir homicídios e prevenir crimes.
+> Com o pacto federativo em pleno exercício na área da segurança pública, em pouco tempo, argumenta Vladimir, o cidadão se beneficiará de poder observar reportagens mostrando a maior eficiência de determinados estados, ou de determinadas polícias, em reduzir homicídios e prevenir crimes.
 
 Esta “competição” saudável, entre 27 fábricas de segurança, 27 estados, exercendo plenamente o pacto federativo, autorizadas pelo governo federal, opina Vladimir, logo espalhará as metodologias mais bem sucedidas para aqueles estados que ainda precisarem melhorar seus resultados, sua formatação, de segurança. 
 
