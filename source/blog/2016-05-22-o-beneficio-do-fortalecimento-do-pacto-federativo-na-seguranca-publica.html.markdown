@@ -9,14 +9,12 @@ author: vla
 
 No dia 29 de fevereiro de 2016, às 19h, o policial federal Vladimir Bergier Dietrichkeit participou de debate sobre segurança pública, transmitido ao vivo, promovido pela Plataforma Mudamos, organizado pela ONG ItsRio. O debate foi mediado por Luiz Eduardo Soares e está disponível na íntegra, gravado.
 
-<!-- 4:3 aspect ratio -->
-<div class="embed-responsive embed-responsive-4by3">
- <iframe class="embed-responsive-item" src="https://m.youtube.com/watch?v=nyNyD6cPL_0" allowfullscreen></iframe>
-</div>
+*Vladimir foi apresentado como sendo o debatedor que mais contribuiu com as discussões sobre segurança na Plataforma Mudamos.*
 
-Vladimir foi apresentado como sendo o debatedor que mais contribuiu com as discussões sobre segurança na Plataforma Mudamos.
+Em 31 de maio de 2016 encerra a fase da relatoria da plataforma. 
 
-Em 31 de maio de 2016 encerra a fase da relatoria da plataforma (acompanhe neste [link](https://www.mudamos.org/temas/seguranca-publica), que irá gerar um documento considerando todas as opiniões e debates, que será entregue aos governantes, contendo as melhores opções de solução para o problema da segurança pública brasileira, que tanto aflige, de maneira intolerável, os brasileiros.
+> A plataforma Mudamos irá gerar um documento considerando todas as opiniões e debates, que será entregue aos governantes, contendo as melhores opções de solução para o problema da segurança pública brasileira, que tanto aflige, de maneira intolerável, os brasileiros.
+> <cite>[Acompanhe a elaboração do documento](https://www.mudamos.org/temas/seguranca-publica)</cite>
 
 Vladimir foi convidado a falar sobre **descentralização federativa**, o que fez de maneira inusitada, quando utilizou maçãs para ajudar a explicar o tema (inclusive, inadvertidamente, aguçando o apetite na platéia).
 
@@ -125,6 +123,12 @@ Vladimir lembra que a ágil e participativa imprensa brasileira, juntamente com 
 
 > Com o pacto federativo o Brasil poderá ter a evolução mais rápida da América Latina na área da segurança pública, usando seu tamanho como maior vantagem nesta busca. 
 
+Assista ao debate gravado!
+
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+ <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nyNyD6cPL_0?rel=0" allowfullscreen></iframe>
+</div>
 ___
 
 *Vladimir Bergier Dietrichkeit é engenheiro eletricista formado na Escola Politécnica da Universidade de São Paulo, policial federal e membro do Grupo de Trabalho para a Reestruturação da Polícia Federal junto ao Ministério do Planejamento, Orçamento e Gestão e Ministério da Justiça. Também é membro da Fundação Brasileira de Ciências Policiais.*
