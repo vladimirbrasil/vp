@@ -3,7 +3,7 @@ version: v1.0
 title: O beneficio do fortalecimento do pacto federativo na segurança pública
 date: 2016-05-22 19:03 UTC
 tags: federação, descentralização
-header_image: landscape-brasil.png
+header_image: macas-fruteira-header.jpg
 author: vla
 ---
 
@@ -23,7 +23,7 @@ Vladimir foi convidado a falar sobre **descentralização federativa**, o que fe
 ## Maçãs foram utilizadas para explicar a  descentralização na segurança pública brasileira. 
 
 <figure data-mode="aspect-fit">
-  <img src="http://mapadaseguranca.com/images/blog/macas-fruteira.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/macas-fruteira-800.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Maçãs causaram fome no debate</h1>
 Uma fruteira com vários tipos de maçãs representou as 27 fábricas de segurança diferentes, uma em cada estado, exigindo apenas que sejam utilizadas - obrigatoriamente - sempre polícias completas, representadas por maçãs sempre inteiras, ao vivo, no debate.
@@ -44,7 +44,7 @@ Vladimir mostrou que atualmente temos no Brasil apenas uma fábrica de seguranç
 Não bastasse termos hoje apenas uma maçã, representando o único modelo de segurança existente para todos os estados, Vladimir dividiu, durante o debate, a maçã que representaria a única fábrica de segurança nacional, mostrando que além de haver um único modelo nacional, nossas polícias ainda são divididas: em ciclos, e em carreiras, ambos incompletos, criando rixas internas e laterais entre polícias divididas.
 
 <figure data-mode="aspect-fit">
-  <img src="http://mapadaseguranca.com/images/blog/macas-partida.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/macas-partida-800.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Maçã bipartida</h1>
 Polícia dividida, maçã dividida. Divisão em dois meio-ciclos: rivalidades, burocracia e deslocamentos em duas dimensões, para o que deveria ser uma simples solução, de um único crime.
@@ -53,7 +53,7 @@ Polícia dividida, maçã dividida. Divisão em dois meio-ciclos: rivalidades, b
 </figure>
 
 <figure data-mode="aspect-fit">
-  <img src="http://mapadaseguranca.com/images/blog/macas-partida-em-4.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/macas-partida-em-4-800.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Segurança pública brasileira atual: em 4 pedaços</h1>
 Maçã representando a divisão em ciclo e em carreira: rivalidades internas em quatro dimensões, para cada jurisdição policial, para a atuação em um único crime.
