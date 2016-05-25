@@ -23,12 +23,18 @@ end
 
 =begin
 >> Imagens
+http://thestocks.im/
 http://pt.freeimages.com/
 http://openphoto.net/
 http://www.stockvault.net/
 http://www.unprofound.com/
 http://www.freemediagoo.com/
 http://morguefile.com/
+
+>> Carousel effects
+size: 300 x 200
+jpg: 50
+gaussian-blur: 5
 
 
 Afazeres
