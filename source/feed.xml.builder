@@ -5,7 +5,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.subtitle "Soluções para o aparentemente insolucionável"
   xml.id URI.join(site_url, blog.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
-  xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
+  #xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
   xml.updated(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
   xml.author { xml.name "Vladimir Bergier Dietrichkeit" }
 
@@ -23,9 +23,11 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
     puts article.respond_to?("author")
 =end
     xml.entry do
+      article_sha = Digest::SHA2.hexdigest( File.read( article.source_file ) )
+
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article.url)
-      xml.id URI.join(site_url, article.url)
+      xml.id URI.join( article_sha )
       xml.published article.date.to_time.iso8601
       xml.updated File.mtime(article.source_file).iso8601
       xml.author { xml.name "Vladimir Bergier Dietrichkeit" } #article_author

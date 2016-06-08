@@ -23,9 +23,8 @@
     
     <item>
 
-    <!-- Mudar id (guid >> article_sha) do artigo para qualquer alteração do conteúdo -->
-      <% article_file_path = "build#{article.url}" %>
-      <% article_sha = Digest::SHA2.hexdigest( File.read( article_file_path ) ) %>
+      <!-- Mudar id (guid >> article_sha) do artigo para qualquer alteração do conteúdo -->
+      <% article_sha = Digest::SHA2.hexdigest( File.read( article.source_file ) ) %>
 
       <title><%= article.title %></title>
       <link><%= URI.join(site_url, article.url) %></link>
