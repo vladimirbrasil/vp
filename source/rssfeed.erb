@@ -64,9 +64,7 @@
 
                   <!-- The published and last modified time stamps -->
                   <time class="op-published" dateTime="<%= article.date.to_time.iso8601 %>"><%= article.date.strftime('%e/%m/%Y') %></time>
-                  <% if article.data.modified_date %>
-                    <time class="op-modified" dateTime="<%= article.data.modified_date.to_time.iso8601 %>"><%= article.data.modified_date.strftime('%e/%m/%Y') %></time>
-                  <% end %>
+                  <time class="op-modified" dateTime="<%= File.mtime(article.source_file).iso8601 %>"><%= File.mtime(article.source_file).strftime('%e/%m/%Y') %></time>
                 </header>
 
                 <%= article.body %>
