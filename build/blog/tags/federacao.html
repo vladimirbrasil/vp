@@ -39,6 +39,14 @@
   <!-- facebook instant articles -->
   <meta property="fb:pages" content="723710051063855" />
 
+  <!-- facebook share buttons -->
+  <meta property="og:url"           content="http://mapadaseguranca.com" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="O primeiro mapa da sua segurança. No Brasil e no mundo. Veja previsões" />
+  <meta property="og:description"   content="Violência não é número. E se um familiar for uma das 50 mil pessoas que sofrerão assassinato este ano no Brasil? E se alguém de sua casa for roubado? Conheça o primeiro mapa da sua segurança." />
+  <meta property="og:image"         content="/images/logo.gif" />
+
+
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@MapaSeguranca" />
@@ -86,23 +94,35 @@
   <body class="blog blog_tags blog_tags_federacao">
 
   	<!-- facebook script -->
-	<script>
-	  window.fbAsyncInit = function() {
-	    FB.init({
-	      appId      : '1698565290377342',
-	      xfbml      : true,
-	      version    : 'v2.5'
-	    });
-	  };
+		<div id="fb-root"></div>
 
-	  (function(d, s, id){
-	     var js, fjs = d.getElementsByTagName(s)[0];
-	     if (d.getElementById(id)) {return;}
-	     js = d.createElement(s); js.id = id;
-	     js.src = "//connect.facebook.net/en_US/sdk.js";
-	     fjs.parentNode.insertBefore(js, fjs);
-	   }(document, 'script', 'facebook-jssdk'));
-	</script>
+<!-- 		<script>
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+ -->		
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '1698565290377342',
+		      xfbml      : true,
+		      version    : 'v2.5'
+		    });
+		  };
+
+		  (function(d, s, id){
+		     var js, fjs = d.getElementsByTagName(s)[0];
+		     if (d.getElementById(id)) {return;}
+		     js = d.createElement(s); js.id = id;
+		     js.src = "//connect.facebook.net/en_US/sdk.js";
+		     fjs.parentNode.insertBefore(js, fjs);
+		   }(document, 'script', 'facebook-jssdk'));
+		</script>
   	<!-- fim facebook script -->
 
     <!-- Google Tag Manager -->
@@ -214,13 +234,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <span class="sr-only">Compartilhar no Twitter</span></a></li>
 
 
-        <li>
+        <li>          
           <div
             class="fb-like"
             data-share="true"
             data-width="450"
             data-show-faces="true">
-          </div>          
+          </div>                        
         </li>
 
 

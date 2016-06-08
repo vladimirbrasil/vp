@@ -1,37 +1,38 @@
 {
-    "header":
-    {
-        "tipo_regiao": "estado",
-        "ano": 2014,
-        "crime": "roubo de veículo",
-        "fonte": "9º Anuário Brasileiro de Segurança Pública",
-        "url": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica"
-    },
-    "stats":
-    [
-      ["Alagoas", 549.4284604],
-      ["Bahia", 425.3459093],
-      ["Distrito Federal", 449.1324695],
-      ["Espírito Santo", 197.9464832],
-      ["Goiás", 130.9533582],
-      ["Maranhão", 222.2342795],
-      ["Mato Grosso", 255.5769338],
-      ["Mato Grosso do Sul", 83.17150726],
-      ["Minas Gerais", 112.1647878],
-      ["Pará", 313.4092494],
-      ["Paraná", 126.8594513],
-      ["Pernambuco", 310.3370697],
-      ["Piauí", 302.4466946],
-      ["Rio de Janeiro", 551.9631781],
-      ["Rio Grande do Norte", 136.6544387],
-      ["Rio Grande do Sul", 221.2944438],
-      ["Roraima", 15.09923553],
-      ["Santa Catarina", 75.37195079],
-      ["São Paulo", 384.0191602],
-      ["Sergipe", 321.4029294],
-      ["Acre", 11.63050772],
-      ["Amapá", 149.7468853],
-      ["Rondônia", 151.1733377],
-      ["Tocantins", 82.86481497],
-      ["Amazonas", 343.3616094]
-    ]}
+  "header":
+  {
+      "tipo_regiao": "estado",
+      "ano": 2014,
+      "crime": "roubo de veículo",
+      "fonte": "9º Anuário Brasileiro de Segurança Pública",
+      "url": "http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica"
+  },
+  "stats":
+  [
+    ["Alagoas", 549.4284604],
+    ["Bahia", 425.3459093],
+    ["Distrito Federal", 449.1324695],
+    ["Espírito Santo", 197.9464832],
+    ["Goiás", 130.9533582],
+    ["Maranhão", 222.2342795],
+    ["Mato Grosso", 255.5769338],
+    ["Mato Grosso do Sul", 83.17150726],
+    ["Minas Gerais", 112.1647878],
+    ["Pará", 313.4092494],
+    ["Paraná", 126.8594513],
+    ["Pernambuco", 310.3370697],
+    ["Piauí", 302.4466946],
+    ["Rio de Janeiro", 551.9631781],
+    ["Rio Grande do Norte", 136.6544387],
+    ["Rio Grande do Sul", 221.2944438],
+    ["Roraima", 15.09923553],
+    ["Santa Catarina", 75.37195079],
+    ["São Paulo", 384.0191602],
+    ["Sergipe", 321.4029294],
+    ["Acre", 11.63050772],
+    ["Amapá", 149.7468853],
+    ["Rondônia", 151.1733377],
+    ["Tocantins", 82.86481497],
+    ["Amazonas", 343.3616094]
+  ]
+}
