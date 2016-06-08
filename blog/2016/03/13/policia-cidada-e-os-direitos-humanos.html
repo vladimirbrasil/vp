@@ -107,22 +107,23 @@
 			}(document, 'script', 'facebook-jssdk'));
 		</script>
  -->		
+ <div id="fb-root"></div>
 		<script>
 		  window.fbAsyncInit = function() {
 		    FB.init({
-		      appId      : '1698565290377342',
+		      appId      : '1754396898175683',
 		      xfbml      : true,
 		      version    : 'v2.5'
 		    });
 		  };
 
-		  (function(d, s, id){
-		     var js, fjs = d.getElementsByTagName(s)[0];
-		     if (d.getElementById(id)) {return;}
-		     js = d.createElement(s); js.id = id;
-		     js.src = "//connect.facebook.net/en_US/sdk.js";
-		     fjs.parentNode.insertBefore(js, fjs);
-		   }(document, 'script', 'facebook-jssdk'));
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.6";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
 		</script>
   	<!-- fim facebook script -->
 
@@ -408,9 +409,10 @@ O manual do SEBRAE é um bom “ponto de partida”. Mas não é tão necessári
       </div>
 
       <div class='row text-left'>
-        <fb:comments href="http://mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html"></fb:comments>
+        <!--         <fb:comments href="http://mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html"></fb:comments> -->        
+        <div class="fb-comments" data-href="http://mapadaseguranca.com/blog/2016/03/13/policia-cidada-e-os-direitos-humanos.html" data-width="100%" data-numposts="5"></div>
       </div>
-      
+
     </div>
 
 
