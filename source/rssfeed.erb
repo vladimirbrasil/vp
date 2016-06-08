@@ -22,9 +22,14 @@
     <% img = find_image(article.data.header_image) %>
     
     <item>
+
+    <!-- Mudar id (guid >> article_sha) do artigo para qualquer alteração do conteúdo -->
+      <% article_file_path = "build#{article.url}" %>
+      <% article_sha = Digest::SHA2.hexdigest( File.read( article_file_path ) ) %>
+
       <title><%= article.title %></title>
       <link><%= URI.join(site_url, article.url) %></link>
-      <guid isPermaLink="false"><%= URI.join(site_url, article.url) %></guid>
+      <guid isPermaLink="false"><%= article_sha %></guid>
       <pubDate><%= article.date.to_time.iso8601 %></pubDate>
       <author><%= author.name %></author>
       <description>Um artigo sobre segurança</description>
