@@ -29,7 +29,7 @@ Será que conseguimos, ainda, seguir a analogia com o filme? Vejamos.
 Os moradores das regiões vulneráveis brasileiras possuem "visto de trabalho", trabalho barato, para acessar as boas ruas brasileiras. Da mesma maneira como ocorre com muitos mexicanos, entre outros imigrantes vulneráveis, dentro dos EUA. Como apresenta o filme.
 
 <figure data-mode="aspect-fit">
-  <img src="/images/blog/muros.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/muros.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Muros altos.</h1>
  		Físico e bem vigiado entre México e EUA, de preços e salários - e bem vigiado - entre dois Brasis.
@@ -64,7 +64,7 @@ Oito mil quilômetros abaixo, dois cariocas tomam, da mesma maneira, o cafezinho
 
 
 <figure data-mode="aspect-fit">
-  <img src="/images/blog/cafes.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/cafes.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Cafés em Nova Iorque e Copacabana</h1>
  		Discutir sobre o México em Nova Iorque, discutir sobre favelas em Copacabana. E na hora de agir?
@@ -93,7 +93,7 @@ O cientista que perseguir estratégias de redução de assassinatos irá encontr
 Todavia, este mesmo cientista irá encontrar espinhos, mato alto, plantas venenosas e onças selvagens, ao tentar pedir a ação do "Estado". Da "população".
 
 <figure data-mode="aspect-fit">
-  <img src="/images/blog/cenarios.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/cenarios.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Cenários que o cientista deve percorrer para produzir soluções em segurança pública.</h1>
  		Á esquerda, a linda viagem pela elaboração da técnica e de estratégias de redução de homicídios; à direita, a tenebrosa, letal, jornada pela efetiva ação do "Estado", da "população". Qual "estado"? Qual "população"? Quais interesses?
