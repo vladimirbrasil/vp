@@ -1,12 +1,12 @@
 ---
 title: Terra de Ninguém
 date: 2016-06-11 02:42 UTC
-tags:
+tags: iniquidades, periferias, favelas, racismo
 header_image: muros-1920.jpg
 author: vla
 ---
 
-A relação entre o Brasil e as favelas brasileiras está para a relação que os Estados Unidos possui com o México.
+> A relação entre o Brasil e as favelas brasileiras está para a relação que os Estados Unidos possui com o México.
 
 Só não temos o muro físico.
 
@@ -18,7 +18,7 @@ O argumento do filme pode ser aplicado dentro do Brasil. Espelhando a lógica do
 
 Em comparação com a relação México/EUA abordada pelo filme, aqui dentro do Brasil só não temos o muro físico, nem a necessidade de passaporte. 
 
-Os habitantes das regiões vulneráveis brasileiras são convenientemente aceitos, como mão de obra barata, nas boas ruas brasileiras, mas não como consumidores destes mesmos serviços.
+> Habitantes das regiões vulneráveis brasileiras são convenientemente aceitos, como mão de obra barata, nas boas ruas brasileiras, mas não como consumidores destes mesmos serviços.
 
 Os preços nos cardápios são o muro social que fisicamente não pode ser construído dentro do Brasil. 
 
@@ -38,7 +38,7 @@ Os moradores das regiões vulneráveis brasileiras possuem "visto de trabalho", 
   </figcaption>
 </figure>
 
-Ninguém, a não ser a história, é culpada.
+> Ninguém, a não ser a história, é culpada.
 
 As gerações se entrelaçam. Nossos avós, bisavós, transmitem pelo diz-que-me-diz aquilo que sabem e enxergam, desde a que horas tomar chá até quem deve receber quanto para fazer o que.
 
@@ -52,11 +52,9 @@ Quando se fala em combater o recorde mundial de assassinatos que o Brasil produz
 
 Os assassinatos brasileiros ocorrem predominantemente no nosso "México" - se insistirmos na relação entre EUA e México abordada no filme. -, isto é, os assassinatos brasileiros ocorrem majoritariamente nas regiões vulneráveis brasileiras.
 
-Quando se fala em conter assassinatos, encontramos o mesmo apoio, o mesmo furor, que dois nova-iorquinos comentando que seria muito bom reduzir os assassinatos... no México. 
+> Quando se fala em conter assassinatos, encontramos o mesmo apoio, o mesmo furor, que dois nova-iorquinos comentando que seria muito bom reduzir os assassinatos... no México. 
 
 Eles concordam. Percorre o corpo uma sensação de politicamente correto. Mas não param de tomar seu cafezinho em sua cidade.
-
-
 
 Seria muito diferente se o problema ocorresse na própria deles Nova Iorque. O engajamento, o furor, seria imenso. A imprensa se envolveria diariamente, e não no caderno de raras reportagens especiais. O promotor seria pressionado. Cargos seriam substituídos.
 
@@ -72,7 +70,7 @@ Oito mil quilômetros abaixo, dois cariocas tomam, da mesma maneira, o cafezinho
   </figcaption>
 </figure>
 
-Comentam tragédias - por exemplo: estupros, assassinatos - nas regiões vulneráveis. Também pode percorrer o corpo uma sensação de politicamente correto. Como se novaiorquinos fossem, tratando de problemas do México, o assunto não chega a interromper a rotina.
+Comentam tragédias - por exemplo: estupros, assassinatos - nas regiões vulneráveis. Também pode percorrer o corpo uma sensação de politicamente correto. Como se nova-iorquinos fossem, tratando de problemas do México, o assunto não chega a interromper a rotina.
 
 Quando a tragédia - o estupro; o assassinato - acontece em Copacabana, a mobilização é quase instantânea. Os jornais não param de cobrir suas páginas com o ocorrido. Secretários são pressionados. Investigadores trabalham como nunca.
 
@@ -80,7 +78,7 @@ O cafezinho não tem o mesmo sabor quando a tragédia afeta um lado, e quando a 
 
 O que Nova Iorque e Copacabana, México e favelas brasileiras, podem ter em comum?
 
-O que Nova Iorque e México, Copacabana e favelas brasileiras, podem ter em comum?
+> O que Nova Iorque e México, Copacabana e favelas brasileiras, podem ter em comum?
 
 A relação apontada pelo filme Sicario: Terra de Ninguém é o que há de comum entre um e outro Brasil, entre EUA e México. É o que pretendo demonstrar.
 
@@ -121,17 +119,34 @@ Na hora de movimentar a máquina, de agir, a ação do nova-iorquino é terminar
 
 Aqui dentro do Brasil, portanto, discutir homicídio não é discutir estratégias sem custo de investigar cada um deles e mitigá-los. Jamais foi esse o grande problema.
 
-Aqui dentro do Brasil, selvagem é discutir por que se preocupar em mover a máquina para investigar assassinatos... "lá".
+> Aqui dentro do Brasil, selvagem é discutir por que se preocupar em mover a máquina para investigar assassinatos... "do lado de lá".
 
-A ciência permite equacionar até mesmo fatores além da técnica analisada.
+A ciência, todavia, não pára no primeiro obstáculo. Permite equacionar até mesmo fatores além da técnica inicialmente pesquisada. Permite se aprofundar além da habilidade de conseguir reduzir assassinatos, sem nenhum custo, no Brasil.
 
-Um obstinado cientista poderá notar que o Brasil pode - rescrevendo a constituição, em alguns casos - optar:
+Um obstinado cientista poderá avançar além da técnica inicial, e notar que o Brasil pode precisar - rescrevendo a constituição, em alguns casos - optar:
 
 Por assumir e formalizar suas diferenças internas, criando as castas indianas, por exemplo. Muita hipocrisia vai deixar de existir.
 
 Ou.
 
 Por decidir criar um único Brasil, sem seu "México", nem seu "EUA", basicamente integrando todo mundo, com e sem diplomas, em salários que não ultrapassem muito mais do que cinco vezes entre o graduado típico e o não graduado típico. Isto tirará um pouco a pressão dos alunos nas universidades, que parecem atuar mais como sendo emissora de "green cards" (uma permissão para ser considerado cidadão dos EUA, ou das Boas Ruas brasileiras), permitindo a volta da paixão para a graduação, como ocorre na Suíça, onde o salário de um graduado é apenas 30% maior, e não dez vezes maior, como ocorre no nosso Brasil em que universidade equivale a mudar de "país", de Estado, migrar das Regiões Vulneráveis para as Boas Ruas, pulando o muro que não precisa ser físico - está nas diferenças salariais extensas.
+
+<figure data-mode="aspect-fit">
+  <img src="/images/blog/greencard-diploma.jpg"  width="100%" height="auto"/>
+  <figcaption>
+    <h1>Greencard, Diploma. Passaporte para outro Mundo.</h1>
+    Muitos comprariam um greencard para sair do México; muitos comprariam um diploma de graduação para se afastar das ruas e costumes brasileiros mais vulneráveis. 
+    <cite></cite>
+  </figcaption>
+</figure>
+
+> Pais desesperados investem toda sua renda em poucos filhos para garantirem seus "greencards" brasileiros - o diploma de graduação que afasta seu filho do sub-Brasil. Do outro Mundo. 
+
+Afinal, não estamos na Suíça e assemelhados, onde sem-diploma também há dignidade. 
+
+Na Suíça, onde um diplomado ganha apenas - aproximadamente - 50% a mais do que um não-diplomado, em média, a responsabilidade adicional em relação ao aumento salarial deve obrigar que a paixão pelo ensino superior influencie na decisão de cursar graduação. 
+
+Quando a graduação é trampolim para salários dez vezes (1000%) maiores, em média, como ocorre no Brasil, *quantos realmente querem o conhecimento, mais do que somente - e rapidamente! - o papel?*
 
 Se queremos castas como na Índia, assumimos as imensas diferenças.
 
@@ -141,9 +156,11 @@ Enquanto não tomarmos esta postura, enquanto não estabelecermos este debate, g
 
 Claro que este tipo de "debate" não ocorre em meia hora de bar. Infelizmente, nem em algumas décadas (este é um palpite meu).
 
-Portanto, se formos escrever verdades, desculpem escrever (acho que tem coisas que não deveriam ser ditas), mas nós não queremos, ainda, "solucionar" o problema dos assassinatos, que ocorrem nas Regiões Vulneráveis brasileiras. São excelentes temas de cafés, mas não de mobilização efetiva do estado.
+Portanto, se formos escrever verdades, desculpem escrever (acho que tem coisas que não deveriam ser ditas), mas:
 
-Como conversas sobre o México entre dois… novaiorquinos.
+> Nós não queremos, ainda, "solucionar" o problema dos assassinatos, que ocorrem nas Regiões Vulneráveis brasileiras. São excelentes temas de cafés, mas não de mobilização efetiva do estado.
+
+Como conversas sobre o México entre dois… nova-iorquinos.
 
 Como, portanto, dramatiza o filme [Sicario: Terra de Ninguém](http://www.imdb.com/title/tt3397884/).
 
