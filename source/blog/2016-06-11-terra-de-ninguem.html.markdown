@@ -29,7 +29,7 @@ Será que conseguimos, ainda, seguir a analogia com o filme? Vejamos.
 Os moradores das regiões vulneráveis brasileiras possuem "visto de trabalho", trabalho barato, para acessar as boas ruas brasileiras. Da mesma maneira como ocorre com muitos mexicanos, entre outros imigrantes vulneráveis, dentro dos EUA. Como apresenta o filme.
 
 <figure data-mode="aspect-fit">
-  <img src="http://mapadaseguranca.com/images/blog/muros.jpg"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/muros-1920.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Muros altos.</h1>
  		Físico e bem vigiado entre México e EUA, de preços e salários - e bem vigiado - entre dois Brasis.

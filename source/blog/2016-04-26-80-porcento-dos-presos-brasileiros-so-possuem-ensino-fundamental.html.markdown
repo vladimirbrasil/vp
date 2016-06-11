@@ -3,7 +3,7 @@ version: v1.0
 title: 80% dos presos brasileiros só possuem ensino fundamental
 date: 2016-04-26 23:19 UTC
 tags: presos
-header_image: perfil-do-preso-brasileiro-1024.png
+header_image: perfil-do-preso-brasileiro-1024.gif
 author: vla
 ---
 
@@ -163,7 +163,7 @@ Mas podemos voltar a focar na América Latina.
 De qualquer maneira, tanto a violência, quanto o índice de Gini, estão dentre os piores valores do mundo na América Latina. Ou seja, a América Latina é responsável pela maior parcela dos assassinatos mundiais, bem como possui quase em sua totalidade os piores índices de Gini em relação à média mundial.
 
 <figure data-feedback="fb:likes, fb:comments">
-  <img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.png"  width="100%" height="auto"/>
+  <img src="http://mapadaseguranca.com/images/blog/indice-gini-e-violencia.gif"  width="100%" height="auto"/>
   <figcaption>
   	<h1>Índices de violência (em azul) e índices de Gini (vermelho/verde) no mundo.</h1>
   	<p>Quanto mais azul escuro, mais violento. Quanto mais vermelho, mais desigual.</p>
