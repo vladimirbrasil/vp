@@ -145,7 +145,7 @@ Portanto, se formos escrever verdades, desculpem escrever (acho que tem coisas q
 
 Como conversas sobre o México entre dois… novaiorquinos.
 
-Como, portanto, dramatiza o filme Sicário: Terra de Ninguém.
+Como, portanto, dramatiza o filme [Sicario: Terra de Ninguém](http://www.imdb.com/title/tt3397884/).
 
 Um cientista, todavia, não pode parar.
 
