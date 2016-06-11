@@ -23,7 +23,7 @@ author: vla
 </figure>
 
 <figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="479px"/>
+  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="300px"/>
   <figcaption>
   	<h1>Perfil do preso brasileiro</h1>
   	<p>Gráfico de barra.</p>

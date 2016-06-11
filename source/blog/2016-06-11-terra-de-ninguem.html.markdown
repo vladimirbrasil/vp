@@ -33,14 +33,14 @@ Os moradores das regiões vulneráveis brasileiras possuem "visto de trabalho", 
   <figcaption>
   	<h1>Muros altos.</h1>
  		Físico e bem vigiado entre México e EUA, de preços e salários - e bem vigiado - entre dois Brasis.
- 		A altura de um muro e o rigor em sua vigilância separam populações. De concreto ou social.
+ 		A altura de um muro e o rigor em sua vigilância separam populações. Muro de concreto ou muro social.
   	<cite></cite>
   </figcaption>
 </figure>
 
 > Ninguém, a não ser a história, é culpada.
 
-As gerações se entrelaçam. Nossos avós, bisavós, transmitem pelo diz-que-me-diz aquilo que sabem e enxergam, desde a que horas tomar chá até quem deve receber quanto para fazer o que.
+As gerações se entrelaçam. Nossos avós, bisavós, transmitem pelo diz-que-me-diz aquilo que sabem e enxergam, desde a que horas tomar chá até quem deve receber quanto para fazer o quê.
 
 Isso remonta ao século 20, ao século 19. Remonta àqueles tempos de escravos comprados que não poderiam receber para trabalhar.
 
