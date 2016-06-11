@@ -92,6 +92,15 @@ O cientista que perseguir estratégias de redução de assassinatos irá encontr
 
 Todavia, este mesmo cientista irá encontrar espinhos, mato alto, plantas venenosas e onças selvagens, ao tentar pedir a ação do "Estado". Da "população".
 
+<figure data-mode="aspect-fit">
+  <img src="/images/blog/cenarios.jpg"  width="100%" height="auto"/>
+  <figcaption>
+  	<h1>Cenários que o cientista deve percorrer para produzir soluções em segurança pública.</h1>
+ 		Á esquerda, a linda viagem pela elaboração da técnica e de estratégias de redução de homicídios; à direita, a tenebrosa, letal, jornada pela efetiva ação do "Estado", da "população". Qual "estado"? Qual "população"? Quais interesses?
+  	<cite></cite>
+  </figcaption>
+</figure>
+
 Eis o desafio do cientista que busca reduzir ou praticamente extinguir assassinatos no Brasil. 
 
 Por que a maior dificuldade é agir?
