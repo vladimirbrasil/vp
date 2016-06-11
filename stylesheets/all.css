@@ -7588,24 +7588,31 @@ figure {
       padding: 0;
       margin: 2px 0 2px 0; }
 
+/* line 350, /home/vla/git/vp/source/stylesheets/_main.scss */
+.nota-autor {
+  font-style: italic;
+  font-size: 0.7em;
+  padding: 20px;
+  text-align: justify; }
+
 /* Navigation */
-/* line 353, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 358, /home/vla/git/vp/source/stylesheets/_main.scss */
 header.navbar {
   margin: 0; }
 
-/* line 356, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 361, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar {
   background-color: #337ab7; }
 
-/* line 359, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 364, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a {
   color: #d8e6f3; }
 
-/* line 362, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 367, /home/vla/git/vp/source/stylesheets/_main.scss */
 .navbar a:hover {
   color: #fff; }
 
-/* line 365, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 370, /home/vla/git/vp/source/stylesheets/_main.scss */
 .nav > li > a:hover,
 .nav > li > a:focus,
 .open > a,
@@ -7616,13 +7623,13 @@ header.navbar {
   background-color: #204d74;
   color: #fff; }
 
-/* line 375, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 380, /home/vla/git/vp/source/stylesheets/_main.scss */
 .eventos {
   margin: 10px;
   display: inline;
   align: center; }
 
-/* line 380, /home/vla/git/vp/source/stylesheets/_main.scss */
+/* line 385, /home/vla/git/vp/source/stylesheets/_main.scss */
 .dicionario {
   font-size: 0.9em;
   margin: 20px 0 20px 0;
