@@ -3,7 +3,7 @@ version: v1.0
 title: 80% dos presos brasileiros só possuem ensino fundamental
 date: 2016-04-26 23:19 UTC
 tags: presos
-header_image: perfil-do-preso-brasileiro-1024.gif
+header_image: evasao-escolar-e-presos-sem-diploma.jpg
 author: vla
 ---
 
@@ -25,9 +25,11 @@ author: vla
   </figcaption>
 </figure>
 
-> Observação: todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.
+> Observaçao: Todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.
 
-## Funções que não exigem longo ensino devem ser mais atrativas?
+Ou será que, ao invés de todas nossas crianças precisarem estudar mais, podemos, de outra parte, tornar mais atraentes as funções da sociedade que não exigem diploma?
+
+O que causa o quê?
 
 São apenas questionamentos. Sem resposta curta, às vezes sem resposta qualquer. O mundo não é uma linha reta, nem se resolve com 2+2. 
 
@@ -43,10 +45,29 @@ São apenas questionamentos. Sem resposta curta, às vezes sem resposta qualquer
 
 Isto está medido. 
 
+> Se todas as crianças brasileiras de todas as próximas gerações conseguissem obter diploma universitário, a maioria dos empregos existentes na sociedade pagaria várias vezes mais?
 
-## Qual a relação entre o mercado de trabalho e o "mercado" do crime?
+> Se todas as crianças brasileiras de todas as próximas gerações conseguissem obter diploma universitário, os presídios esvaziariam, tendo em vista que menos de 1% de todos os presos atuais possuem diploma universitário?
 
-80% dos presos possuírem não mais do que o nível fundamental poderia significar que os trabalhos que exigem apenas nível fundamental são muito menos atraentes do que o ingresso na criminalidade. Esta bifurcação na vida, escolher entre o crime ou o trabalho, para quem possui apenas o nível de estudo fundamental, levaria em consideração tanto a facilidade de entrar na criminalidade, quanto a baixa atratividade do mercado de trabalho que exige apenas ensino fundamental.
+<figure data-mode="aspect-fit">
+  <img src="http://mapadaseguranca.com/images/blog/evasao-escolar-e-presos-sem-diploma.jpg"  width="100%" height="auto"/>
+  <figcaption>
+    <h1>Nossas* crianças saem para onde?</h1>
+    <p>* Todas as crianças são nossas crianças. Influenciarão em nossas vidas.</p>
+    <cite></cite>
+  </figcaption>
+</figure>
+
+
+Será que podemos navegar um pouco mais sobre estes questionamentos? 
+
+*Já agradeço, imensamente, a quem precisará educadamente recusar esta proposta de passeio, por falta de tempo. Obrigado! A quem fica, avante (consegui relacionar empregos, salários, em países com maior e menor crime)!*
+
+80% dos presos possuírem não mais do que o nível fundamental poderia significar que os trabalhos que exigem apenas nível fundamental são muito menos atraentes do que o ingresso na criminalidade. 
+
+> Uma bifurcação que vem se impondo em algumas vidas sem diploma. Escolher entre o crime ou o trabalho.
+
+Esta bifurcação na vida, escolher entre o crime ou o trabalho, para quem possui apenas o nível de estudo fundamental, levaria em consideração tanto a facilidade de entrar na criminalidade, quanto a baixa atratividade do mercado de trabalho que exige apenas ensino fundamental.
 
 A facilidade de entrar na criminalidade é favorecida ou desfavorecida por aspectos como:
 
