@@ -162,9 +162,9 @@ Maçã representando a divisão em ciclo e em carreira: rivalidades internas em 
   <entry>
     <title>80% dos presos brasileiros só possuem ensino fundamental</title>
     <link rel="alternate" href="http://www.mapadaseguranca.com/blog/2016/04/26/80-porcento-dos-presos-brasileiros-so-possuem-ensino-fundamental.html"/>
-    <id>49d4f3abaed855c40b801349b2fc870c70a2d229995a6348c6ed94c2d7c73221</id>
+    <id>e1d2bca12ff6080237ef2b120009f0872a2e527d2b0fbed1bf3bcb248e1995ae</id>
     <published>2016-04-26T20:19:00-03:00</published>
-    <updated>2016-06-11T18:22:42-03:00</updated>
+    <updated>2016-06-30T12:28:05-03:00</updated>
     <author>
       <name>Vladimir Bergier Dietrichkeit</name>
     </author>
@@ -174,36 +174,40 @@ Maçã representando a divisão em ciclo e em carreira: rivalidades internas em 
   &lt;p&gt;&lt;cite&gt;&lt;a href="http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica"&gt;fonte: 9º Anuário Brasileiro de Segurança Pública&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px" /&gt;
-  &lt;figcaption&gt;
-  	&lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
-  	&lt;p&gt;Gráfico de linha.&lt;/p&gt;
-  	&lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
-	&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;h1 id="nossas-crianas-devem-estudar-mais"&gt;Nossas crianças devem estudar mais?&lt;/h1&gt;
 
-&lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
-  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="300px" /&gt;
+&lt;figure data-mode="aspect-fit"&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/evasao-escolar.jpg" width="100%" height="auto" /&gt;
   &lt;figcaption&gt;
-  	&lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
-  	&lt;p&gt;Gráfico de barra.&lt;/p&gt;
-  	&lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
+    &lt;h1&gt;Evasão escolar&lt;/h1&gt;
+    &lt;p&gt;Se nossas crianças permanecessem mais tempo na escola, será mesmo que diminuiriam as entradas nos presídios? Quem causa o quê?&lt;/p&gt;
+    &lt;cite&gt;&lt;/cite&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Observação: todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="funes-que-no-exigem-longo-ensino-devem-ser-mais-atrativas"&gt;Funções que não exigem longo ensino devem ser mais atrativas?&lt;/h2&gt;
+
+&lt;p&gt;São apenas questionamentos. Sem resposta curta, às vezes sem resposta qualquer. O mundo não é uma linha reta, nem se resolve com 2+2.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fato é que: 80% dos presos brasileiros só possuem ensino fundamental.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;figure data-mode="aspect-fit"&gt;
   &lt;img src="http://mapadaseguranca.com/images/blog/prisao.jpg" width="100%" height="auto" /&gt;
   &lt;figcaption&gt;
-  	&lt;h1&gt;Presos&lt;/h1&gt;
-  	&lt;cite&gt;por AP&lt;/cite&gt;
+    &lt;h1&gt;Presos&lt;/h1&gt;
+    &lt;cite&gt;por AP&lt;/cite&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h2 id="anlise"&gt;Análise:&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Qual a relação entre o mercado de trabalho e o "mercado" do crime?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Isto está medido.&lt;/p&gt;
+
+&lt;h2 id="qual-a-relao-entre-o-mercado-de-trabalho-e-o-mercado-do-crime"&gt;Qual a relação entre o mercado de trabalho e o "mercado" do crime?&lt;/h2&gt;
 
 &lt;p&gt;80% dos presos possuírem não mais do que o nível fundamental poderia significar que os trabalhos que exigem apenas nível fundamental são muito menos atraentes do que o ingresso na criminalidade. Esta bifurcação na vida, escolher entre o crime ou o trabalho, para quem possui apenas o nível de estudo fundamental, levaria em consideração tanto a facilidade de entrar na criminalidade, quanto a baixa atratividade do mercado de trabalho que exige apenas ensino fundamental.&lt;/p&gt;
 
@@ -346,7 +350,7 @@ Podemos dizer que o salário que menos paga (mil reais), nesta rua, paga 20 veze
 
 &lt;p&gt;Note que via de regra as regiões em azul-escuro no mapa do topo são também avermelhadas no mapa inferior, na figura acima. Ou seja: regiões que possuem alto índice de violência possuem índices de gini insatisfatórios, em relação a média mundial - com poucas exceções.&lt;/p&gt;
 
-&lt;h2 id="anlise-1"&gt;Análise:&lt;/h2&gt;
+&lt;h2 id="anlise"&gt;Análise:&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Na Europa há mais pessoas cursando faculdade, ou há mais valor no mercado de trabalho de níveis fundamental e médio?&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -390,6 +394,24 @@ Podemos dizer que o salário que menos paga (mil reais), nesta rua, paga 20 veze
 &lt;p&gt;Vamos pensar no assunto?&lt;/p&gt;
 
 &lt;p&gt;Vladimir Bergier Dietrichkeit.&lt;/p&gt;
+
+&lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px" /&gt;
+  &lt;figcaption&gt;
+    &lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
+    &lt;p&gt;Gráfico de linha.&lt;/p&gt;
+    &lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments"&gt;
+  &lt;img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="300px" /&gt;
+  &lt;figcaption&gt;
+    &lt;h1&gt;Perfil do preso brasileiro&lt;/h1&gt;
+    &lt;p&gt;Gráfico de barra.&lt;/p&gt;
+    &lt;cite&gt;por &lt;a href="https://www.facebook.com/vladimir.brasil.9"&gt;VBD&lt;/a&gt;&lt;/cite&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
 
 </content>
   </entry>

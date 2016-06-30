@@ -13,34 +13,38 @@ author: vla
 
 [fonte: 9º Anuário Brasileiro de Segurança Pública]:http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica
 
-<figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px"/>
-  <figcaption>
-  	<h1>Perfil do preso brasileiro</h1>
-  	<p>Gráfico de linha.</p>
-  	<cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
-	</figcaption>
-</figure>
 
-<figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
-  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="300px"/>
+# Nossas crianças devem estudar mais?
+
+<figure data-mode="aspect-fit">
+  <img src="http://mapadaseguranca.com/images/blog/evasao-escolar.jpg"  width="100%" height="auto"/>
   <figcaption>
-  	<h1>Perfil do preso brasileiro</h1>
-  	<p>Gráfico de barra.</p>
-  	<cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
+    <h1>Evasão escolar</h1>
+    <p>Se nossas crianças permanecessem mais tempo na escola, será mesmo que diminuiriam as entradas nos presídios? Quem causa o quê?</p>
+    <cite></cite>
   </figcaption>
 </figure>
+
+> Observação: todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.
+
+## Funções que não exigem longo ensino devem ser mais atrativas?
+
+São apenas questionamentos. Sem resposta curta, às vezes sem resposta qualquer. O mundo não é uma linha reta, nem se resolve com 2+2. 
+
+> Fato é que: 80% dos presos brasileiros só possuem ensino fundamental. 
 
 <figure data-mode="aspect-fit">
   <img src="http://mapadaseguranca.com/images/blog/prisao.jpg"  width="100%" height="auto"/>
   <figcaption>
-  	<h1>Presos</h1>
-  	<cite>por AP</cite>
+    <h1>Presos</h1>
+    <cite>por AP</cite>
   </figcaption>
 </figure>
 
-## Análise: 
-> Qual a relação entre o mercado de trabalho e o "mercado" do crime?
+Isto está medido. 
+
+
+## Qual a relação entre o mercado de trabalho e o "mercado" do crime?
 
 80% dos presos possuírem não mais do que o nível fundamental poderia significar que os trabalhos que exigem apenas nível fundamental são muito menos atraentes do que o ingresso na criminalidade. Esta bifurcação na vida, escolher entre o crime ou o trabalho, para quem possui apenas o nível de estudo fundamental, levaria em consideração tanto a facilidade de entrar na criminalidade, quanto a baixa atratividade do mercado de trabalho que exige apenas ensino fundamental.
 
@@ -212,5 +216,25 @@ De qualquer maneira, temos um fato basal certo, fácil de medir, e medido:
 Vamos pensar no assunto?
 
 Vladimir Bergier Dietrichkeit.
+
+<figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
+  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-linha.png" width="auto" height="409px"/>
+  <figcaption>
+    <h1>Perfil do preso brasileiro</h1>
+    <p>Gráfico de linha.</p>
+    <cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
+  </figcaption>
+</figure>
+
+<figure data-mode="aspect-fit" data-feedback="fb:likes, fb:comments">
+  <img src="http://mapadaseguranca.com/images/blog/perfil-do-preso-brasileiro-barra.png" width="auto" height="300px"/>
+  <figcaption>
+    <h1>Perfil do preso brasileiro</h1>
+    <p>Gráfico de barra.</p>
+    <cite>por <a href="https://www.facebook.com/vladimir.brasil.9">VBD</a></cite>
+  </figcaption>
+</figure>
+
+
 
 
