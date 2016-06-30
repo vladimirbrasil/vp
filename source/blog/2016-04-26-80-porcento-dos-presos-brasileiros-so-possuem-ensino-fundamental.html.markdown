@@ -14,7 +14,7 @@ author: vla
 [fonte: 9º Anuário Brasileiro de Segurança Pública]:http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica
 
 
-# Nossas crianças devem estudar mais?
+# Nossas crianças precisam estudar mais?
 
 <figure data-mode="aspect-fit">
   <img src="http://mapadaseguranca.com/images/blog/evasao-escolar.jpg"  width="100%" height="auto"/>
