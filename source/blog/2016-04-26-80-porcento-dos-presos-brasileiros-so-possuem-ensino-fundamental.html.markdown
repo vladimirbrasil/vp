@@ -25,7 +25,7 @@ author: vla
   </figcaption>
 </figure>
 
-> Observaçao: Todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.
+> Observação: todas as crianças são nossas crianças. Todas e cada uma exercerão influência em todos nós, a medida em que crescem e tomam conta de sua parte do mundo na vida.
 
 Ou será que, ao invés de todas nossas crianças precisarem estudar mais, podemos, de outra parte, tornar mais atraentes as funções da sociedade que não exigem diploma?
 
