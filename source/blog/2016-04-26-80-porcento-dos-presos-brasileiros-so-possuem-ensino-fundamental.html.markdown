@@ -78,7 +78,7 @@ A facilidade de entrar na criminalidade é favorecida ou desfavorecida por aspec
 A facilidade de ingressar no mercado de trabalho é favorecida por aspectos como:
 
 - Altos salários. 
-- Aspecto infeccioso: quanto amigos próximos e admirados rumam pelo caminho do trabalho.
+- Aspecto infeccioso: quantos amigos próximos e admirados rumam pelo caminho do trabalho.
 
 A parcela da população que possui capacitação para tarefas que apresentam os salários com médias mais baixas do pais, como por exemplo o ensino fundamental, pode representar aquela parcela que por mais tempo se debaterá em torno de partir para o "mercado informal e ilegal" do trabalho criminoso, ou se manter no mercado de trabalho legal, formal ou informal, fora do crime, dentro de suas capacidades e sujeito às médias salariais do país.
 
@@ -132,7 +132,7 @@ As médias salariais mais baixas de um país muitas vezes são representadas por
 
 Estas médias salariais mais baixas de um país são as médias que mais estão sujeitas a serem comparadas com o ingresso no mercado ilegal e informal do crime.
 
-Assim, países que possuem suas médias saláriais mais baixas muito distantes das médias saláriais mais altas, ou seja, como vimos acima, países ou regiões que possuem um índice de Gini insatisfatório, abaixo da média mundial, são também países que mais podem "perder" cidadãos para o "mercado ilegal, informal" do crime. Ou que mais precisam gastar com combate à violencia para tornar "cara" a decisão de ingressar no crime. Quanto mais "caro" for o ingresso no crime, como por exemplo a certeza da prisão, ou penas como morte, ou morte sem julgamento, em algumas ditaduras, mais o mercado pode manter salários baixos, distantes das médias salariais mais altas, que mesmo assim o crime "não compensa". 
+Assim, países que possuem suas médias salariais mais baixas muito distantes das médias saláriais mais altas, ou seja, como vimos acima, países ou regiões que possuem um índice de Gini insatisfatório, abaixo da média mundial, são também países que mais podem "perder" cidadãos para o "mercado ilegal, informal" do crime. Ou que mais precisam gastar com combate à violencia para tornar "cara" a decisão de ingressar no crime. Quanto mais "caro" for o ingresso no crime, como por exemplo a certeza da prisão, ou penas como morte, ou morte sem julgamento, em algumas ditaduras, mais o mercado pode manter salários baixos, distantes das médias salariais mais altas, que mesmo assim o crime "não compensa". 
 
 Países como o Brasil - e toda América Latina, parte sul da África, entre outros - possuem tanto médias salariais mais baixas bastante distantes das médias saláriais mais altas (índice de Gini abaixo da média mundial), quanto um combate ao crime fraco, sem tornar "caro" o ingresso no crime.
 
@@ -165,11 +165,13 @@ Países como o Brasil - e toda América Latina, parte sul da África, entre outr
 > <cite>[fonte: World Salaries - Engenharia](http://www.worldsalaries.org/engineer.shtml)</cite>
 
 
-Um elaborador de políticas públicas, e a sociedade a quem ele representa, lá do topo de uma nação ou região, sempre pode optar entre melhorar o mercado de trabalho que possui as médias salariais mais baixas e/ou aumentar o combate ao crime, tornando "caro ingressar no crime".
+Um elaborador de políticas públicas, e a sociedade a qual ele representa, lá do topo de uma nação ou região, sempre pode optar entre melhorar o mercado de trabalho que possui as médias salariais mais baixas e/ou aumentar o combate ao crime, tornando "caro ingressar no crime".
 
-Esta é a opção que um comandante de polícia já não possui com tanta força. Um comandante de polícia em geral foca mais em aumentar o combate ao crime.
+Esta diversidade de opções um gestor de polícia já não possui com tanta força. Um gestor de polícia em geral pode focar mais em aumentar o combate ao crime, em tornar "caro" o ato criminoso. (Jamais nos esqueçamos, todavia, dos [policiais que ajudaram o menino a estudar](http://g1.globo.com/sp/santos-regiao/noticia/2016/03/pms-ajudam-menino-com-o-dever-de-casa-e-foto-da-acao-viraliza-na-internet.html). Porém não é a função, nem há poder para isso, das polícias, isoladamente).
 
-Assim como um secretário da fazenda já não possui esta variedade de opções. Um secretário da fazenda pode focar mais em estabelecer melhores distribuições da renda, se deseja tomar uma atitude que ajude a diminuir a opção pela criminalidade, favorecendo a opção pelo mercado de trabalho dos que possuem o nível fundamental, ou níveis de estudo e especialização mais curtos da sociedade. Sempre haverá, vale ressaltar, salários mais baixos em uma sociedade, mesmo que todos os cidadãos possuam nível superior, mestrado e doutorado (engraçado pensar isso, não?).
+Da mesma maneira, um secretário da fazenda não possui esta variedade de opções. Um secretário da fazenda pode focar mais em estabelecer melhores distribuições da renda, se deseja tomar uma atitude que ajude a diminuir a opção pela criminalidade, ao favorecer, tornar mais atrativa, a opção pelo mercado de trabalho para aqueles que possuem o nível fundamental, ou os anos de estudo e de especialização mais curtos da sociedade. 
+
+Sempre haverá, vale ressaltar, salários mais baixos em uma sociedade, mesmo que todos os cidadãos possuam nível superior, mestrado e doutorado (engraçado pensar isso, não?).
 
 Tradicionalmente América Latina e África possuem os piores coeficientes de Gini, ou seja, distribuições menos igualitárias de renda entre os residentes da população da nação, em relação às nações mais desenvolvidas como, notadamente, Europa, região norte da África, Sudeste asiático, Austrália, Japão, Canadá. É como vimos na relação entre os salários médios de engenheiros e de serviços de limpeza. O salário médio de um engenheiro chega a ser 12 vezes maior no Brasil, e apenas o dobro em Canadá e Austrália, em relação ao serviço de limpeza, que requer menos investimento em estudo.
 
@@ -208,11 +210,17 @@ Note que na Europa e nos demais países que possuem um bom coeficiente de Gini, 
 
 > Cursar uma faculdade é caro e difícil na imensa maioria dos países. 
 
+> Europa, Canadá, Austrália, conseguem manter baixos índices de violência mesmo tendo apenas uma minoria da população com nível superior. A grande característica destas regiões não é a quantidade de diplomas de bacharelado entregues a seus habitantes mas, sim, a valorização dos cargos que **não exigem** bacharelado, ou seja, que **não exigem** nível superior. Será mesmo?  
+
 É preciso focar que o índice de Gini em bons patamares informa que mesmo aquele conjunto de pessoas que não tenha uma formação tão longa, como por exemplo tendo obtido apenas o nível médio ou apenas o nível fundamental, ainda assim, este conjunto de pessoas receberá uma parcela grande da renda produzida pelo país todo ano, e parcela da renda bem maior do que receberiam estas mesmas pessoas em países com índice de Gini insatisfatórios, como é o caso do Brasil.
 
 O trabalho e o crime podem competir por "funcionários" de maneira similar a como empresas oferecem melhores ou piores salários em determinadas posições, com maiores ou menores benefícios, com maiores ou menores desvantagens.
 
-Pode ocorrer no mundo que o crime esteja conseguindo captar mais "funcionários" (funcionários do crime) do que o salário mais benefícios médios, para pessoas com formações mais curtas, com apenas nível médio ou fundamental, em países com piores índices de Gini.
+Pode ocorrer no mundo que o crime consiga captar mais "funcionários" (funcionários do crime) do que as empresas tradicionais, fora do crime, na busca por preencher vagas em serviços que aceite pessoas com formações mais curtas, por exemplo apenas com nível médio ou fundamental. 
+
+> De maneira informal, o crime atua como um "empregador" - apresentando rendimentos, riscos e benefícios (ainda que de maneira ilegal e imoral) -, tanto quanto empresas tradicionais, legais, legítimas - apresentando rendimentos, riscos e benefícios - na hora de atrair "funcionários" para suas tarefas e serviços. 
+
+Em regiões com piores índices de Gini e pouco combate ao crime, riscos e rendimentos de cada tipo de serviço - o trabalho no crime; o trabalho moral, tradicional - se juntam com a moralidade particular de cada indivíduo dando um empurrazinho para a escolha o crime, e não do mercado tradicional de trabalho, ainda que esta escolha obrigue a conviver com o risco, o custo, da imoralidade e legalidade.
 
 Não bastasse sobrar menos renda para aqueles que possuem menor formação, o índice de Gini representa uma maior distância entre os que mais recebem parcelas da renda anual do país, e os que menos recebem  parcelas da renda anual do país, o que pode representar uma medida de maior "inveja", entre aqueles que recebem muito menos, invejando aqueles que recebem muito mais, da renda anual do país, em países com índice de Gini insatisfatórios em relação à média mundial. 
 
@@ -226,7 +234,7 @@ Neste momento, de maneira ainda mais forte, entra a matemática, a pesquisa, que
 
 Lembro, apenas, que o livro [Não Matarás, de Glaucio Ary Dillon Soares](https://books.google.com.br/books?id=otecVQwCbuYC) analisou grande parte das pesquisas e gráficos existentes, sem conseguir estabelecer regras muito simples que relacionem, definitivamente, o fator que é responsável pela violência.
 
-Da mesma maneira, um professor da Universidade Federal do Rio Grande do Sul, com quem tive a honra de colaborar, obteve de alunos de pós graduação várias tentativas de correlação de fatores diversos com a violência. Ficou marcada a relação entre a pobreza e a violência, pobreza esta identificada por várias maneiras de medir. Ainda assim, não sobressaiu um fator único. Nem mesmo o investimento em segurança pública se correlacionou com redução de homicídios, como apontou um dos trabalhos feitos por um dos grupos de alunos (ou seja, investir mais em segurança não diminuiu, nem aumentou, o crime). Ao menos nos estudos preliminares efetuados.
+Da mesma maneira, um professor da Pós-graduação em Administração da Universidade Federal do Rio Grande do Sul, com quem tive a honra de colaborar, obteve de alunos da pós-graduação várias tentativas de correlação de fatores diversos com a violência. Ficou marcada a relação entre a pobreza e a violência, pobreza esta identificada por várias maneiras de medir. Ainda assim, não sobressaiu um fator único. Nem mesmo o investimento em segurança pública se correlacionou com redução de homicídios, como apontou um dos trabalhos feitos por um dos grupos de alunos (ou seja, investir mais em segurança não diminuiu, nem aumentou, o crime). Ao menos nos estudos preliminares efetuados.
 
 Quando tudo fica esfumaçado e complexo, por que não voltarmos ao solo firme, claro, iluminado?
 
