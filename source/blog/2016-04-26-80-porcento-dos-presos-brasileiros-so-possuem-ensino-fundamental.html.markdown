@@ -67,6 +67,25 @@ Será que podemos navegar um pouco mais sobre estes questionamentos?
 
 > Uma bifurcação que vem se impondo em algumas vidas sem diploma. Escolher entre o crime ou o trabalho.
 
+Este dilema é mil vezes cantado, pois não é sem dor que é enfrentado.
+
+> "Trabalhador brasileiro é tratado que nem lixo
+> (...)
+> Pegar numa arma é isso que cê quer?
+> O mal progredido e o bem de marcha-ré"
+> <cite>[Demorô/Criolo](https://www.vagalume.com.br/criolo/demoro.html)</cite>
+
+É "esquema tático" - a "merda da sobrevivência" - a escolha do crime, novamente cantado:
+
+> "Porque o sonho de vários na quebrada é abrir um boteco
+> Ser empresário não dá, estudar nem pensar
+> Tem que trampar ou ripar para os irmãos sustentar
+> Ser criminoso aqui é bem mais prático
+> Rápido, sádico, ou simplesmente esquema tático
+> Será instinto ou consciência
+> Viver entre o sonho e a merda da sobrevivência"
+> <cite>[A Vida é Desafio/Racionais Mc's](https://www.vagalume.com.br/racionais-mcs/a-vida-e-desafio.html)</cite>
+
 Esta bifurcação na vida, escolher entre o crime ou o trabalho, para quem possui apenas o nível de estudo fundamental, levaria em consideração tanto a facilidade de entrar na criminalidade, quanto a baixa atratividade do mercado de trabalho que exige apenas ensino fundamental.
 
 A facilidade de entrar na criminalidade é favorecida ou desfavorecida por aspectos como:
