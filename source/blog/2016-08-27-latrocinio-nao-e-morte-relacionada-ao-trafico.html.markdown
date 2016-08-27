@@ -102,10 +102,10 @@ Cultura compreensível.
 Latrocínio - roubo seguido de assassinato - a sociedade e imprensa não deixam passar impune, e estão batalhando por melhorias, com urgência. Estão com balões na frente da casa do governador em Porto Alegre. Bomba facebook, bomba. Não podem os governadores das Porto Alegres do Brasil ficarem parados.
 
 <figure data-mode="aspect-fit">
-  <img src="/images/blog/prof-reporter/dom-bosco.jpg"  width="100%" height="auto"/>
+  <img src="/images/blog/prof-reporter/dom-bosco2.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1></h1>
-  	<cite><a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/08/decretada-prisao-de-suspeitos-da-morte-de-mae-na-frente-da-filha-no-rs.html">Suspeitos presos rapidamente</a></cite>
+  	<cite><a href="http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2016/08/26/assassinato-de-mulher-que-ia-buscar-filho-em-porto-alegre-gera-crise-no-rs.htm">Suspeitos presos rapidamente</a></cite>
   </figcaption>
 </figure>
 
