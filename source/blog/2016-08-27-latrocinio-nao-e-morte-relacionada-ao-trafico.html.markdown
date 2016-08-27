@@ -105,7 +105,7 @@ Latrocínio - roubo seguido de assassinato - a sociedade e imprensa não deixam 
   <img src="/images/blog/prof-reporter/dom-bosco.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1></h1>
-  	<cite><a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/08/hospital-de-porto-alegre-suspende-atendimento-apos-morte-de-medica.html">Imprensa interrompe suas notícias habituais</a></cite>
+  	<cite><a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/08/decretada-prisao-de-suspeitos-da-morte-de-mae-na-frente-da-filha-no-rs.html">Suspeitos presos rapidamente</a></cite>
   </figcaption>
 </figure>
 
