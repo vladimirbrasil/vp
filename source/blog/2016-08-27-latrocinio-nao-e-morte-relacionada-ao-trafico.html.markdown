@@ -14,17 +14,20 @@ O latrocínio - roubo seguido de assassinato - é combatido fortemente por toda 
 
 A população está na frente do prédio do governador em Porto Alegre hoje, quando ocorreu o segundo latrocínio - roubo seguido de assassinato - em menos de um mês. A imprensa está em cima. 
 
-O tempo não retrocede, mas a população fica indignada. 
+O tempo não retrocede. A população fica indignada. 
 
 Assassinatos puros e simples - sem roubo antes - costumam receber um carimbo do "motivo porque ocorreu", ao invés de receber forte indignação.
 
-"A morte é relacionada ao tráfico".
+> "A morte é relacionada ao tráfico".
+>
+> <cite>É das frases mais ditas pelas polícias</cite>
+
 
 Esta das mais ditas dentre todas as mais ditas conclusões policiais, se como imagem/vídeo de fundo tiver uma vítima com dentes mal cuidados - dentes e calos dizem muito -, formam um par que tipicamente enxagua com água fria qualquer faísca de mobilização da imprensa ou de mobilização na frente da casa do governador, mesmo que os assassinatos puros e simples - sem roubo prévio - aconteçam mais de uma vez no mesmo mês ou na mesma semana, na mesma cidade.
 
 Tanto é assim que assassinatos puros e simples, sem roubo prévio, acontecem todos os dias, na verdade (como relata, humildemente, impossível de calar, como um robô imparável, matemático, eterno contador, este site/mapa da segurança. Já olhou nossa página principal? Sei, não tem tempo. Sem problemas). 
 
-> Assassinatos puros e simples no Brasil vitimam a mesma quantidade de pessoas que o terremoto em Amatrice, na Itália - porém todos os dias - e não por eventos geológicos: um grande terremoto, todo dia no Brasil, "6.2 na escala Richter",  com epicentro no miolo do coração das mães. Com tremores que se espalham esvaziando o pulmão em suspiro, quando a notícia atravessa sua consciência e capacidade de discernimento pela primeira vez, e depois, sempre, como uma maquinaria suiça precisa, ao rememorar os fatos, mesmo várias décadas depois - pulmão vazio, chora! "é isso mesmo", "me belisca", "quero ir junto" - chora!. 155 mães por dia, todo dia, no Brasil. Muitas vezes mais frequente do que a modalidade latrocínio (assassinato com roubo antes). 
+> Assassinatos puros e simples no Brasil vitimam a mesma quantidade de pessoas que o terremoto em Amatrice, na Itália - porém todos os dias - e não por eventos geológicos: um grande terremoto, todo dia no Brasil, "6.2 na escala Richter",  com epicentro no miolo do coração das mães. Com tremores que se espalham esvaziando o pulmão em suspiro, quando a notícia atravessa sua consciência e capacidade de discernimento pela primeira vez, e depois, sempre, como uma maquinaria suiça precisa, ao rememorar os fatos, mesmo várias décadas depois - pulmão vazio, chora! "é isso mesmo", "me belisca", "quero ir junto" - chora! 155 mães por dia, todo dia, no Brasil. Muito mais frequente do que a modalidade latrocínio (assassinato com roubo antes). 
 
 <figure data-mode="aspect-fit">
   <img src="/images/blog/prof-reporter/0063.jpg"  width="100%" height="auto"/>
