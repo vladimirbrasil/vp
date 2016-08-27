@@ -185,13 +185,13 @@ Por exemplo: se for possível conseguir exame residuográfico positivo em 80% do
 40% de 60 mil são 24 mil.
 24 mil exames residuográficos de pólvora facilitarão a vida do juiz - um alívio na hora de condenar. 30 mil kits por ano (50%) poderão ser necessários para o Brasil. Teremos kits suficientes? É possível gerir segurança pública assim. Em cada estado, adaptar o valor.
 
-Dois problemas estão implícitos nesta constatação, e devem ser revelado:
+Dois problemas estão implícitos nesta constatação, e devem ser revelados:
 
 ### Logística
 
 É preciso estar no local do crime poucas horas após o crime. 
 
-Este um problema de logística. Se o Correios consegue entregar encomendas até às 10h do dia seguinte entre pontos com milhares de quilômetros de distância no país, não vamos “elucubrar” (perdoe o termo!) demais este tema e vamos, sim, colocar quem for necessário poucas horas após o fato, em pelo menos 80% dos casos. Já estamos dando uma tolerância de 20% de falhas, que o Correios não possui, neste ano inicial da eficiência na gestão.
+Este um problema de logística. Se o Correios consegue entregar encomendas até às 10h do dia seguinte entre pontos com milhares de quilômetros de distância no país, não vamos “elucubrar” (perdoe o termo!) demais este tema e vamos, sim, colocar quem for necessário poucas horas após o fato, em pelo menos 80% dos casos de assassinato. Há somente 1 assassinato para cada cem outros crimes, então essa priorização é possível apenas remanejando policiais de outros crimes. (Claro: que governador vai autorizar isso? Nenhum: dentes tortos e calejados não dão votos. Mas isso é assunto para o artigo ['Terra de Ninguém'](http://mapadaseguranca.com/blog/2016/06/11/terra-de-ninguem.html)) Ao desejar estar em apenas 80% dos locais de assassinato, rapidamente, já estamos dando uma tolerância de 20% de falhas, que o Correios não possui, neste ano inicial da eficiência na gestão (Claro que se as polícias militares pudessem investigar talvez houvesse mais continuidade no processo de "chegar logo" & "investigar logo". Assunto para outros artigos. Futrique no blog se tiver tal energia).
 
 ### Depoimentos
 
