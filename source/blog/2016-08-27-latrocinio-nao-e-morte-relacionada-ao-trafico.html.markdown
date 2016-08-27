@@ -8,9 +8,43 @@ author: vla
 
 Latrocínio é uma palavra feia que significa: roubo seguido de assassinato. 
 
-O latrocínio - roubo seguido de assassinato - é mais raro do que o evento assassinato puro e simples.
+O latrocínio - roubo seguido de assassinato - é mais raro do que o evento assassinato puro e simples. Não acreditem, contem: a cada um latrocínio - roubo seguido de assassinato - que aconteceu no Rio Grande do Sul, ocorreram mais de 20 assassinatos puros e simples: vinte vezes mais assassinatos do que latrocínios, em 2014 (fonte: [tabelas 'TB1' e 'TB2' da planilha em excel disponibilizada pelo Fórum Brasileiro de Segurança Pública. Compare a linha Rio Grande do Sul, ou de qualquer Estado](http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica)).  
 
-O latrocínio - roubo seguido de assassinato - é combatido fortemente por toda a população, em todas as cidades brasileiras. 
+<table style="width:100%">
+  <tr>
+    <th>Região</th>
+    <th>Latrocínios</th> 
+    <th>Assassinatos</th>
+  </tr>
+  <tr>
+    <td>Rio Grande do Sul</td>
+    <td>1,3</td> 
+    <td>20,9</td>
+  </tr>
+  <tr>
+    <td>Rio de Janeiro</td>
+    <td>0,9</td> 
+    <td>30,0</td>
+  </tr>
+  <tr>
+    <td>Ceará</td>
+    <td>0,8</td> 
+    <td>48,6</td>
+  </tr>
+  <tr>
+    <td>Brasil</td>
+    <td>1,0</td> 
+    <td>26,3</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td> 
+    <td>...</td>
+  </tr>
+</table>
+[Latrocínios e assassinatos em 2014 no Brasil](http://www.forumseguranca.org.br/produtos/anuario-brasileiro-de-seguranca-publica/9o-anuario-brasileiro-de-seguranca-publica)
+
+Mesmo sendo menos frequente do que o assassinato puro e simples, o latrocínio - roubo seguido de assassinato - é combatido fortemente por toda a população, em todas as cidades brasileiras. 
 
 A população está na frente do prédio do governador em Porto Alegre hoje, quando ocorreu o segundo latrocínio - roubo seguido de assassinato - em menos de um mês. A imprensa está em cima. 
 
@@ -68,7 +102,7 @@ Cultura compreensível.
 Latrocínio - roubo seguido de assassinato - a sociedade e imprensa não deixam passar impune, e estão batalhando por melhorias, com urgência. Estão com balões na frente da casa do governador em Porto Alegre. Bomba facebook, bomba. Não podem os governadores das Porto Alegres do Brasil ficarem parados.
 
 <figure data-mode="aspect-fit">
-  <img src="/images/blog/prof-reporter/medica.png"  width="100%" height="auto"/>
+  <img src="/images/blog/prof-reporter/dom-bosco.jpg"  width="100%" height="auto"/>
   <figcaption>
   	<h1></h1>
   	<cite><a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/08/hospital-de-porto-alegre-suspende-atendimento-apos-morte-de-medica.html">Imprensa interrompe suas notícias habituais</a></cite>
