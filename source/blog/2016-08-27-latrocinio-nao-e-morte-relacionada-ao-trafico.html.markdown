@@ -99,7 +99,7 @@ Assassinato puro e simples dos de "dentes sujos" cuja morte "é relacionada ao t
 
 Cultura compreensível.
 
-Latrocínio - roubo seguido de assassinato - a sociedade e imprensa não deixam passar impune, e estão batalhando por melhorias, com urgência. Estão com balões na frente da casa do governador em Porto Alegre. Bomba facebook, bomba. Não podem os governadores das Porto Alegres do Brasil ficarem parados.
+Latrocínio - roubo seguido de assassinato - a sociedade e imprensa não deixam passar impune, e estão batalhando por melhorias, com urgência. Estão com balões na frente da casa do governador em Porto Alegre. Bomba facebook, bomba. Não podem os governadores dentro das Porto Alegres do Brasil ficarem parados.
 
 <figure data-mode="aspect-fit">
   <img src="/images/blog/prof-reporter/dom-bosco2.jpg"  width="100%" height="auto"/>
