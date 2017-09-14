@@ -1,0 +1,17 @@
+{
+  "header":
+  {
+      "crime": "homicidio",
+      "tipo_regiao": "tribo",
+      "fonte": "Pinker, Steven. “The Pacification Process.” The Better Angels of Our Nature: a History of Violence and Humanity, Penguin Books, 2012.",
+      "url": "#",
+      "ano": 2012
+  },
+  "stats":
+  [
+      ["Tribo. Kato, California, 1840", 1400],
+      ["Tribo. Fiji, 1860", 800],
+      ["Tribo. Yanomamis, 1938-1958", 250],
+      ["Média de 27 tribos", 524]
+  ]
+}    

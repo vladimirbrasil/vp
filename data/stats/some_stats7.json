@@ -1,0 +1,17 @@
+{
+  "header":
+  {
+      "crime": "homicidio",
+      "tipo_regiao": "epoca",
+      "fonte": "Pinker, Steven. “The Pacification Process.” The Better Angels of Our Nature: a History of Violence and Humanity, Penguin Books, 2012.",
+      "url": "#",
+      "ano": 2012
+  },
+  "stats":
+  [
+      ["Império Azteca, 1419-1519", 250],
+      ["França em suas maiores guerras (século XIX)", 70],
+      ["Russia na época das duas guerras mundiais", 135],
+      ["Alemanha na época das duas guerras mundiais", 144]
+  ]
+}    
