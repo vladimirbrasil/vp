@@ -108,7 +108,7 @@ module CustomHelpers
       @url = args[:url]
       @ano = args[:ano]
       @regiao = args[:regiao]
-      @regiao_img = I18n.transliterate( args[:regiao].gsub(/\s|\//, "-").downcase )                # "hello".gsub(/[aeiou]/, '*') #=> "h*ll*"
+      @regiao_img = I18n.transliterate( args[:regiao].gsub(/\s|\(|\)|\,|\.|\//, "-").gsub(/\-+/, "-").downcase )                # "hello".gsub(/[aeiou]/, '*') #=> "h*ll*"
       @da_regiao = "#{utils.preposicao_de( regiao )} #{regiao}"
       @na_regiao = "#{utils.preposicao_em( regiao )} #{regiao}"
       @taxa_cem_mil = args[:taxa_cem_mil]
